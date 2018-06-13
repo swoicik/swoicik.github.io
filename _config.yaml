@@ -1,8 +1,8 @@
 # Site settings
-title:          CYOD
-description:    "Personalized Learning, Personalized Technology"
-baseurl:        "/cyod"
-url:            "https://swoicik.github.io/cyod/"
+title:          stephen
+description:    "organized chaos"
+baseurl:        "/"
+url:            "https://swoicik.github.io/"
 
 # Author
 author:
