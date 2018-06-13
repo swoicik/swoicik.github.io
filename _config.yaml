@@ -1,0 +1,26 @@
+# Site settings
+title:          CYOD
+description:    "Personalized Learning, Personalized Technology"
+baseurl:        "/cyod"
+url:            "https://swoicik.github.io/cyod/"
+
+# Author
+author:
+  name:         swoicik
+  url:          https://swoicik.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year/:title
+paginate:       10

@@ -1,0 +1,35 @@
+0000000000000000000000000000000000000000 850894583ef26ce67cc135666f41aa9049b1b713 unknown <unknown> 1526469084 -0400	clone: from git@github.com:swoicik/cyod.git
+850894583ef26ce67cc135666f41aa9049b1b713 954d3d1096816d8113d14f81cad5116c7ea19a2f Stephen <swoicik@users.noreply.github.com> 1526469293 -0400	commit: Updated README.md
+954d3d1096816d8113d14f81cad5116c7ea19a2f 4afa0cf547ac9eae8f81f4128ec8d86799ac3be3 Stephen <swoicik@users.noreply.github.com> 1526469310 -0400	checkout: moving from master to gh-pages
+4afa0cf547ac9eae8f81f4128ec8d86799ac3be3 5cd95632ff07077f2dee268e4113a31d145966b6 Stephen <swoicik@users.noreply.github.com> 1526470733 -0400	commit: updated about.md
+5cd95632ff07077f2dee268e4113a31d145966b6 8e5b228af8a1620e58bb1761da6c918d9cde4055 Stephen <swoicik@users.noreply.github.com> 1526470936 -0400	commit: fixed broken links
+8e5b228af8a1620e58bb1761da6c918d9cde4055 055164416b8f598b29ddbab5a0c70840f171bbdd Stephen <swoicik@users.noreply.github.com> 1526471483 -0400	commit: updated The Book section
+055164416b8f598b29ddbab5a0c70840f171bbdd 597835875af14065fbf0f7cb570b5277561e0ac5 Stephen <swoicik@users.noreply.github.com> 1526471540 -0400	commit: type fixes
+597835875af14065fbf0f7cb570b5277561e0ac5 116bc1205ff96ffc4f051e956d855e04a1cbb138 Stephen <swoicik@users.noreply.github.com> 1526471752 -0400	commit: updated Why A Book content
+116bc1205ff96ffc4f051e956d855e04a1cbb138 ea0733bbc7f5ed4691dfab59ade446b2024037cc Stephen <swoicik@users.noreply.github.com> 1526472150 -0400	commit: added Why Public content
+ea0733bbc7f5ed4691dfab59ade446b2024037cc b892ef0b56995a91fcac6831c067f862e18aa02e Stephen <swoicik@users.noreply.github.com> 1526496824 -0400	fast-forward
+b892ef0b56995a91fcac6831c067f862e18aa02e ab0223d6fa0fe1c6f6b201013690bbd079f58e5a Stephen <swoicik@users.noreply.github.com> 1526496936 -0400	commit: added gumroad embed
+ab0223d6fa0fe1c6f6b201013690bbd079f58e5a eb2ddac9502ca4f87a6b052962b838b9873c9485 Stephen <swoicik@users.noreply.github.com> 1526497050 -0400	commit: updated gumroad embed
+eb2ddac9502ca4f87a6b052962b838b9873c9485 c581e0f3831840288cc7ba31f24e7df7317b0314 Stephen <swoicik@users.noreply.github.com> 1526497492 -0400	commit: updated about page
+c581e0f3831840288cc7ba31f24e7df7317b0314 3f0272370adac2132db461c805c5c5c0f3b2747e Stephen <swoicik@users.noreply.github.com> 1526497698 -0400	commit: updated contribute and post.scss
+3f0272370adac2132db461c805c5c5c0f3b2747e 9cb1d5c1646965ac2741b314fd1db00046417b57 Stephen <swoicik@users.noreply.github.com> 1526498033 -0400	commit: updated about.md
+9cb1d5c1646965ac2741b314fd1db00046417b57 8bee3e55f5c0524414b079ead81491d6a87c195b Stephen <swoicik@users.noreply.github.com> 1526652061 -0400	fast-forward
+8bee3e55f5c0524414b079ead81491d6a87c195b 02f0499193e97731486ea0d210f840bf01ccd06a Stephen <swoicik@users.noreply.github.com> 1527793643 -0400	fast-forward
+02f0499193e97731486ea0d210f840bf01ccd06a 954d3d1096816d8113d14f81cad5116c7ea19a2f Stephen <swoicik@users.noreply.github.com> 1527793650 -0400	checkout: moving from gh-pages to master
+954d3d1096816d8113d14f81cad5116c7ea19a2f 7785902d6daf838faadc7b116eccf4d550143142 Stephen <swoicik@users.noreply.github.com> 1527793684 -0400	fast-forward
+7785902d6daf838faadc7b116eccf4d550143142 02f0499193e97731486ea0d210f840bf01ccd06a Stephen <swoicik@users.noreply.github.com> 1528122193 -0400	checkout: moving from master to gh-pages
+02f0499193e97731486ea0d210f840bf01ccd06a 3cacc741c45407beae685978f30b935f4ea89afb Stephen <swoicik@users.noreply.github.com> 1528122671 -0400	commit: updated home.html
+3cacc741c45407beae685978f30b935f4ea89afb 72d298830e71c2a235316181d457409805246c88 Stephen <swoicik@users.noreply.github.com> 1528122678 -0400	commit (merge): Merge branch 'gh-pages' of git@github.com:swoicik/cyod.git
+72d298830e71c2a235316181d457409805246c88 f0498b6fb2f1858591e8d39c1bf24d18c721b22b Stephen <swoicik@users.noreply.github.com> 1528122762 -0400	commit: updated home.html
+f0498b6fb2f1858591e8d39c1bf24d18c721b22b 5033f78f3adce6568750eac7d597cb4e63aadc3e Stephen <swoicik@users.noreply.github.com> 1528122843 -0400	commit: update home.html
+5033f78f3adce6568750eac7d597cb4e63aadc3e 7785902d6daf838faadc7b116eccf4d550143142 Stephen <swoicik@users.noreply.github.com> 1528287477 -0400	checkout: moving from gh-pages to master
+7785902d6daf838faadc7b116eccf4d550143142 5033f78f3adce6568750eac7d597cb4e63aadc3e Stephen <swoicik@users.noreply.github.com> 1528287493 -0400	checkout: moving from master to gh-pages
+5033f78f3adce6568750eac7d597cb4e63aadc3e 7785902d6daf838faadc7b116eccf4d550143142 Stephen <swoicik@users.noreply.github.com> 1528287495 -0400	checkout: moving from gh-pages to master
+7785902d6daf838faadc7b116eccf4d550143142 9e1e23e68d1f27bfad6cb536f6cc0f8ad4ef70e5 Stephen <swoicik@users.noreply.github.com> 1528287773 -0400	commit: created outline.md
+9e1e23e68d1f27bfad6cb536f6cc0f8ad4ef70e5 ba1c94e383d4b06d66b3fad7096449077441ca83 Stephen <swoicik@users.noreply.github.com> 1528307679 -0400	commit: created project overview.md
+ba1c94e383d4b06d66b3fad7096449077441ca83 cd86ffa0cc14dff73d15a056963ad7aded2df751 Stephen <swoicik@users.noreply.github.com> 1528308368 -0400	commit: created sections
+cd86ffa0cc14dff73d15a056963ad7aded2df751 5033f78f3adce6568750eac7d597cb4e63aadc3e Stephen <swoicik@users.noreply.github.com> 1528308451 -0400	checkout: moving from master to gh-pages
+5033f78f3adce6568750eac7d597cb4e63aadc3e f8ecc4f37a71cc8a0a5d7b23e1e06a94d844e57e Stephen <swoicik@users.noreply.github.com> 1528309618 -0400	commit: published Hello World post
+f8ecc4f37a71cc8a0a5d7b23e1e06a94d844e57e 74885156ca600f149a39483adbb29f1178f402b3 Stephen <swoicik@users.noreply.github.com> 1528309635 -0400	commit: deleted filler content
+74885156ca600f149a39483adbb29f1178f402b3 634228a534a85eda0cbe15cbadcced7312bd33c3 Stephen <swoicik@users.noreply.github.com> 1528309702 -0400	commit: fixed GitHub link
+634228a534a85eda0cbe15cbadcced7312bd33c3 43275ecb22e890f91bf1c32aca67982b8efb98fc Stephen <swoicik@users.noreply.github.com> 1528722489 -0400	fast-forward
