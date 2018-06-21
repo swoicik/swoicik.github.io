@@ -20,6 +20,6 @@ This <a href="https://swoicik.github.io/cyod">site</a>, and subsequent writing 
 
 I was inspired to write a book in this way after reading many other great books on GitHub.
 
-The actual content of the book will be on <a href="https://github.com/swoicik/cyod">GitHub</a>. The updates about the writing will be on <a href="https://cyod.xyz" target="_blank" rel="noopener">CYOD.xyz</a> and swoicik.com
+The actual content of the book will be on <a href="https://github.com/swoicik/cyod">GitHub</a>. The updates about the writing will be on <a href="https://cyod.xyz" target="_blank" rel="noopener">CYOD.xyz</a> and <a href="https://swoicik.com/category/cyod/">swoicik.com</a>.
 
 Check back for more…
