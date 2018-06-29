@@ -1,13 +1,7 @@
 ---
-ID: 3820
 post_title: Microsoft Acquires GitHub
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/microsoft-acquires-github/
-published: true
-post_date: 2018-06-12 17:35:47
 ---
 Microsoft's acquisition of GitHub has caused a large reaction from the developer community. Some think it's terrible, some think it's good. My opinion is, it doesn't matter.<span class="Apple-converted-space"> </span>
 
