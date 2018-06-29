@@ -1,12 +1,7 @@
 ---
-ID: 3825
 post_title: Writing A Book
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: /2018/writing-a-book/
-published: true
-post_date: 2018-06-21 17:33:54
 ---
 This is a cross post from <a href="http://cyod.xyz" target="_blank" rel="noopener">CYOD.xyz</a> and the first post for a new project.
 
