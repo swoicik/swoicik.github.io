@@ -4,7 +4,7 @@ post_title: Writing A Book
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2018/writing-a-book/
+permalink: /2018/writing-a-book/
 published: true
 post_date: 2018-06-21 17:33:54
 ---
