@@ -5,7 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  https://swoicik.com/2018/school-committee-cyod-introduction/
+  https://swoicik.github.io/2018/school-committee-cyod-introduction/
 published: true
 post_date: 2018-06-29 00:13:06
 ---
