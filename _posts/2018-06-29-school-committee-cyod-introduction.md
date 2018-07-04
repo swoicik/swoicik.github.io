@@ -1,8 +1,11 @@
 ---
+title: School Committee Cyod Introduction
+date: 2018-06-29 00:00:00 Z
 post_title: School Committee CYOD Introduction
 author: stephen
 layout: post
 ---
+
 Receltny I spoke before the Maynard, MA School Committee to introduct the CYOD program. The program will be starting as a pilot for the incoming 5th grade class. The introduction starts at the 15 minute mark. The video gives a good overview of what the program is, its benefits, and how it will be implemetns in a real world K12 environment. At the end, I also answer questions from the community about the program. 
 
 

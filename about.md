@@ -1,7 +1,7 @@
 ---
+title: About
+permalink: "/about/"
 layout: post
-title: "About"
-permalink: /about/
 ---
 
 **I am [swoicik](https://swoicik.com), and this is my first attempt at writing a book.** I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on [GitHub](https://github.com/swoicik/cyod) or check back to this site for updates. 

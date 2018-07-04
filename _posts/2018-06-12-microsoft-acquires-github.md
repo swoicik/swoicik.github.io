@@ -1,8 +1,11 @@
 ---
+title: Microsoft Acquires Github
+date: 2018-06-12 00:00:00 Z
 post_title: Microsoft Acquires GitHub
 author: stephen
 layout: post
 ---
+
 Microsoft's acquisition of GitHub has caused a large reaction from the developer community. Some think it's terrible, some think it's good. My opinion is, it doesn't matter.<span class="Apple-converted-space"> </span>
 
 The main complaint from developers, mostly from the open source community, is Microsoft's troubled past with Linux and open source projects (putting it nicely). Microsoft has openly attacked Linux in the past and tries to stop open source project. They have acted very unethical and possibly hostile to software projects that compete with them. Many open source developers now don't want to to trust their code to a platform controlled by Microsoft. It's an understandable criticism.<span class="Apple-converted-space"> </span>

@@ -1,8 +1,11 @@
 ---
+title: Writing A Book
+date: 2018-06-21 00:00:00 Z
 post_title: Writing A Book
 author: stephen
 layout: post
 ---
+
 This is a cross post from <a href="http://cyod.xyz" target="_blank" rel="noopener">CYOD.xyz</a> and the first post for a new project.
 
 I am writing a book, and I am documenting the process of writing the book.
