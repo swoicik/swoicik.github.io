@@ -8,30 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-
-# Site settings
-description:    "organized chaos"
-baseurl:        "/"
-url:            "https://swoicik.github.io/"
-
-# Author
+description: organized chaos
+baseurl: "/"
+url: https://swoicik.github.io/
 author:
-  name:         swoicik
-  url:          https://swoicik.com
-
-# Build settings
-markdown:       kramdown
-
-# Assets
+  name: swoicik
+  url: https://swoicik.com
+markdown: kramdown
 sass:
-  sass_dir:     _sass
-  style:        compressed
-
-# Gems
+  sass_dir: _sass
+  style: compressed
 plugins:
-  - jekyll-paginate
-
-# Permalinks
-permalink:      /:year/:title
-paginate:       10
+- jekyll-paginate
+permalink: "/:year/:title"
+paginate: 10
