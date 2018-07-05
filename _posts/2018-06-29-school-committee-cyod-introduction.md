@@ -1,6 +1,14 @@
 ---
-title: School Committee Cyod Introduction
+title: School Committee CYOD Introduction
 date: 2018-06-28 20:00:00 -04:00
+categories:
+- CYOD
+tags:
+- edtech
+- education
+- cyod
+- book
+- writing
 post_title: School Committee CYOD Introduction
 author: stephen
 layout: post
