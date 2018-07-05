@@ -1,9 +1,9 @@
 ---
 title: Apple’s Closed Garden is a Problem In Education.
+date: 2018-05-03 13:36:20 -04:00
 author: stephen
-post_excerpt: ""
+post_excerpt: ''
 layout: post
-date: 2018-05-03 17:36:20
 ---
 
 Apple has a roll in educational technology since the first computers were introduced in the classroom. The Apple II, HyperStudio projects, the colorful iMac, the countless iPad 1:1 programs. Apple always had some of the (if not the) best products available for education. They are slipping in the education market though.
