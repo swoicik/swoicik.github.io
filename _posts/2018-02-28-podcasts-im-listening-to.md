@@ -1,10 +1,10 @@
 ---
 title: Podcasts I’m Listening To
+date: 2018-02-28 14:52:17 -05:00
 author: stephen
 layout: post
-published: true
-date: 2018-02-28 19:52:17
 ---
+
 Podcasts are having a resurgence in popularity, and I've found myself listening to them more and more. The quality, variety, and delivery has substantially improved. Currently I am using the <a href="https://www.shiftyjelly.com/pocketcasts/">Pocket Casts App</a> to listen to Podcasts on the go, and <a href="https://gpodder.github.io">gPodder</a> to listen on my desktop. I also use gPodder as an offline archive of episodes I find useful.
 
 Here is a list of what I'm listening to regularly now.
