@@ -1,6 +1,6 @@
 ---
 title: School Committee Cyod Introduction
-date: 2018-06-29 00:00:00 Z
+date: 2018-06-28 20:00:00 -04:00
 post_title: School Committee CYOD Introduction
 author: stephen
 layout: post
