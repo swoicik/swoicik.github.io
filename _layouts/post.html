@@ -15,11 +15,10 @@ layout: default
   {{ content }}
 
   <div>
-    {% for tag in post.tags %}
-        <p style="display:inline;"><data data-icon="ei-archive"></data>{{tags}}</p>
-    {% endfor %}
+      {% for category in post.categories %}
+        <p style="display:inline;"><data data-icon="ei-archive"></data>{{category}}</p>
+      {% endfor %}
   </div>
-        
 </div>
 
 <div class="pagination">
