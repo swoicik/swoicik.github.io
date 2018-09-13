@@ -1,7 +1,7 @@
 ---
 title: School Committee CYOD Introduction
 date: 2018-06-28 20:00:00 -04:00
-categories:
+category:
 - CYOD
 tags:
 - edtech

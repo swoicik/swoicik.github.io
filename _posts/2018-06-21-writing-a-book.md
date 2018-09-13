@@ -2,6 +2,8 @@
 title: Writing A Book
 date: 2018-06-21 00:00:00 Z
 post_title: Writing A Book
+category:
+- CYOD
 author: stephen
 layout: post
 ---
