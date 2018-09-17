@@ -2,14 +2,14 @@
 title: stephen
 timezone: America/New_York
 collections:
+  category:
+    title: Category
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  category:
-    title: Category
     output: true
 description: organized chaos
 baseurl: "/"
@@ -23,6 +23,5 @@ sass:
   style: compressed
 plugins:
 - jekyll-paginate
-permalink: "/:year/:title"
 permalink: "/:categories/:title/"
 paginate: 10
