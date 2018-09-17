@@ -15,6 +15,9 @@ post_date: 2018-05-31 16:59:49
 This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check the <a href="/category/cyod">CYOD Category</a> page for updates.
 
 If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.
+
+<hr />
+
 <h2 id="the-book" style="text-align: center;">The Book</h2>
 The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.
 
