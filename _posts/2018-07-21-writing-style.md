@@ -10,7 +10,7 @@ post_date: 2018-07-21 15:26:03
 ---
 What will the writing style be?
 
-After writing down all the random notes, ideas, and research I had for this book, I needed to find a way to organize it all. I began looking at education and non-fiction books that I read and enjoyed. Looking at the structure and organization of the books, I tried to find a good fit for this book.
+After writing down all the random notes, ideas, and research I had for <a href="/cyod">this book</a>, I needed to find a way to organize it all. I began looking at education and non-fiction books that I read and enjoyed. Looking at the structure and organization of the books, I tried to find a good fit for this book.
 
 Two of my favorite non-fiction books are <a href="https://basecamp.com/books/rework">REWORK</a> and <a href="https://basecamp.com/books/remote">REMOTE</a>. Both books by Jason Fried and David Heinemeier Hansson of <a href="https://basecamp.com/">Basecamp</a>. The books are not just full of good content, but the content is presented in a very understandable and digestible way.
 
