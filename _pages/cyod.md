@@ -44,6 +44,4 @@ Sharing this project with others is a great way to contribute. Share by word of 
 <h3 id="help-editing">Help Editing</h3>
 You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doen’st sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.
 <h3 id="buy-me-a-coffee">Buy Me a Coffee</h3>
-&nbsp;
-<a href="https://www.buymeacoffee.com/swoicik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-&nbsp;
+<a href="https://www.buymeacoffee.com/swoicik" target="_blank" rel="noopener"><img class="alignnone" style="height: auto !important; width: auto !important;" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" /></a>
