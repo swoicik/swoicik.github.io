@@ -23,6 +23,5 @@ sass:
   style: compressed
 plugins:
 - jekyll-paginate
-permalink: "/:year/:title"
 permalink: "/:categories/:title/"
 paginate: 10
