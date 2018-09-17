@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          stephen
+description:    "organized chaos"
+baseurl:        "/"
+url:            "https://swoicik.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         swoicik
+  url:          https://swoicik.com
 
 # Build settings
 markdown:       kramdown
@@ -25,5 +24,5 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:year/:title
 paginate:       5
