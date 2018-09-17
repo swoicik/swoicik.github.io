@@ -1,9 +1,9 @@
 ---
 title: Writing A Book
-date: 2018-06-21 00:00:00 Z
-post_title: Writing A Book
-category:
+date: 2018-06-20 20:00:00 -04:00
+categories:
 - CYOD
+post_title: Writing A Book
 author: stephen
 layout: post
 ---

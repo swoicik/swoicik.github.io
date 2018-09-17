@@ -1,0 +1,24 @@
+---
+title: stephen
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: organized chaos
+baseurl: "/"
+url: https://swoicik.github.io/
+author:
+  name: swoicik
+  url: https://swoicik.com
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+- jekyll-paginate
+permalink: "/:year/:title"
+paginate: 10
