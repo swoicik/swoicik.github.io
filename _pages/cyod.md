@@ -12,9 +12,7 @@ post_date: 2018-05-31 16:59:49
 ---
 <strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong>
 
-This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check back to this site for updates.
-
-If you want to contribute or support this project, please visit the <a href="http://cyod.xyz/contribute">contribute page</a> for ways to help.
+This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check the <a href="/category/cyod">CYOD Category</a> page for updates.
 
 If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.
 <h2 id="the-book" style="text-align: center;">The Book</h2>
