@@ -10,7 +10,7 @@ permalink: https://swoicik.com/cyod/
 published: true
 post_date: 2018-05-31 16:59:49
 ---
-<strong>I am writing a book on Educational Technology based around the CYOD (Choos Your Own Device) 1:1 Model.</strong>
+<strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong>
 
 This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check back to this site for updates.
 
@@ -42,6 +42,4 @@ There are lots of way to contribute and support this project. Any and all ways a
 <h3 id="spread-the-word">Spread the Word</h3>
 Sharing this project with others is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know (<a href="https://twitter.com/swoicik">@swoicik</a>).
 <h3 id="help-editing">Help Editing</h3>
-You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doen’st sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.
-<h3 id="buy-me-a-coffee">Buy Me a Coffee</h3>
-<a href="https://www.buymeacoffee.com/swoicik" target="_blank" rel="noopener"><img class="alignnone" style="height: auto !important; width: auto !important;" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" /></a>
+You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doesn't sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.
