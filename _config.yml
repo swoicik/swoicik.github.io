@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  category:
+    title: Category
+    output: true
 description: organized chaos
 baseurl: "/"
 url: https://swoicik.github.io/
@@ -21,4 +24,5 @@ sass:
 plugins:
 - jekyll-paginate
 permalink: "/:year/:title"
+permalink: "/:categories/:title/"
 paginate: 10
