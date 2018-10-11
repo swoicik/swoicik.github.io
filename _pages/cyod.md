@@ -44,3 +44,7 @@ There are lots of way to contribute and support this project. Any and all ways a
 Sharing this project with others is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know (<a href="https://twitter.com/swoicik">@swoicik</a>).
 <h3 id="help-editing">Help Editing</h3>
 You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doesn't sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.
+
+<h3>Buy Me A Coffee</h3>
+
+I have set up a <a href="https://www.buymeacoffee.com/swoicik">Buy Me A Coffee</a> page if you would like to contribute financially to this project. Any bit help. I am writing this book entirely in spare time outside of my normal work.
