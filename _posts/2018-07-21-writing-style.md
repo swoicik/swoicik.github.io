@@ -8,6 +8,12 @@ permalink: https://swoicik.com/2018/writing-style/
 published: true
 post_date: 2018-07-21 15:26:03
 ---
+<blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
+
+</blockquote>
+
+<hr>
+
 What will the writing style be?
 
 After writing down all the random notes, ideas, and research I had for <a href="/cyod">this book</a>, I needed to find a way to organize it all. I began looking at education and non-fiction books that I read and enjoyed. Looking at the structure and organization of the books, I tried to find a good fit for this book.
