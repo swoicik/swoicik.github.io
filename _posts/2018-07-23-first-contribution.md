@@ -16,3 +16,7 @@ The contribution was made anonymously through the <a href="https://buymeacoffee
 Thank you to whoever the anonymous contributor was. It’s certainly given some validation to this project.
 
 It is very encouraging to have someone actually put their money towards supporting a project like this. It’s even more surprising to get a contribution after not promoting this project outside of a few <a href="https://twitter.com/swoicik">tweets</a>.
+
+<hr>
+
+This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
