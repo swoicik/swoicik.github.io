@@ -13,5 +13,5 @@ Thank you for becoming a supporter of the projects I try to create. Most of the 
 
 [ms-note type="info"]Current Project: Self publishing a book about educational technology and personalized learning. You can learn more <a href="https://swoicik.com/cyod/">here</a>[/ms-note]
 
-To become a supporter, simply click on the sign up button and complete the resigtrstiom details.
+To become a supporter, simply click SIGNUP on the level you want and complete the resigtrstion details.
 [ms-membership-signup]
