@@ -1,11 +1,8 @@
 ---
-ID: 3843
 post_title: 'Social Media: An Ethical Stand'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/social-media-an-ethical-stand/
 published: true
 post_date: 2018-11-08 13:03:45
 ---
