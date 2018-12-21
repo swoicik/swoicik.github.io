@@ -5,7 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  https://woicik.rivikhosting.com/2018/cyod-table-of-contents/
+  http://woicik.rivikhosting.com/2018/cyod-table-of-contents/
 published: true
 post_date: 2018-10-11 12:37:19
 ---
