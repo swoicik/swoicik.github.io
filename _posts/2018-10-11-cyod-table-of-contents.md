@@ -5,7 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  https://swoicik.com/2018/cyod-table-of-contents/
+  https://woicik.rivikhosting.com/2018/cyod-table-of-contents/
 published: true
 post_date: 2018-10-11 12:37:19
 ---
@@ -14,170 +14,63 @@ I’ve collected notes, conducted research, and began writing this book (<a href
 
 The book will be divided into 5 main themes/sections with short chapters in each. The following outline show all the chapters I have so far, but not necessarily in order. Any input on the structure, order, or content would be greatly appreciated. Reach out on <a href="https://twitter.com/swoicik">Twitter</a> with any feedback.
 <ol>
- 	<li>Introduction to the book</li>
- 	<li>
+ 	<li>Introduction to the book
 <ol>
  	<li>Table of Contents</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Dedication</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Author Notes</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Introduction</li>
 </ol>
 </li>
- 	<li>Technology</li>
- 	<li>
+ 	<li>Technology
 <ol>
  	<li>What is CYOD</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>A Utility</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Bargain Devices</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>It Doesn't Have to Scale</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Not About the Device</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>A Fight for Control</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Percentages</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Refresh Cycle</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Systems over Hardware</li>
 </ol>
 </li>
- 	<li>Students</li>
- 	<li>
+ 	<li>Students
 <ol>
  	<li>Anywhere Not Everywhere</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Digital Citizenship</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Include Students</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Learning How to Learn</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Start Early</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Students at Home</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>The Projector</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>There Isn't One Style</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Working Offline</li>
 </ol>
 </li>
- 	<li>Teachers</li>
- 	<li>
+ 	<li>Teachers
 <ol>
  	<li>1:1 Does Not Equal Alway On</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>1:1 is for Everyone</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>20-60-20 Rule</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Step Forward Not A Replacements</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Not a Teaching Replacement</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Resourcefulness Over Resources</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>The Right Software</li>
 </ol>
 </li>
- 	<li>Conclusions</li>
- 	<li>
+ 	<li>Conclusions
 <ol>
  	<li>It's Never Done</li>
-</ol>
-</li>
- 	<li>
-<ol>
  	<li>Who Wrote This Book</li>
 </ol>
 </li>
-</ol>In addition to this outline, there are a few chapters that will be included, but haven't' found the right section to include them yet.
+</ol>
+In addition to this outline, there are a few chapters that will be included, but haven't' found the right section to include them yet.
 <ul>
  	<li>A Community Effort</li>
  	<li>Accessible Software</li>
  	<li>Creating the Right Conditions</li>
  	<li>Culture Matters</li>
-</ul>This isn’t the final versions, but it’s a good start. If you’d like to see the content or research for many of these chapter, head over to the <a href="https://github.com/swoicik/cyod">GitHub repository</a>.
+</ul>
+This isn’t the final versions, but it’s a good start. If you’d like to see the content or research for many of these chapter, head over to the <a href="https://github.com/swoicik/cyod">GitHub repository</a>.
