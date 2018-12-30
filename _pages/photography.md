@@ -12,4 +12,4 @@ I have long had a hobby of photography. I've been taking pictures for as long as
 
 Below is a small sample of pictures I've taken. If you wish to purchase any, a few prints are available on <a href="https://evrd.net" target="_blank" rel="noopener">EVRD.net.</a>
 
-Unlike most of the content on this site, these pictures are under copyright by me. If you wish to use them for personal or professional projects, please contact me.
+Unlike most of the content on this site, these pictures are under copyright. If you wish to use them for personal or professional projects, please contact me.
