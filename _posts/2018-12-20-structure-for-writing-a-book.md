@@ -4,8 +4,6 @@ post_title: Structure for Writing A Book
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  /2018/structure-for-writing-a-book/
 published: true
 post_date: 2018-12-20 18:28:08
 ---
