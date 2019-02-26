@@ -5,7 +5,7 @@ author: stephen
 post_excerpt: "Here is my first attempt at making a font.  Pretty basic handwritten font. Certainly looks like a child's handwriting, so the lined paper seemed fitting. Released under the creative commons licensing.  You're welcome to use and adapt the font, just share alike.  If you feel inclined, let me know when the font has been used in your work, not necessary though."
 layout: post
 permalink: >
-  http://woicik.rivikhosting.com/2010/marker-i-handwritten-font/
+  https://woicik.rivikhosting.com/2010/marker-i-handwritten-font/
 published: true
 post_date: 2010-09-29 08:26:35
 ---
