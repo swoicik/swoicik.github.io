@@ -6,10 +6,18 @@ post_title: >
 author: stephen
 post_excerpt: ""
 layout: page
-permalink: http://woicik.rivikhosting.com/cyod/
+permalink: https://woicik.rivikhosting.com/cyod/
 published: true
 post_date: 2018-05-31 16:59:49
 ---
+<!-- wp:paragraph -->
+<p>The book is now available for Pre-Order! Estimated delivery is August 30th. Click the button below to reserve your copy. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button {"align":"center"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://gumroad.com/l/CvEGu"><strong>Pre-Order Today</strong></a></div>
+<!-- /wp:button -->
+
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong></p>
 <p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check the <a href="/category/cyod">CYOD Category</a> page for updates.</p>
 <p>If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.</p>
