@@ -4,13 +4,19 @@
   width: 90%;
 }
 
-main,
 footer,
 .nav-container {
   display: block;
   margin: 0 auto;
   max-width: 800px;
-  width: 80%;
+  width: 90%;
+}
+
+main {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  width: 90%;
 }
 
 .nav {
