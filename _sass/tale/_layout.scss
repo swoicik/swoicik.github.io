@@ -22,6 +22,8 @@ main {
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
+  background: #faea39;
+  boarder-bottom: 2px solid #000;
 
   &-container {
     margin: 1rem auto;
