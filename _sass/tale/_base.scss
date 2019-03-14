@@ -36,13 +36,13 @@ h6 {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+  color: $default-color;
+  text-decoration: underline;
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
-  color: $grey-1;
+  border-left: .25rem solid $default-color;
+  color: $default-color;
   margin: .8rem 0;
   padding: .5rem 1rem;
 
