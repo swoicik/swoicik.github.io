@@ -8,7 +8,7 @@ permalink: /archive
   <h2>No post found</h2>
 {% endif %}
 
-<div class="catalogue">
+<ul class="catalogue">
   {% for post in site.posts %}
     {% unless post.next %}
       <h2>{{ post.date | date: '%Y' }}</h2>
@@ -20,7 +20,7 @@ permalink: /archive
       {% endif %}
     {% endunless %}
 
-    <div class="catalogue-title">
+    <li class="catalogue-title">
       {% if post.link %}
       <a href="{{ post.link }}">
       {% else %}
@@ -29,6 +29,6 @@ permalink: /archive
         {{ post.title }}
       </a>
       <!-- <time>{{ post.date | date: "%Y-%m-%d" }}</time> -->
-    </div>
+    </li>
   {% endfor %}
-</div>
+</ul>
