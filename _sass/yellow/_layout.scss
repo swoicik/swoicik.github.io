@@ -100,8 +100,10 @@ main {
 
 footer {
   font-family: $serif-secondary;
+  font-color: #fff;
   padding: 2rem 0;
   text-align: center;
+  backround: $default-color;
 
   span {
     color: $default-color;
