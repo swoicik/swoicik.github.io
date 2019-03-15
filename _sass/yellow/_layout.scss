@@ -29,6 +29,7 @@ main {
 
 .newsletter {
   background: #eaeaea;
+  padding: 25px;
 }
 
 .nav {
@@ -106,10 +107,9 @@ footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
   text-align: center;
-  background: $default-color;
 
   span {
-    color: #FFF /*$default-color*/;
+    color: $default-color;
     font-size: .8rem;
   }
 }
