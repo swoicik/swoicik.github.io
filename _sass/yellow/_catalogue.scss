@@ -39,7 +39,14 @@
   }
 }
 
-.archive li {
-  padding-left:15px;
+.archive {
+  
+  &-ul {
+    margin-left: 10px;
+  }
+  &-li {
+    padding-left: 0;
+    margin-left: 15px; 
+  }
 }
 
