@@ -6,6 +6,12 @@ layout: default
     <h1>Filed Under <small>#{{ page.tag }}</small></h1>
 
     {% for post in site.categories[page.tag] %}
-        {% include post_preview.html %}
+        {% if post.link %}
+      <a href="{{ post.link }}">
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+      {% endif %}
+        {{ post.title }}
+      </a>
     {% endfor %}
 </div>
