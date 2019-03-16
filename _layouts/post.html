@@ -26,15 +26,6 @@ layout: default
 
 </div>
 
-<div class="tags">
-    {% assign sortedCategories = page.categories | sort %}
-    {% for category in sortedCategories %}
-        <span class="tag">
-            <a href="/category/{{ category }}">#{{ category }}</a>
-        </span>
-    {% endfor %}
-</div>
-
 <div class="pagination">
   {% if page.next.url %}
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
