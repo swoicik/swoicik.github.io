@@ -26,3 +26,16 @@ plugins:
 # Permalinks
 permalink:      /:year/:title
 paginate:       5
+
+# Collections
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

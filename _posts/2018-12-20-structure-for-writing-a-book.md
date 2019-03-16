@@ -1,11 +1,13 @@
 ---
-ID: 3852
 post_title: Structure for Writing A Book
 author: stephen
-post_excerpt: ""
 layout: post
 published: true
 post_date: 2018-12-20 18:28:08
+
+categories: 
+    - "CYOD"
+    
 ---
 <blockquote>
 <p>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.</p>
