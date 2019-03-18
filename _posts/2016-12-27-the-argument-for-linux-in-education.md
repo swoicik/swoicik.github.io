@@ -4,8 +4,6 @@ post_title: The Argument for Linux in Education
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/the-argument-for-linux-in-education/
 published: true
 post_date: 2016-12-27 12:21:13
 ---

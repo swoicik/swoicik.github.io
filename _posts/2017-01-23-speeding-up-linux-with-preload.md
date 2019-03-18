@@ -4,8 +4,6 @@ post_title: Speeding Up Linux With Preload
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/speeding-up-linux-with-preload/
 published: true
 post_date: 2017-01-23 01:45:20
 ---

@@ -4,8 +4,6 @@ post_title: Thoughts On Biometric Authentication
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/thoughts-on-biometric-authentication/
 published: true
 post_date: 2017-05-09 16:03:15
 ---

@@ -4,8 +4,6 @@ post_title: Google Drive As A Digital Library
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/google-drive-as-a-digital-library/
 published: true
 post_date: 2017-05-17 07:16:05
 ---

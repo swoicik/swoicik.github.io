@@ -4,8 +4,6 @@ post_title: Education Fragmentation
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/education-fragmentation/
 published: true
 post_date: 2017-05-23 07:23:41
 ---

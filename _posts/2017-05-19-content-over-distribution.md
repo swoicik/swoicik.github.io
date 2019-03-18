@@ -4,8 +4,6 @@ post_title: Content Over Distribution
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/content-over-distribution/
 published: true
 post_date: 2017-05-19 07:21:33
 ---

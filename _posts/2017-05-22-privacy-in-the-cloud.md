@@ -4,8 +4,6 @@ post_title: Privacy In The Cloud
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/privacy-in-the-cloud/
 published: true
 post_date: 2017-05-22 07:22:41
 ---

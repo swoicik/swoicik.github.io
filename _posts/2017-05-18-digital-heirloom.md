@@ -4,8 +4,6 @@ post_title: Digital Heirloom
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/digital-heirloom/
 published: true
 post_date: 2017-05-18 07:17:51
 ---

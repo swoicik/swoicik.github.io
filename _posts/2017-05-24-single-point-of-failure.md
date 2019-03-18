@@ -4,8 +4,6 @@ post_title: Single Point of Failure
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/single-point-of-failure/
 published: true
 post_date: 2017-05-24 07:24:53
 ---

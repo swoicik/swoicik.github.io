@@ -4,8 +4,6 @@ post_title: Do You Need Social Media?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/do-you-need-social-media/
 published: true
 post_date: 2017-06-01 10:21:27
 ---

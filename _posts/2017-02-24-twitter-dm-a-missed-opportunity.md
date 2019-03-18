@@ -4,8 +4,6 @@ post_title: 'Twitter DM: A Missed Opportunity'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/twitter-dm-a-missed-opportunity/
 published: true
 post_date: 2017-02-24 17:53:26
 ---

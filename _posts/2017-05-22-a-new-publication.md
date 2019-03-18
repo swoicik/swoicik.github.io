@@ -4,8 +4,6 @@ post_title: A New Publication
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/a-new-publication/
 published: true
 post_date: 2017-05-22 08:11:51
 ---

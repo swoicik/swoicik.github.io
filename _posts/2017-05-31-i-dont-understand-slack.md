@@ -4,8 +4,6 @@ post_title: I Don’t Understand Slack
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/i-dont-understand-slack/
 published: true
 post_date: 2017-05-31 19:27:55
 ---

@@ -4,7 +4,6 @@ post_title: Android vs. iOS
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2017/android-vs-ios/
 published: true
 post_date: 2017-05-30 07:26:01
 ---

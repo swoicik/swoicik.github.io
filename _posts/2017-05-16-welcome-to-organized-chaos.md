@@ -4,8 +4,6 @@ post_title: Welcome to Organized Chaos
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/welcome-to-organized-chaos/
 published: true
 post_date: 2017-05-16 07:14:10
 ---
