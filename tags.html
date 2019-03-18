@@ -14,6 +14,7 @@ to the `site_tags` variable. -->
 <!-- Build the Page -->
 <h2>Archive</h2>
 <!-- List of all tags -->
+<h2>Posts By Category</h2>
 <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
@@ -25,6 +26,7 @@ to the `site_tags` variable. -->
 </ul>
 
 <!-- List of all years -->
+<h2>Posts By Year</h2>
 <ul class="tags">
   {% for post in site.posts %}
     {% unless post.next %}
@@ -39,6 +41,7 @@ to the `site_tags` variable. -->
   {% endfor %}
 </ul>
 
+<hr />
 <!-- Posts by Tag -->
 <div class="archive">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
