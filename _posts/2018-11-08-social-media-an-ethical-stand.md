@@ -1,10 +1,9 @@
 ---
-post_title: 'Social Media: An Ethical Stand'
+title: Social Media: An Ethical Stand
 author: stephen
-post_excerpt: ""
 layout: post
 published: true
-post_date: 2018-11-08 13:03:45
+post_date: 2018-11-08
 ---
 Businesses and companies have long taken ethical or moral stands. Sometimes it is because of the culture of the company, changes in society, a sense of giving back, or it's better for the bottom line. Whatever the reason, it's happen before.
 
