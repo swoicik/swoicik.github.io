@@ -1,13 +1,10 @@
 ---
-ID: 3704
-post_title: Noise Cancelling Improved
+title: Noise Cancelling Improved
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/noise-cancelling-improved/
 published: true
-post_date: 2017-10-06 19:06:26
+post_date: 2017-10-06
+tags: Idea
 ---
 This may exists already, it may not.
 
