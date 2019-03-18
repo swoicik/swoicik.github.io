@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: tags
 title: "Tag: CYOD"
 tag: CYOD
 ---
