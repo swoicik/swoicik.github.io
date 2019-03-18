@@ -1,7 +1,9 @@
 ---
 title: About
-layout: page
+layout: default
 permalink: /about/
 ---
+
+# About 
 
 Online extrovert, real-life introvert.
