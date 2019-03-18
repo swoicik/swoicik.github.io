@@ -26,4 +26,3 @@ plugins:
 # Permalinks
 permalink:      /:year/:title
 paginate:       8
-permalink:      /:categories/:title/
