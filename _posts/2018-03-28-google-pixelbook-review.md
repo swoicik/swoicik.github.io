@@ -1,9 +1,9 @@
 ---
 title: Google Pixelbook Review
-date: 2018-03-28 00:00:00 -04:00
+date: 2018-03-28
 author: stephen
-post_excerpt: ''
 layout: post
+tags: Google Review
 ---
 
 I have been using the <a href="https://store.google.com/us/product/google_pixelbook?hl=en-US" rel="nofollow">Google Pixelbook</a> as my primary computer for the past couple months. Here are my impressions so far.
