@@ -4,10 +4,8 @@ post_title: Power In the Process
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/power-in-the-process/
 published: true
-post_date: 2017-06-22 19:05:48
+post_date: 2017-06-22 
 ---
 The ability to make you successful lies in the process not the idea. Ideas are not unique. Ideas are not businesses. Ideas can't topple over competitors. The work that goes in behind the idea is what makes you successful.
 

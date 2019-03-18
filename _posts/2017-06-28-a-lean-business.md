@@ -4,10 +4,8 @@ post_title: A Lean Business
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/a-lean-business/
 published: true
-post_date: 2017-06-28 16:49:01
+post_date: 2017-06-28
 ---
 <blockquote>Is it possible to run a business with no monthly expenses?</blockquote>
 I'm not sure this is actually possible, and I understand how absurd the question is if you have a business that is growing or has employees. But it is a good thought exercise to do every so often with your business.

@@ -4,10 +4,8 @@ post_title: Do You Trust Information To Stay Online?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/do-you-trust-information-to-stay-online/
 published: true
-post_date: 2017-06-19 10:39:14
+post_date: 2017-06-19
 ---
 <p id="a86a" class="graf graf--p graf-after--h3">A folder on my desktop is named Resources. This folder is filled mostly with PDF print outs of websites. Whenever I find an interesting article, useful tutorial, or free resource, I make a PDF and save it. I don’t trust that the information will be on the website when I want to read it again, or that I’ll be able to find it.</p>
 <p id="0e7f" class="graf graf--p graf-after--p">When I read something in a book I want to remember, I highlight it. I have a physical copy. The actually book is sitting on my shelf, and my highlighter marking are in it. When I read something online I want to save, I have to save it to my computer. I don’t trust just bookmarking the site, or using some other cloud system to save the data.</p>
