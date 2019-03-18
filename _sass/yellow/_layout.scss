@@ -32,8 +32,15 @@ main {
 }
 
 .tags {
-  display: inline;
-  } 
+  
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    display: block;
+  }
+} 
 
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
