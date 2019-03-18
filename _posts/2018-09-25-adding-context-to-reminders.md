@@ -1,8 +1,6 @@
 ---
-ID: 3837
-post_title: Adding Context to Reminders
+title: Adding Context to Reminders
 author: stephen
-post_excerpt: ""
 layout: post
 published: true
 post_date: 2018-09-25
