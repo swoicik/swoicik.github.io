@@ -1,12 +1,10 @@
 ---
-ID: 3825
-post_title: Writing A Book
+title: Writing A Book
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2018/writing-a-book/
 published: true
-post_date: 2018-06-21 17:33:54
+post_date: 2018-06-21
+tags: CYOD Writing
 ---
 I am writing a book, and I am documenting the process of writing the book.
 
