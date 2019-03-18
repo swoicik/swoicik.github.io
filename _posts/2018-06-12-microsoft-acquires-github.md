@@ -1,9 +1,9 @@
 ---
 title: Microsoft Acquires Github
-date: 2018-06-12 00:00:00 Z
-post_title: Microsoft Acquires GitHub
+date: 2018-06-12 
 author: stephen
 layout: post
+tags: Microsoft GitHub
 ---
 
 Microsoft's acquisition of GitHub has caused a large reaction from the developer community. Some think it's terrible, some think it's good. My opinion is, it doesn't matter.<span class="Apple-converted-space"> </span>
