@@ -4,7 +4,7 @@ post_title: About
 author: stephen
 post_excerpt: ""
 layout: page
-permalink: http://woicik.rivikhosting.com/about/
+permalink: /about/
 published: true
 post_date: 2009-06-20 17:42:55
 ---
