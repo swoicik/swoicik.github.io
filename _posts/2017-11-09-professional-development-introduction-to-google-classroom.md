@@ -1,13 +1,10 @@
 ---
-ID: 3713
-post_title: 'Professional Development: Introduction To Google Classroom'
+title: 'Professional Development: Introduction To Google Classroom'
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/professional-development-introduction-to-google-classroom/
 published: true
-post_date: 2017-11-09 19:43:52
+post_date: 2017-11-09
+tags: Google EdTech
 ---
 I recently conducted an Introduction to Google Classroom presentation during a professional development day. The PD was aimed at getting teachers more comfortable with Google Classroom and showing them how it helps with classroom management.
 
