@@ -2,7 +2,7 @@
 post_title: About
 author: stephen
 layout: page
-permalink: /about
+permalink: /about/
 published: true
 ---
 <p style="text-align: center;">Online extrovert, real-life introvert.</p>
