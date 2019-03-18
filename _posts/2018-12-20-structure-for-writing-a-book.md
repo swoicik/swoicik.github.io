@@ -1,5 +1,5 @@
 ---
-post_title: Structure for Writing A Book
+title: Structure for Writing A Book
 author: stephen
 layout: post
 published: true
