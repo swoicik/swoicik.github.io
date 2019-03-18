@@ -1,12 +1,10 @@
 ---
-ID: 3688
-post_title: On Writing
+title: On Writing
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2017/on-writing/
 published: true
-post_date: 2017-08-10 17:50:36
+post_date: 2017-08-10
+tags: Writing
 ---
 <blockquote>I want to be a writer.</blockquote>
 This is a thought still not fully formed, but is a constant lost goal.
