@@ -24,4 +24,8 @@
 
   <!-- RSS -->
   {% feed_meta %}
+  
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
 </head>
