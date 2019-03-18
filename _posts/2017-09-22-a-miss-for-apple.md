@@ -1,13 +1,10 @@
 ---
-ID: 3699
-post_title: A Miss For Apple?
+title: A Miss For Apple?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/a-miss-for-apple/
 published: true
-post_date: 2017-09-22 16:59:40
+post_date: 2017-09-22
+tags: Apple Google 
 ---
 <span style="font-weight: 400;">The iPhone 8 and X are here and the response seems underwhelming. Enough so, that several long time iPhone users I know have switched to Android. More specifically to Samsung. They are not people working in the tech field. They are the average consumer. They are long time iPhone users that just aren't impressed with the new offering.</span>
 <blockquote><span style="font-weight: 400;">Maybe the reality distortion field is gone?</span></blockquote>
