@@ -3,7 +3,7 @@ title: Structure for Writing A Book
 author: stephen
 layout: post
 published: true
-post_date: 2018-12-20
+date: 2018-12-20
 tags: CYOD Writing
 ---
 <blockquote>
