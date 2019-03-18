@@ -1,6 +1,6 @@
 ---
 ID: 3655
-post_title: 'Android vs. iOS'
+title: 'Android vs. iOS'
 author: stephen
 post_excerpt: ""
 layout: post
