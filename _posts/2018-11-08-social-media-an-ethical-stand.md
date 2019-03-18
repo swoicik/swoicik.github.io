@@ -4,7 +4,6 @@ author: stephen
 layout: post
 published: true
 post_date: 2018-11-08
-tags: 'Social Media' Business
 ---
 Businesses and companies have long taken ethical or moral stands. Sometimes it is because of the culture of the company, changes in society, a sense of giving back, or it's better for the bottom line. Whatever the reason, it's happen before.
 
