@@ -1,13 +1,10 @@
 ---
-ID: 3731
-post_title: Pick Your Own Device 1-1 Program
+title: Pick Your Own Device 1-1 Program
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/pick-your-own-device-1-1-program/
 published: true
-post_date: 2018-02-12 18:49:41
+post_date: 2018-02-12
+tags: EdTech CYOD Education 
 ---
 1-1 programs for school districts is nothing new. The idea is to give every student their own device to use. Students are given a Chromebook, an iPad, a Laptop, or any mobile device to use as if it was their own. This gives every student equal access to technology.
 
