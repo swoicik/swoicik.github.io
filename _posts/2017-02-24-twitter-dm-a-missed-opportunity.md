@@ -1,6 +1,6 @@
 ---
 ID: 3618
-post_title: 'Twitter DM: A Missed Opportunity'
+title: 'Twitter DM: A Missed Opportunity'
 author: stephen
 post_excerpt: ""
 layout: post
