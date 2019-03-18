@@ -1,15 +1,10 @@
 ---
-ID: 3710
-post_title: >
-  Should Social Media Be Allowed In
-  Schools?
+title: Should Social Media Be Allowed In Schools?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/should-social-media-be-allowed-in-schools/
 published: true
-post_date: 2017-10-23 18:43:00
+post_date: 2017-10-23
+tags: Social-Meda Education EdTech
 ---
 <blockquote>TL;DR Yes!</blockquote>
 Not having social media in schools is not preparing our students for life beyond the school walls, and believing that educations lives in a vacuum.
