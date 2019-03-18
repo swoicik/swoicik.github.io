@@ -1,6 +1,6 @@
 ---
 ID: 3569
-post_title: Being Authentic with Your Writing
+title: Being Authentic with Your Writing
 author: stephen
 post_excerpt: ""
 layout: post
