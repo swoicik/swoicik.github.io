@@ -1,13 +1,10 @@
 ---
-ID: 3636
-post_title: Conducting My First Interview
+title: Conducting My First Interview
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/conducting-my-first-interview/
 published: true
-post_date: 2017-08-07 15:02:37
+post_date: 2017-08-07
+tags: Interview
 ---
 <p class="graf graf--p">As part of a new project and long time goal, <a class="markup--anchor markup--p-anchor" href="https://lewiscroft.com" target="_blank" rel="noopener" data-href="https://lewiscroft.com">Lewis Croft</a>, I began interviewing small business owners (or anyone interesting really). I’ve had a lot of interesting conversations with business owners and wished I had a record of some of them.</p>
 <p class="graf graf--p">This is a recap of my first formal interview. Partly for my own benefit and partly so people can learn from my mistakes. It’s a new experience and something out of my comfort zone.</p>
