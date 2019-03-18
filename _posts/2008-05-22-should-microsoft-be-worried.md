@@ -1,13 +1,10 @@
 ---
-ID: 781
-post_title: Should Microsoft Be Worried?
+title: Should Microsoft Be Worried?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/should-microsoft-be-worried/
 published: true
-post_date: 2008-05-22 13:55:26
+post_date: 2008-05-22
+tags: Microsoft Apple 
 ---
 Apple has become the 3rd largest computer manufacturer, with a <a href="http://www.appleinsider.com/articles/08/04/16/apple_snags_6_6_share_of_us_pc_market_in_first_quarter.html">6.6% market share</a>, and the top two manufacturers, Dell and HP, are beginning to offer Linux alternatives to Windows.  Their operating system, Windows, is being undermined by the rise of Apple's <a href="http://www.apple.com/macosx/">OSX</a> and the sophistication of <a href="http://www.distrowatch.com/">Linux</a> as a commercial operating system.  With the bad reception of Vista, people are losing faith in Windows or refusing to upgrade from XP.  Microsoft <a href="http://office.microsoft.com/en-us/default.aspx">Office</a> (Word, Excel, PowerPoint, etc...) is being attacked by the popularity of web applications.  <a href="http://docs.google.com/">Google Docs</a> and <a href="http://www.zoho.com/">Zoho</a>, are both able to offer many of the feature Microsoft Office has, for free and without the need to install software.  The Windows Mobile platform is being attacked by RIM's BlackBerry and Apple's iPhone.  And the Microsoft Xbox took a hit this year when HD-DVD, the format Microsoft supported, lost the next generation format battle to Sony's Blue-Ray.  So should Microsoft Worry?
 <div style="text-align: center"><a href="http://lh4.ggpht.com/Milansoc15/SDX1QgEwKpI/AAAAAAAAAOU/DaQNK3lnYrk/s1600-h/microsoft-logo%5B3%5D.jpg"><img style="height: 96px;width: 381px" src="http://lh5.ggpht.com/Milansoc15/SDX1QwEwKqI/AAAAAAAAAOc/uiBzGNMizxU/microsoft-logo_thumb%5B1%5D.jpg?imgmax=800" alt="microsoft-logo" /></a></div>

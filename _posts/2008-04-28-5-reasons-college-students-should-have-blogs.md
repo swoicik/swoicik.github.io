@@ -1,15 +1,9 @@
 ---
-ID: 738
-post_title: >
-  5 Reasons College Students Should Have
-  Blogs
+title: 5 Reasons College Students Should Have Blogs
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/5-reasons-college-students-should-have-blogs/
 published: true
-post_date: 2008-04-28 10:19:46
+post_date: 2008-04-28 
 ---
 <a href="http://bp1.blogger.com/_vZvzQbRKUHA/SBVT9hnkgNI/AAAAAAAAAMc/fbZ-ML7Uk-E/s1600-h/freelancers_blog.jpg"><img id="BLOGGER_PHOTO_ID_5194150061703200978" style="cursor: pointer;float: right;height: 172px;margin: 0pt 0pt 10px 10px;width: 134px" src="http://bp1.blogger.com/_vZvzQbRKUHA/SBVT9hnkgNI/AAAAAAAAAMc/fbZ-ML7Uk-E/s320/freelancers_blog.jpg" border="0" alt="" /></a><strong>Show You Have a Passion for Something</strong>- most jobs that you apply for want to know what you do beyond school in the field you want to work.  A blog is a great way to show you have an interest in the work and have knowledge on current events
 

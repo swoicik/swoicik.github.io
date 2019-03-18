@@ -1,13 +1,10 @@
 ---
-ID: 714
-post_title: Educational Technology Interview
+title: Educational Technology Interview
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/educational-technology-interview/
 published: true
-post_date: 2008-03-28 08:34:43
+post_date: 2008-03-28
+tags: EdTech Interview
 ---
 For an entrepreneurship class, I am doing research into the educational technology market for a company to create.  The market is in an interesting time, as it is very active yet very unorganized.  Everyone seems to want technology and agree it is useful, but no one seems to know exactly how to use or implement it.
 As part of my research I am doing three interviews.  My first informational interview was with Marc, a 7th grade public school teacher and <a href="http://www.renzullilearning.com/">Renzulli</a><strong> </strong>workshop teacher.  Marc using technology in his classroom for numerous tasks and teaches workshops for other teachers learning to use Renzulli, a popular educational software.  Marc is a good person to interview since he has perspective of education technology from both the students and teachers.

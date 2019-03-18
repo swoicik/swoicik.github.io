@@ -1,13 +1,11 @@
 ---
-ID: 735
-post_title: 'Follow Up to &#8216;The New Big Brother&#8217;'
+title: 'Follow Up to &#8216;The New Big Brother&#8217;'
 author: stephen
-post_excerpt: ""
+
 layout: post
-permalink: >
-  https://swoicik.com/2008/follow-up-to-apple-the-new-big-brother/
 published: true
-post_date: 2008-03-12 10:13:44
+post_date: 2008-03-12 
+tags: Apple Google
 ---
 Kevin Ohannessian of Mansueto Digital, recently wrote a post on his <a href="http://www.fastcompany.com/blog-post/apples-apples-googles-oranges">blog</a> at fastcompany.com in response to some things I said in my post "<a href="http://stephenwoicik.com/blog/2008/03/apple-the-new-big-brother/">Apple: The New Big Brother.</a>" His post agreed with my views on Apple but now of how I dragged Google into the same field. I see where he is coming from and I understand the differences he makes between Apple and Google. However, I agrue that they are similar in other aspects. Both companies have very different business strategies but they reach the same effect on the market. Apple looks to control mainly through their hardware and their closed system approach to software, where Google uses a very open system of trying to amass as much as possible quickly. Google's software is mostly free and open to be used by anyone.
 

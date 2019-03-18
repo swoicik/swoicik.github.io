@@ -1,13 +1,9 @@
 ---
-ID: 774
-post_title: Banking For The Web 2.0 Generation
+title: Banking For The Web 2.0 Generation
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  http://woicik.rivikhosting.com/2008/banking-for-the-web-2-0-generation/
 published: true
-post_date: 2008-03-16 13:48:59
+post_date: 2008-03-16
 ---
 Since being in college I've begun to do away with physical mail.  I get my bills and monthly statements sent to me via e-mail, it makes my life a lot easier by doing more things online.  I signed up to receive all my financial information via e-mail through each of the individual companies (Bank of America, Capitol One, etc...)  This system worked alright, but I received an individual e-mail from each company and had to deal with each account on a different website.  This didn't make it very easy to keep track of my overall spending and saving.  In comes <a href="http://www.mint.com/">Mint.com</a>.<!--more-->
 <div style="text-align: center"><a href="http://lh3.ggpht.com/Milansoc15/SC3B-5XOAkI/AAAAAAAAANs/NvkW0dt3x54/s1600-h/mint%20screen%5B4%5D.png"><img src="http://lh5.ggpht.com/Milansoc15/SC3B_ZXOAlI/AAAAAAAAAN0/fOP4wSo1qPY/mint%20screen_thumb%5B2%5D.png?imgmax=800" alt="mint screen" width="351" height="76" /></a></div>

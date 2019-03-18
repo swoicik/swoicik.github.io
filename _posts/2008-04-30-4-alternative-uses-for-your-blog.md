@@ -1,13 +1,9 @@
 ---
-ID: 772
-post_title: 4 Alternative Uses for Your Blog
+title: 4 Alternative Uses for Your Blog
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/4-alternative-uses-for-your-blog/
 published: true
-post_date: 2008-04-30 13:46:47
+post_date: 2008-04-30
 ---
 <strong>Software list</strong>- I often blog about new software I find and use. When setting up a new computer you can use your blog to recall all the little programs you usually use. It much easier to find programs on your blog then searching the web, since you are the one that organized it all.
 
