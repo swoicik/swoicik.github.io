@@ -4,8 +4,6 @@ post_title: The Role of Social Media
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/the-role-of-social-media/
 published: true
 post_date: 2017-07-28 17:38:11
 ---

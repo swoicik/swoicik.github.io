@@ -4,8 +4,6 @@ post_title: Amazon Has A Problem
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/amazon-has-a-problem/
 published: true
 post_date: 2017-06-08 10:34:42
 ---

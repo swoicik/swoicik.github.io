@@ -4,8 +4,6 @@ post_title: Google Knows Too Much
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/google-knows-too-much/
 published: true
 post_date: 2017-07-18 18:00:29
 ---

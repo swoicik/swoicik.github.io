@@ -4,8 +4,6 @@ post_title: A Company Without Personal Email
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/a-company-without-personal-email/
 published: true
 post_date: 2017-06-07 10:33:26
 ---

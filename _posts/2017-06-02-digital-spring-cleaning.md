@@ -4,8 +4,6 @@ post_title: Digital Spring Cleaning
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/digital-spring-cleaning/
 published: true
 post_date: 2017-06-02 10:23:23
 ---

@@ -4,8 +4,6 @@ post_title: Your Name, Your Brand, Your Pseudonym
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/your-name-your-brand-your-pseudonym/
 published: true
 post_date: 2017-06-06 10:30:00
 ---

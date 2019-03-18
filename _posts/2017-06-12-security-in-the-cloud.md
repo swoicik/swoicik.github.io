@@ -4,8 +4,6 @@ post_title: Security In The Cloud
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/security-in-the-cloud/
 published: true
 post_date: 2017-06-12 10:36:31
 ---

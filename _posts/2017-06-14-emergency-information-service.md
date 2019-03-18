@@ -4,8 +4,6 @@ post_title: Emergency Information Service
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/emergency-information-service/
 published: true
 post_date: 2017-06-14 10:37:52
 ---

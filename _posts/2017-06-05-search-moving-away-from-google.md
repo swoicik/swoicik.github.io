@@ -4,8 +4,6 @@ post_title: Search Moving Away from Google?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/search-moving-away-from-google/
 published: true
 post_date: 2017-06-05 10:28:25
 ---
