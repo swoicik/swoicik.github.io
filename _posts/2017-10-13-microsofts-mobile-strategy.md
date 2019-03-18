@@ -1,13 +1,10 @@
 ---
-ID: 3705
-post_title: 'Microsoft&#8217;s Mobile Strategy'
+title: Microsoft's Mobile Strategy
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/microsofts-mobile-strategy/
 published: true
-post_date: 2017-10-13 10:42:59
+post_date: 2017-10-13 
+tags: Microsoft
 ---
 Windows Mobile might be coming to an end but Microsoft is not done with mobile. Mobile has become too important of a market for Microsoft to ignore.
 
