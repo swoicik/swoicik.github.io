@@ -1,13 +1,10 @@
 ---
-ID: 704
-post_title: The New Big Brother
+title: The New Big Brother
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/apple-the-new-big-brother/
 published: true
-post_date: 2008-03-10 08:21:52
+post_date: 2008-03-10
+tags: Apple Microsoft
 ---
 Apple has been gaining market share and momentum with every product they release. Apple used to be viewed as the windows alternative in a time when Microsoft controlled everything. Apple products were for the independent, non conformist in all of us, our way of sticking it to corporate America. But does this still hold true today?
 

@@ -1,13 +1,10 @@
 ---
-ID: 3828
-post_title: School Committee CYOD Introduction
+title: School Committee CYOD Introduction
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/school-committee-cyod-introduction/
 published: true
-post_date: 2018-06-29 00:13:06
+post_date: 2018-06-29
+tags: CYOD
 ---
 <blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
 

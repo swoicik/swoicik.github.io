@@ -1,11 +1,10 @@
 ---
-ID: 3839
-post_title: Table of Contents
+title: Table of Contents
 author: stephen
-post_excerpt: ""
 layout: post
 published: true
 post_date: 2018-10-11
+tags: CYOD
 ---
 <blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.</blockquote>
 I’ve collected notes, conducted research, and began writing this book (<a href="https://swoicik.com/cyod/">CYOD</a>), and now have a good idea about what the structure will be. I talked before about the <a href="https://swoicik.com/2018/writing-style/">writing style</a> of the book, but now I’ll share the actual outline I am working with.

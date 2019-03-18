@@ -1,13 +1,10 @@
 ---
-ID: 728
-post_title: Saving Money in Your Startup
+title: Saving Money in Your Startup
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/saving-money-in-your-startup/
 published: true
-post_date: 2008-03-08 10:01:18
+post_date: 2008-03-08
+tags: Entrepreneurship "Small Business"
 ---
 Jason of calacanis.com, wrote an interesting post about his experience in saving money during a startup.  The article offers tips that will help you save money in ways you may not have considered before.  The tips are not ones that will show up on your financial statements, they are more of tips that will make your startup more efficient and an enjoyable working environment.  These tips are especially useful in a startup environment where cash is king and money is always short.
 

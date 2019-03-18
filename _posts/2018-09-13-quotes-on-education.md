@@ -1,13 +1,9 @@
 ---
-ID: 3832
-post_title: Quotes On Education
+title: Quotes On Education
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/quotes-on-education/
 published: true
-post_date: 2018-09-13 16:03:23
+post_date: 2018-09-13
 categories: CYOD
 ---
 <blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.

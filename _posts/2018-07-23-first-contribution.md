@@ -1,14 +1,10 @@
 ---
-ID: 3835
-post_title: First Contribution
+title: First Contribution
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2018/first-contribution/
 published: true
-post_date: 2018-07-23 17:07:00
-categories: CYOD
+post_date: 2018-07-23
+tags: CYOD
 ---
 <blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
 
