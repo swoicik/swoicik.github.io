@@ -6,7 +6,7 @@ post_title: >
 author: stephen
 post_excerpt: ""
 layout: page
-permalink: /cyod/
+permalink: /cyod
 published: true
 post_date: 2018-05-31 16:59:49
 ---
