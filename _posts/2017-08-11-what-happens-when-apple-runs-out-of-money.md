@@ -1,15 +1,10 @@
 ---
-ID: 3690
-post_title: >
-  What Happens When Apple Runs Out of
-  Money?
+title: What Happens When Apple Runs Out of Money?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/what-happens-when-apple-runs-out-of-money/
 published: true
-post_date: 2017-08-11 17:39:20
+post_date: 2017-08-11 
+tags: Apple Google Technology Facebook Amazon
 ---
 <blockquote>Or Google or Facebook or Amazon?</blockquote>
 All these companies collect a massive amount of information on it’s users. Everything from our buying habits, to our friends, our search history, our communications, even out health data, and location.
