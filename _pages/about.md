@@ -1,12 +1,9 @@
 ---
-ID: 2
 post_title: About
 author: stephen
-post_excerpt: ""
 layout: page
 permalink: /about
 published: true
-post_date: 2009-06-20 17:42:55
 ---
 <p style="text-align: center;">Online extrovert, real-life introvert.</p>
 <p style="text-align: center;"><a href="http://twitter.com/swoicik" target="_blank" rel="noopener">Twitter</a></p>
