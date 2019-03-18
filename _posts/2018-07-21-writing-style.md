@@ -7,7 +7,7 @@ layout: post
 permalink: https://swoicik.com/2018/writing-style/
 published: true
 post_date: 2018-07-21 15:26:03
-categories: [CYOD, Writing]
+tags: CYOD Writing
 ---
 <blockquote>This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book <a href="https://swoicik.com/cyod/">here</a>.
 
