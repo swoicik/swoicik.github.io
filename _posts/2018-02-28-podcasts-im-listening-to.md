@@ -1,6 +1,6 @@
 ---
 title: Podcasts I’m Listening To
-date: 2018-02-28 14:52:17 -05:00
+date: 2018-02-28
 author: stephen
 layout: post
 ---
