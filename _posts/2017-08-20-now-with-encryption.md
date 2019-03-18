@@ -1,13 +1,9 @@
 ---
-ID: 3692
-post_title: Now With Encryption
+title: Now With Encryption
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2017/now-with-encryption/
 published: true
-post_date: 2017-08-20 11:06:40
+post_date: 2017-08-20
 ---
 This website is now encrypted. Today, I added an SSL certificate to swoick.com. It is something I have wanted/needed for this site for sometime, and finally got done.
 
