@@ -4,6 +4,6 @@ layout: default
 permalink: /about/
 ---
 
-# About 
+## About 
 
 Online extrovert, real-life introvert.
