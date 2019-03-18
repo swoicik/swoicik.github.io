@@ -4,8 +4,6 @@ post_title: A Way to Organize Newsletters
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2015/a-way-to-organize-newsletters/
 published: true
 post_date: 2015-06-04 12:01:52
 ---

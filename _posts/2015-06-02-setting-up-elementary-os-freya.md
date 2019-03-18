@@ -4,8 +4,6 @@ post_title: Setting Up Elementary OS Freya
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2015/setting-up-elementary-os-freya/
 published: true
 post_date: 2015-06-02 17:27:01
 ---

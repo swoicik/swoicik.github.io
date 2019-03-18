@@ -4,8 +4,6 @@ post_title: 'XKCD: A Timeline of Earth&#8217;s Average Temperature'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/xkcd-a-timeline-of-earths-average-temperature/
 published: true
 post_date: 2016-09-16 17:39:29
 ---

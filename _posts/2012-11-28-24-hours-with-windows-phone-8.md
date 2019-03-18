@@ -4,8 +4,6 @@ post_title: 24 Hours with Windows Phone 8
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/24-hours-with-windows-phone-8/
 published: true
 post_date: 2012-11-28 13:32:11
 ---

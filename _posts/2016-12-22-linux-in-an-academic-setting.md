@@ -4,8 +4,6 @@ post_title: Linux in an Academic Setting
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/linux-in-an-academic-setting/
 published: true
 post_date: 2016-12-22 07:24:23
 ---

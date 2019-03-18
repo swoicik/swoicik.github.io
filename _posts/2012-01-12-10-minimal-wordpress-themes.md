@@ -4,8 +4,6 @@ post_title: 10 Minimal WordPress Themes
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/10-minimal-wordpress-themes/
 published: true
 post_date: 2012-01-12 07:44:48
 ---

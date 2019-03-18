@@ -4,8 +4,6 @@ post_title: Are You A Freelancer or Entrepreneur?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/the-freelancer-and-the-entrepreneur/
 published: true
 post_date: 2016-07-07 19:19:52
 ---

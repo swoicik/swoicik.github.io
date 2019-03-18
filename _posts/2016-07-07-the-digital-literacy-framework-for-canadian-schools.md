@@ -6,8 +6,6 @@ post_title: >
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/the-digital-literacy-framework-for-canadian-schools/
 published: true
 post_date: 2016-07-07 19:24:30
 ---

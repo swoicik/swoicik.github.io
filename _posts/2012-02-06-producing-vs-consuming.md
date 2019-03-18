@@ -4,8 +4,6 @@ post_title: Producing vs. Consuming
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/producing-vs-consuming/
 published: true
 post_date: 2012-02-06 20:23:48
 ---

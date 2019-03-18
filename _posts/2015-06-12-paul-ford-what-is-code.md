@@ -4,8 +4,6 @@ post_title: 'Paul Ford: What is Code?'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2015/paul-ford-what-is-code/
 published: true
 post_date: 2015-06-12 11:48:48
 ---

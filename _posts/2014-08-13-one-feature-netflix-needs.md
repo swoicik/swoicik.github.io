@@ -4,8 +4,6 @@ post_title: One Feature Netflix Needs
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2014/one-feature-netflix-needs/
 published: true
 post_date: 2014-08-13 18:45:38
 ---

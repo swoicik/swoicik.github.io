@@ -6,8 +6,6 @@ post_title: >
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/quotes-from-the-soul-of-a-man-under-socialism/
 published: true
 post_date: 2016-10-06 11:14:13
 ---

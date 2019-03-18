@@ -4,8 +4,6 @@ post_title: Microsoft Surface 2
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2013/microsoft-surface-2/
 published: true
 post_date: 2013-11-06 16:06:33
 ---

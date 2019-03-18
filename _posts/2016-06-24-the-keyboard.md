@@ -4,7 +4,6 @@ post_title: The Keyboard
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2016/the-keyboard/
 published: true
 post_date: 2016-06-24 16:05:28
 ---

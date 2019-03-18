@@ -4,8 +4,6 @@ post_title: A Note About Smartwatches
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2014/a-note-about-smartwatches/
 published: true
 post_date: 2014-10-08 18:14:09
 ---

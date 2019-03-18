@@ -4,8 +4,6 @@ post_title: Developing a Website on the iPad
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/developing-a-website-on-the-ipad/
 published: true
 post_date: 2012-01-09 16:50:51
 ---

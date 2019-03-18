@@ -4,8 +4,6 @@ post_title: Letter W Photography
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/letter-w-photography/
 published: true
 post_date: 2016-12-21 10:00:20
 ---

@@ -4,8 +4,6 @@ post_title: 'Lewis Croft: A Community for Business Owners'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/lewis-croft-a-community-for-business-owners/
 published: true
 post_date: 2016-09-30 10:51:52
 ---

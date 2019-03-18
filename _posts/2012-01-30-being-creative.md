@@ -4,7 +4,6 @@ post_title: Being Creative
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2012/being-creative/
 published: true
 post_date: 2012-01-30 19:50:44
 ---

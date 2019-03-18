@@ -4,8 +4,6 @@ post_title: Sources of Data Breach
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/sources-of-data-breach/
 published: true
 post_date: 2016-03-28 07:33:17
 ---

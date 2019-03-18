@@ -4,8 +4,6 @@ post_title: Being Authentic with Your Writing
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/content-is-king-and-other-reasons-you-shouldnt-write-online-by-hillary-weiss/
 published: true
 post_date: 2016-07-07 19:21:17
 ---

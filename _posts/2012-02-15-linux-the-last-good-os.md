@@ -4,8 +4,6 @@ post_title: The Last Good OS?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/linux-the-last-good-os/
 published: true
 post_date: 2012-02-15 16:00:34
 ---

@@ -4,8 +4,6 @@ post_title: Microsoft Should Acquire Twitter
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/microsoft-should-purchase-twitter/
 published: true
 post_date: 2016-11-03 17:50:58
 ---

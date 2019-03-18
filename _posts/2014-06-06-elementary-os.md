@@ -4,7 +4,6 @@ post_title: Elementary OS
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2014/elementary-os/
 published: true
 post_date: 2014-06-06 18:31:23
 ---

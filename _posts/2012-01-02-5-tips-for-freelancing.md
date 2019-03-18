@@ -4,10 +4,8 @@ post_title: 5 Tips for Freelancing
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/5-tips-for-freelancing/
 published: true
-post_date: 2012-01-02 13:48:34
+post_date: 2012-01-02
 ---
 I have been working as a freelancer for the past three years. Both part-time and full-time. There are things I've learned, and things I wish I knew starting out. I work as a web developer, but the advice is pretty universal.
 <h2>1. Clear Separation</h2>

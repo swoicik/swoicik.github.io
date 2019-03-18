@@ -4,8 +4,6 @@ post_title: Product Hunt for Education
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/product-hunt-for-education/
 published: true
 post_date: 2016-03-22 07:04:51
 ---

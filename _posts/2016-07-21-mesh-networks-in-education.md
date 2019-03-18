@@ -4,8 +4,6 @@ post_title: Mesh Networks in Education
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/mesh-networks-in-education/
 published: true
 post_date: 2016-07-21 15:26:53
 ---

@@ -4,8 +4,6 @@ post_title: 5 Apps for Productivity
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2012/5-apps-for-productivity/
 published: true
 post_date: 2012-01-23 17:29:33
 ---

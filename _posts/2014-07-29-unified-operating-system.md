@@ -4,8 +4,6 @@ post_title: Unified Operating System
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2014/unified-operating-system/
 published: true
 post_date: 2014-07-29 12:07:41
 ---

@@ -1,11 +1,9 @@
 ---
 ID: 3588
-post_title: 'Elementary OS: Unable To Add Apt-Get Repository'
+title: 'Elementary OS: Unable To Add Apt-Get Repository'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2016/elementary-os-unable-to-add-apt-get-repository/
 published: true
 post_date: 2016-10-25 11:13:04
 ---

@@ -4,7 +4,6 @@ post_title: Local Business
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: https://swoicik.com/2013/local-business/
 published: true
 post_date: 2013-11-22 19:15:08
 ---
