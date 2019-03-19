@@ -1,11 +1,8 @@
 ---
 ID: 3806
-post_title: >
-  Personalized Learning, Personalized
-  Technology
+title: Personalized Learning, Personalized Technology
 author: stephen
-post_excerpt: ""
-layout: page
+layout: default
 permalink: /cyod
 published: true
 post_date: 2018-05-31 16:59:49
