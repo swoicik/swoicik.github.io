@@ -4,12 +4,10 @@ post_title: It Doesn’t Hurt To Say “No”
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  http://woicik.rivikhosting.com/2019/it-doesnt-hurt-to-say-no/
 published: true
 post_date: 2019-02-19 17:08:32
 ---
-<!-- wp:paragraph -->
+
 <p>Have you been told “it doesn’t hurt to ask?” Or some form of it? There are lots of different ways to say it. The phrase is often engrained in schools, businesses, and life. I remember being told in elementary school. And it’s good advice.&nbsp;</p>
 <!-- /wp:paragraph -->
 
