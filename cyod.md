@@ -2,7 +2,7 @@
 ID: 3806
 title: Personalized Learning, Personalized Technology
 author: stephen
-layout: default
+layout: post
 permalink: /cyod-test
 published: true
 post_date: 2018-05-31 16:59:49
@@ -40,6 +40,5 @@ post_date: 2018-05-31 16:59:49
 <h3>Pre-Order</h3>
 <p>You can now pre-order the book the book. The book is being released under a pay what you want model. Pre-order by <a href="https://gumroad.com/l/CvEGu" target="_blank" rel="noopener noreferrer">clicking here</a>, or using the form below. </p>
 
-<!-- wp:gumroad/gumroad-block {"id":"CvEGu","type":"embed","url":"https://gumroad.com/l/CvEGu"} -->
-<div class="gumroad-product-embed" data-gumroad-product-id="CvEGu" class="wp-block-gumroad-gumroad-block"></div>
-<!-- /wp:gumroad/gumroad-block -->
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="CvEGu"><a href="https://gumroad.com/l/CvEGu">Loading...</a></div>
