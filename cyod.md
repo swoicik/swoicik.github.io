@@ -2,7 +2,7 @@
 ID: 3806
 title: Personalized Learning, Personalized Technology
 author: stephen
-layout: defautl
+layout: page
 permalink: /cyod-test
 published: true
 post_date: 2018-05-31 16:59:49
