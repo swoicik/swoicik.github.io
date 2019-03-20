@@ -2,14 +2,15 @@
 ID: 3806
 title: Personalized Learning, Personalized Technology
 author: stephen
-layout: post
+layout: defautl
 permalink: /cyod-test
 published: true
 post_date: 2018-05-31 16:59:49
 ---
 
+## Personalized Learning, Personalized Technology 
+
 The book is now available for Pre-Order! Estimated delivery is August 30th. Click the button below to reserve your copy.
-<!-- /wp:paragraph -->
 
 <a class="wp-block-button__link" href="https://gumroad.com/l/CvEGu"><strong>Pre-Order Today</strong></a>
 
