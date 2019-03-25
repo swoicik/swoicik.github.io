@@ -5,7 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  https://woicik.rivikhosting.com/2019/cyod-pre-order/
+  http://woicik.rivikhosting.com/2019/cyod-pre-order/
 published: true
 post_date: 2019-03-25 16:04:25
 ---
