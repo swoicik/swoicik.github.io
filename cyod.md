@@ -10,15 +10,16 @@ post_date: 2018-05-31 16:59:49
 
 The book is now available for Pre-Order! Estimated delivery is August 30th. Click the button below to reserve your copy.
 
-<p align="center">
-<b><a href=https://gumroad.com/l/CvEGu">Pre-Order Today</a></b>
+<p style="text-align: center;">
+<b><a href="https://gumroad.com/l/CvEGu">Pre-Order Today</a></b>
 </p>
 
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong></p>
-<p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check the <a href="/category/cyod">CYOD Category</a> page for updates.</p>
+<p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
+  
 <p>If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.</p>
-<hr />
-<h2 id="the-book" style="text-align: center;">The Book</h2>
+
+<h2 id="the-book" style="text-align: center;">About the Book</h2>
 <p>The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.</p>
 <p>Too many well intentioned and well funded technology programs fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. I will share what I have learned and show how to mitigate or remove these obstacles. A 1:1 program is a lot more than just the device. The actual device(s) you choose matters very little.</p>
 <p>The technology used in these programs changes constantly, so my focus will be on the systems you need in place to make the program work and less about specific technology. I want the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend.</p>
