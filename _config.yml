@@ -27,3 +27,5 @@ plugins:
 permalink:      /:year/:title
 paginate:       8
 
+include: ['_pages']
+
