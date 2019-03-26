@@ -10,7 +10,9 @@ post_date: 2018-05-31 16:59:49
 
 The book is now available for Pre-Order! Estimated delivery is August 30th. Click the button below to reserve your copy.
 
-<p align="center">**[Pre-Order Today](https://gumroad.com/l/CvEGu)**</p>
+<p align="center">
+<b><a href=https://gumroad.com/l/CvEGu">Pre-Order Today</a></b>
+</p>
 
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong></p>
 <p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/cyod">GitHub</a> or check the <a href="/category/cyod">CYOD Category</a> page for updates.</p>
