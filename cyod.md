@@ -8,7 +8,7 @@ published: true
 post_date: 2018-05-31 16:59:49
 ---
 
-The book is now available for Pre-Order! Estimated delivery is August 30th. Click the button below to reserve your copy.
+The book is now available for Pre-Order! Estimated delivery is August 30th. Click the link below to reserve your copy.
 
 <p style="text-align: center;">
 <b><a href="https://gumroad.com/l/CvEGu">Pre-Order Today</a></b>
