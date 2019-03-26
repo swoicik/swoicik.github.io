@@ -12,7 +12,7 @@ My name is Stephen Woicik, I do a lot of different projects and jobs. Most all o
 Some of the tools I used to do this work
 
 ## Hardware 
-Apple iPad – This is my daily driver and what I use the most. I’ve talked about it more in [this post](/2017/the-frictionless-computer/).
+Apple iPad Mini – This is my daily driver and what I use the most. I’ve talked about it more in [this post](/2017/the-frictionless-computer/).
 
 Dell Inspiron 3000 Series – A good, cheap laptop. Wiped clean and installed Elementary OS as soon as I bought it. It mostly stays on my desk.
 
