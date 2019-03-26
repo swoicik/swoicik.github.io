@@ -31,7 +31,7 @@ The book is now available for Pre-Order! Estimated delivery is August 30th. Clic
 <p>When I’m learning how to code something new, I don’t go look at the final products that people made, I look at the source code and try to figure out how they built it.</p>
 <p>I wanted to share the entire process I’m going through (the source code of the book), hopefully it will help someone else.</p>
 <p>There are lots of way to contribute and support this project. Any and all ways are greatly appreciated. Projects like this aren’t possible without a community of supporters around it.</p>
-<hr />
+
 <h2 style="text-align: center;">Ways to Contribute</h2>
 <h3 id="spread-the-word">Spread the Word</h3>
 <p>Sharing this project with others is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know (<a href="https://twitter.com/swoicik">@swoicik</a>).</p>
