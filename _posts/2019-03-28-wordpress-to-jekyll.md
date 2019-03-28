@@ -2,7 +2,7 @@
 title: Jekyll & GitHub Pages
 author: stephen
 layout: post
-published: false
+published: true
 post_date: 2019-03-28
 ---
 It’s 2019 and I’m moving swoicik.com to Jekyll and GitHub Pages. 
