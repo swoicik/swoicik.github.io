@@ -30,7 +30,7 @@ Apple iPhone 8 – I upgraded from an iPhone SE after the screen broke. I have p
 [GitHub](https://github.com/swoicik) – I’ve started using GitHub more and more. Any recent code I’ve produced is on there. I am also [writing a book](/cyod) on the platform.
 
 ## Website
-[Jekyll](https://jekyllrb.com/) - 
+[Jekyll](https://jekyllrb.com/) - I recently migrated this site from WordPress to Jekyll. You can read about the process and the reasons on this [blog post](/2019/wordpress-to-jekyll).
 
 [Simple Jekyll Theme](https://github.com/swoicik/simple-jekll-theme) - 
 
