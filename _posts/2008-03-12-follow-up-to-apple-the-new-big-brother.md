@@ -1,11 +1,8 @@
 ---
-ID: 735
-post_title: 'Follow Up to &#8216;The New Big Brother&#8217;'
+title: 'Follow Up to &#8216;The New Big Brother&#8217;'
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/follow-up-to-apple-the-new-big-brother/
+permalink: /2008/follow-up-to-apple-the-new-big-brother/
 published: true
 post_date: 2008-03-12 10:13:44
 ---
