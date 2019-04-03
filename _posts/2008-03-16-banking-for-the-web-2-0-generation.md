@@ -1,11 +1,7 @@
 ---
-ID: 774
-post_title: Banking For The Web 2.0 Generation
+title: Banking For The Web 2.0 Generation
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/banking-for-the-web-2-0-generation/
 published: true
 post_date: 2008-03-16 13:48:59
 ---
