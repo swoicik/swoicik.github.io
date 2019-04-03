@@ -1,13 +1,7 @@
 ---
-ID: 738
-post_title: >
-  5 Reasons College Students Should Have
-  Blogs
+title: 5 Reasons College Students Should Have Blogs
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/5-reasons-college-students-should-have-blogs/
 published: true
 post_date: 2008-04-28 10:19:46
 ---
