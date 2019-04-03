@@ -3,7 +3,7 @@ title: '&quot;Microsoft&quot; and &quot;Cool&quot; In The Same Sentence?'
 author: stephen
 layout: post
 permalink: >
-  /2008/microsoft-and-cool-in-the-same-sentence/
+  /2008/microsoft-and-cool-in-the-same-sentence
 published: true
 post_date: 2008-09-05 13:32:43
 ---
