@@ -1,14 +1,11 @@
 ---
-ID: 1261
-post_title: You can do anything, but not everything.
+title: Anything, Not Everything
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/you-can-do-anything-but-not-everything/
 published: true
-post_date: 2010-10-01 07:34:36
+post_date: 2010-10-01 
+tags: Quote
 ---
-You can do anything, but not everything.
+> You can do anything, but not everything.
 
-<strong>Unknown</strong>
+**Unknown**
