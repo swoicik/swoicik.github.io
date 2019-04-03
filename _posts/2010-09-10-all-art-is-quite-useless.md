@@ -1,13 +1,10 @@
 ---
-ID: 84
-post_title: All Art Is Quite Useless
+title: All Art Is Quite Useless
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/all-art-is-quite-useless/
 published: true
 post_date: 2010-09-10 10:13:48
+tags: Quote
 ---
 This is the preface to the Oscar Wilde book, <em>The Picture of Dorian Gray</em>.  I read this book a while back and revisited it recently.  Remembering how much I enjoyed the preface and how I wanted to publish it last time I read it, it's a bit overdue.
 <blockquote>The artist is the creator of beautiful things.  To reveal art and conceal the artist is art's aim.  The critic is he who can translate into another manner or a new material his impression of beautiful things.
