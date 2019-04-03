@@ -1,11 +1,7 @@
 ---
-ID: 639
-post_title: iPad and Education
+title: iPad and Education
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/the-ipad-and-education/
 published: true
 post_date: 2010-05-06 14:00:50
 ---
