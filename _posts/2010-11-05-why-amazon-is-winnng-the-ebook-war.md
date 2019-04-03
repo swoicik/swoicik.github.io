@@ -1,11 +1,7 @@
 ---
-ID: 1442
-post_title: Why Amazon Is Winnng the Ebook War
+title: Why Amazon Is Winnng the Ebook War
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/why-amazon-is-winnng-the-ebook-war/
 published: true
 post_date: 2010-11-05 08:59:04
 ---
