@@ -6,7 +6,7 @@ permalink: /2009/steve-jobs-return-to-apple-and-what-it-means-for-the-tablet/
 published: true
 post_date: 2009-08-25 05:53:46
 ---
-<img class="alignleft size-medium wp-image-153" title="steve-jobs" src="http://woicik.rivikhosting.com/files/2009/08/steve-jobs-232x300.jpg" alt="steve-jobs" />The <a href="http://online.wsj.com/article/SB125115760997755251.html">Wall Street Journal</a> yesterday reported that Steve Jobs has returned from his medical leave to Apple.  This isn't even the exciting part of the announcement.  They also claim that he will be putting all his focus into the long rumored netbook/tablet like device.
+The <a href="http://online.wsj.com/article/SB125115760997755251.html">Wall Street Journal</a> yesterday reported that Steve Jobs has returned from his medical leave to Apple.  This isn't even the exciting part of the announcement.  They also claim that he will be putting all his focus into the long rumored netbook/tablet like device.
 
 So here are my thoughts on the rumor mill going on about the new tablet.  First, its not going to be called the iTablet, or have tablet anywhere in the name.  Apple marketing is too good for that.  Apple likes to try to break the mold and market themselves as innovators and being different.  They are going to stay away from tablet and all the stereotypes of the old Windows tablets that were plagued with problems and not ready for mainstream consumers.
 
