@@ -1,11 +1,8 @@
 ---
-ID: 259
-post_title: Winter Coming
+title: Winter Coming
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2009/seems-fitting-for-winter-coming/
+permalink: /2009/seems-fitting-for-winter-coming/
 published: true
 post_date: 2009-11-03 09:45:59
 ---
