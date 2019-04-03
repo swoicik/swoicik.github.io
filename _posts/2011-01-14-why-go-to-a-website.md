@@ -1,11 +1,7 @@
 ---
-ID: 1754
-post_title: Why Go To A Website?
+title: Why Go To A Website?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/why-go-to-a-website/
 published: true
 post_date: 2011-01-14 08:18:46
 ---
