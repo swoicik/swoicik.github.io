@@ -79,23 +79,11 @@ One things I did want to make sure was speed of the site. I had felt that my Wor
 
 I used [Pingdom](https://tools.pingdom.com) to test the site before and after the migrations. 
 
-Wordpress Test Results
-
-| Performance   | Load Time | Page Size | Requests  |
-| ---           | ---       | ---       | ---       |
-| C - 76        | 1.26 s    | 1.9 MB    | 112       |
-
 Here is a screenshot of the results from the WordPress site. 
 ![WordPress Speed Test](/assets/img/wordpress-speed-test.png)
 
 Here is a screenshot of the result from the Jeyll site. 
 ![Jekyll Speed Test](/assets/img/jekyll-speed-test.png)
-
-Jekyll Test Results
-
-| Performance   | Load Time | Page Size | Requests  |
-| ---           | ---       | ---       | ---       |
-| A - 93        | 177 ms    | 49.0 KB   | 8         |
 
 I think the numbers speak for themselves, but the site also feels much faster. It loads quicker on my phone or tablet and is easier to use. 
 
