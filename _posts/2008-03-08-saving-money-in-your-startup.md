@@ -1,11 +1,7 @@
 ---
-ID: 728
-post_title: Saving Money in Your Startup
+title: Saving Money in Your Startup
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/saving-money-in-your-startup/
 published: true
 post_date: 2008-03-08 10:01:18
 ---
