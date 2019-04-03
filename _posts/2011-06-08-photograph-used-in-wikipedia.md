@@ -1,11 +1,8 @@
 ---
-ID: 2236
-post_title: Photograph Used in Wikipedia
+title: Photograph Used in Wikipedia
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/photograph-used-in-wikipedia/
 published: true
 post_date: 2011-06-08 14:36:02
 ---
