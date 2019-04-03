@@ -9,13 +9,11 @@ post_date: 2011-02-03 06:09:22
 tags: Quote Poem
 ---
 This was at the end of <em>The 4-Hour Work Week</em>, which I finally got around to reading. I liked it and decided to share. It's written by David L. Weatherford.
-<blockquote>Have you ever watched kids on a merry-go-round,
 
-or listened to rain slapping the ground?
-
-Ever followed a butterfly's erratic flight,
-
-or gazed at the sun fading into the night?
+> Have you ever watched kids on a merry-go-round,
+> or listened to rain slapping the ground?
+> Ever followed a butterfly's erratic flight,
+> or gazed at the sun fading into the night?
 
 You better slow down, don't dance so fast,
 
