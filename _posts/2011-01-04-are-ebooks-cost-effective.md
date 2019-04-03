@@ -1,11 +1,8 @@
 ---
-ID: 1720
-post_title: Are eBooks Cost Effective?
+title: Are eBooks Cost Effective?
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/are-ebooks-cost-effective/
 published: true
 post_date: 2011-01-04 16:48:14
 ---
