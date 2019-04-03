@@ -1,13 +1,8 @@
 ---
-ID: 152
-post_title: >
-  Steve Jobs Return to Apple and What It
-  Means for the Tablet
+title: Steve Jobs Return to Apple and What It Means for the Tablet
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2009/steve-jobs-return-to-apple-and-what-it-means-for-the-tablet/
+permalink: /2009/steve-jobs-return-to-apple-and-what-it-means-for-the-tablet/
 published: true
 post_date: 2009-08-25 05:53:46
 ---
