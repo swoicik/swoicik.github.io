@@ -1,13 +1,12 @@
 ---
-ID: 1826
-post_title: Slow Dance
+title: Slow Dance
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/slow-dance-a-poem/
+permalink: /2011/slow-dance-a-poem/
 published: true
 post_date: 2011-02-03 06:09:22
+tags: Quote Poem
 ---
 This was at the end of <em>The 4-Hour Work Week</em>, which I finally got around to reading. I liked it and decided to share. It's written by David L. Weatherford.
 <blockquote>Have you ever watched kids on a merry-go-round,
