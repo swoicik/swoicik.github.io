@@ -1,13 +1,7 @@
 ---
-ID: 950
-post_title: >
-  Kindle Use at the University Level Takes
-  a Step Backwards
+title: Kindle Use at the University Level Takes a Step Backwards
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/kindle-use-at-the-university-level-takes-a-step-backwards/
 published: true
 post_date: 2010-07-14 07:58:41
 ---
