@@ -11,13 +11,16 @@ tags: Quote Poem
 This was at the end of <em>The 4-Hour Work Week</em>, which I finally got around to reading. I liked it and decided to share. It's written by David L. Weatherford.
 
 > Have you ever watched kids on a merry-go-round,
+
 > or listened to rain slapping the ground?
+
 > Ever followed a butterfly's erratic flight,
+
 > or gazed at the sun fading into the night?
 
-You better slow down, don't dance so fast,
+> You better slow down, don't dance so fast,
 
-time is short, the music won't last.
+> time is short, the music won't last.
 
 Do you run through each day on the fly,
 
