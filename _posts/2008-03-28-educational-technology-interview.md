@@ -1,11 +1,7 @@
 ---
-ID: 714
-post_title: Educational Technology Interview
+title: Educational Technology Interview
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/educational-technology-interview/
 published: true
 post_date: 2008-03-28 08:34:43
 ---
