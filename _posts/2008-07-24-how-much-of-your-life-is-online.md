@@ -1,11 +1,7 @@
 ---
-ID: 789
-post_title: How Much Of Your Life Is Online?
+title: How Much Of Your Life Is Online?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/how-much-of-your-life-is-online/
 published: true
 post_date: 2008-07-24 14:04:00
 ---
