@@ -7,22 +7,30 @@ published: true
 post_date: 2018-05-31
 ---
 
-> "Maybe our favorite quotations say more about us than about the stories and people we’re quoting." John Green
+> Maybe our favorite quotations say more about us than about the stories and people we’re quoting.
+
+**John Green**
+
+> Start where you are. Use what you have. Do what you can.
+
+**Arthur Ashe**
+
+> Writing is like driving a car at night. You never see further than your headlights, but you can make the whole trip that way.
+
+**Cory Doctorow**
+
+> Creativity is intelligence having fun.
+
+**Albert Einstein**
+
+> Every New Year is not a time for change. Every Day is.
+
+**Unknown**
 
 
-> "Start where you are. Use what you have. Do what you can." Arthur Ashe
+> If you’re the smartest person in the room, you’re in the wrong room.
 
-
-> "Writing is like driving a car at night. You never see further than your headlights, but you can make the whole trip that way." **Cory Doctorow**
-
-
-> "Creativity is intelligence having fun." **Albert Einstein**
-
-
-> "Every New Year is not a time for change. Every Day is." **Unknown**
-
-
-> "If you’re the smartest person in the room, you’re in the wrong room." Unknown
+**Unknown**
 
 
 > Every time I’ve done something that doesn’t feel right, it’s ended up not being right.
