@@ -1,11 +1,8 @@
 ---
-ID: 2350
-post_title: 'Splitscreen: A Love Story'
+title: 'Splitscreen: A Love Story'
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/splitscreen-a-love-story/
 published: true
 post_date: 2011-07-03 14:28:16
 ---
