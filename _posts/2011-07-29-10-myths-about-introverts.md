@@ -1,11 +1,7 @@
 ---
-ID: 2359
-post_title: 10 Myths About Introverts
+title: 10 Myths About Introverts
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/10-myths-about-introverts/
 published: true
 post_date: 2011-07-29 10:00:59
 ---
