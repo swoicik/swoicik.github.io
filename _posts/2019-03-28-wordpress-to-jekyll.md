@@ -81,6 +81,7 @@ I used [Pingdom](https://tools.pingdom.com) to test the site before and after th
 
 Wordpress Test Results
 | Performance   | Load Time | Page Size | Requests  |
+| ---           | ---       | ---       | ---       |
 | C - 76        | 1.26 s    | 1.9 MB    | 112       |
 
 Here is a screenshot of the results from the WordPress site. 
@@ -91,6 +92,7 @@ Here is a screenshot of the result from the Jeyll site.
 
 Jekyll Test Results
 | Performance   | Load Time | Page Size | Requests  |
+| ---           | ---       | ---       | ---       |
 | A - 93        | 177 ms    | 49.0 KB   | 8         |
 
 I think the numbers speak for themselves, but the site also feels much faster. It loads quicker on my phone or tablet and is easier to use. 
