@@ -1,11 +1,7 @@
 ---
-ID: 704
-post_title: The New Big Brother
+title: The New Big Brother
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/apple-the-new-big-brother/
 published: true
 post_date: 2008-03-10 08:21:52
 ---
