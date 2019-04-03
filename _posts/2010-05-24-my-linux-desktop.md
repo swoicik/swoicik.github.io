@@ -1,11 +1,7 @@
 ---
-ID: 802
-post_title: Linux Desktop
+title: Linux Desktop
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/my-linux-desktop/
 published: true
 post_date: 2010-05-24 15:03:11
 ---
