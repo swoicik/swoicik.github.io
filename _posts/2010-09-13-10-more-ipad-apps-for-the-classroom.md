@@ -1,11 +1,7 @@
 ---
-ID: 981
-post_title: 10 (more) iPad Apps for the Classroom
+title: 10 (more) iPad Apps for the Classroom
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2010/10-more-ipad-apps-for-the-classroom/
 published: true
 post_date: 2010-09-13 11:52:54
 ---
