@@ -1,11 +1,9 @@
 ---
-ID: 762
-post_title: '&quot;Microsoft&quot; and &quot;Cool&quot; In The Same Sentence?'
+title: '&quot;Microsoft&quot; and &quot;Cool&quot; In The Same Sentence?'
 author: stephen
-post_excerpt: ""
 layout: post
 permalink: >
-  https://swoicik.com/2008/microsoft-and-cool-in-the-same-sentence/
+  /2008/microsoft-and-cool-in-the-same-sentence/
 published: true
 post_date: 2008-09-05 13:32:43
 ---
