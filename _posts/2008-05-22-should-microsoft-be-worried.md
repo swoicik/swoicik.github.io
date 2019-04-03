@@ -1,11 +1,7 @@
 ---
-ID: 781
-post_title: Should Microsoft Be Worried?
+title: Should Microsoft Be Worried?
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2008/should-microsoft-be-worried/
 published: true
 post_date: 2008-05-22 13:55:26
 ---
