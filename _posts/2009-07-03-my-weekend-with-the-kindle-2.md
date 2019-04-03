@@ -1,11 +1,7 @@
 ---
-ID: 3111
-post_title: Weekend With a Kindle
+title: Weekend With a Kindle
 author: stephen
-post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2009/my-weekend-with-the-kindle-2/
 published: true
 post_date: 2009-07-03 14:29:11
 ---
