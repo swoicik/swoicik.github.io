@@ -1,15 +1,14 @@
 ---
-ID: 2330
-post_title: Good Design
+title: Good Design
 author: stephen
 post_excerpt: ""
 layout: post
-permalink: >
-  https://swoicik.com/2011/dieter-rams-on-design/
 published: true
 post_date: 2011-06-29 11:11:09
+tags: Quote
 ---
-<blockquote>1. Good design is innovative
+
+> 1. Good design is innovative
 2. Good design makes a product useful
 3. Good design is aesthetic
 4. Good design makes a product understandable
@@ -18,5 +17,6 @@ post_date: 2011-06-29 11:11:09
 7. Good design is long-lasting
 8. Good design is thorough, down to the last detail
 9. Good design is environmentally friendly
-10. Good design is as little design as possible</blockquote>
+10. Good design is as little design as possible
+
 By Dieter Rams
