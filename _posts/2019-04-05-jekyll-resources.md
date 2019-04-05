@@ -69,9 +69,9 @@ While researching, I created a [GitHub repository](https://github.com/swoicik/Je
 
 **Websites**
 
-- Ben Balter https://ben.balter.com/
-- Jonathan Buys https://jonathanbuys.com/
-- Eon's Swift Blog http://eon.codes/
+- Ben Balter [https://ben.balter.com/](https://ben.balter.com/)
+- Jonathan Buys [https://jonathanbuys.com/](https://jonathanbuys.com/)
+- Eon's Swift Blog [http://eon.codes/](http://eon.codes/)
 
 Hopefully other people migrating or exploring Jekyll with find this useful. There will be many more resources I use as I continue to build and develop this site. I will update the list and I go. 
 
