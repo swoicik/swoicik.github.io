@@ -13,10 +13,10 @@ The book is being released with pay what you want pricing. There will be a $10 a
 
 **Why Pre-Oder? A few reasons.**
 
-1. Pre-ordering is they only way to get the book not he first day it is available. Maybe even a little sooner. There will be very few print editions available, pre-ordering will guarantee you get one.
+1. Pre-ordering is the only way to receive the book on the first day it's available. Maybe even a little sooner. There will be very few print editions available, pre-ordering will guarantee you get one.
 2. Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. You will provide direct feedback and input on the final version of the book.
-3. You will be directly supporting an independent author. This book is being produced on my own time and with my own money. Any pre-orders go directly to helping produce this book and making it free for others.
-4. BONUS EdTech Community. If there are at last 50 pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after the book is published. Members will be able to ask myself and others directly about the book, education, and technology topics.
+3. You will be directly supporting an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.
+4. BONUS EdTech Community. With 50+ pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.
 
 The pre-orders are being collected through [Gumroad](https://gumroad.com/l/CvEGu). You can head over there to reserve your copy or use the for below.
 
