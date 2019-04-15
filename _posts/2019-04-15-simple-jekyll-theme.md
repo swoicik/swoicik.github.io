@@ -13,5 +13,5 @@ Simple included lots of areas for personalization and an archive section organiz
 
 Feel free to use the theme for your own website and projects. You can fork or download the code directly on GitHub. 
 
-If you find any issues with the theme or have any questions, open an [issue](https://github.com/swoicik/simple-jekll-theme/issues) on GitHub or message me on [Twitter](https://twitter.com/swoicik). 
+If you find any issues with the theme or have any questions, open an [issue](https://github.com/swoicik/simple-jekll-theme/issues) on GitHub or message me on [Twitter](https://twitter.com/swoicik). Any feedback is appreciated. 
 
