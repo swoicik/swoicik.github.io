@@ -59,11 +59,14 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <h3>1:1 is for Everyone</h3>
 <p>A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
 
-<p><b>Equity</b> - Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
+<h3>Equity</h3>
+<p>Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
 
-<p><b>Asynchronous Communication</b> - How to introduce and use an asychronous workflow and how it helps students succeed.</p>
+<h3>Asynchronous Communication</h3>
+<p>How to introduce and use an asychronous workflow and how it helps students succeed.</p>
 
-<p><b>Future Proof</b> -  Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
+<h3>Future Proof</h3>
+<p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
 
 <h2 id="faq" style="text-align: center;">FAQ</h2>
 
