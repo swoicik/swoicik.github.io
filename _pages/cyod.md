@@ -16,22 +16,24 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
 
-<p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong></p>
-<p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
-  
-<p>If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.</p>
+<p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
 
 <h2 id="pre-order" style="text-align: center;">Why Pre-Order</h2>
 
-<p><b>Exclusive Content</b> - Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
+<h3>Exclusive Content</h3>
+<p>Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
 
-<p><b>Day 1 Access</b> - Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.</p>
+<h3>Day 1 Access</h3>
+<p>Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.</p>
 
-<p><b>Direct Feedback</b> - With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.</p>
+<h3>Direct Feedback</h3>
+<p>With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.</p>
 
-<p><b>Independent Author</b> - Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.</p>
+<h3>Independent Author</h3>
+<p>Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.</p>
 
-<p><b>EdTech Community</b> - With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
+<h3>EdTech Community</h3>
+<p>With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
 
 <h2 id="the-book" style="text-align: center;">About the Book</h2>
 
@@ -45,13 +47,17 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 
 <h2 id="topics" style="text-align: center;">Topics Covered</h2>
 
-<p><b>CYOD</b> - Building a Choose Youre Own Device 1:1 program for your school district.</p>
+<h3>CYOD</h3>
+<p>Building a Choose Youre Own Device 1:1 program for your school district.</p>
 
-<p><b>What's Next for 1:1</b> - How an impactful 1:1 program is about more than a device in students hands</p> 
+<h3>What's Next for 1:1</h3>
+<p>How an impactful 1:1 program is about more than a device in students hands</p> 
 
-<p><b>Digial Citizenship</b> - Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
+<h3>Digial Citizenship</h3>
+<p>Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
 
-<p><b>1:1 is for Everyone</b> - A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
+<h3>1:1 is for Everyone</h3>
+<p>A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
 
 <p><b>Equity</b> - Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
 
