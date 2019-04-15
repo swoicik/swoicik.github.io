@@ -16,17 +16,29 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
 
-## About The Book
-
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong></p>
 <p>This is my first attempt at writing a book. I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
   
 <p>If you have any questions or comments you can message me on Twitter, <a href="https://twitter.com/swoicik">@swoicik</a>.</p>
 
+<h2 id="pre-order" style="text-align: center;">Why Pre-Order</h2>
+
+**Exclusive Content** - Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.
+
+**Day 1 Access** - Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.
+
+**Direct Feedback** - With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.
+
+**Independent Author** - Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.
+
+**EdTech Community** - With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.
+
 <h2 id="the-book" style="text-align: center;">About the Book</h2>
 <p>The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.</p>
 <p>Too many well intentioned and well funded technology programs fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. I will share what I have learned and show how to mitigate or remove these obstacles. A 1:1 program is a lot more than just the device. The actual device(s) you choose matters very little.</p>
 <p>The technology used in these programs changes constantly, so my focus will be on the systems you need in place to make the program work and less about specific technology. I want the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend.</p>
+
+
 <h3 id="why-a-book">Why A Book?</h3>
 <p>Apart from being a goal to actually write a book, this format seemed the best way to distribute these ideas and best practices in the most beneficial and impactful way. It’s a scaleable way to share an idea.</p>
 <h3 id="why-public">Why Public?</h3>
@@ -43,6 +55,7 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <p>You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doesn't sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.</p>
 <h3>Pre-Order</h3>
 <p>You can now pre-order the book the book. The book is being released under a pay what you want model. Pre-order by <a href="https://gumroad.com/l/CvEGu" target="_blank" rel="noopener noreferrer">clicking here</a>, or using the form below. </p>
+
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="CvEGu"><a href="https://gumroad.com/l/CvEGu">Loading...</a></div>
