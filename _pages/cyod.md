@@ -68,6 +68,13 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <h3>Future Proof</h3>
 <p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
 
+<h2 id="price" style="text-align: center;">Pay What Your Want</h2>
+
+<p>The pricing for the book is very simple, whatever works for your budget. Pay what you want or think is fair, including paying nothing.</p>
+
+<p>The information in this book is there to help improve the education of our students. It shouldn't be behind a paywall. The book is really free and you are encouraged to share it.</p>
+
+
 <h2 id="faq" style="text-align: center;">FAQ</h2>
 
 
