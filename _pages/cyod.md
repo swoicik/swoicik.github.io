@@ -23,15 +23,15 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 
 <h2 id="pre-order" style="text-align: center;">Why Pre-Order</h2>
 
-**Exclusive Content** - Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.
+<p><b>Exclusive Content</b> - Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
 
-**Day 1 Access** - Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.
+<p><b>Day 1 Access</b> - Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.</p>
 
-**Direct Feedback** - With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.
+<p><b>Direct Feedback</b> - With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.</p>
 
-**Independent Author** - Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.
+<p><b>Independent Author</b> - Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.</p>
 
-**EdTech Community** - With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.
+<p><b>EdTech Community</b> - With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
 
 <h2 id="the-book" style="text-align: center;">About the Book</h2>
 <p>The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.</p>
