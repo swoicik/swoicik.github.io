@@ -34,9 +34,32 @@ The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
 <p><b>EdTech Community</b> - With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
 
 <h2 id="the-book" style="text-align: center;">About the Book</h2>
-<p>The focus of the book is, how to implement a successful and sustainable 1:1 program in a K12 environments. I advocate for the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.</p>
-<p>Too many well intentioned and well funded technology programs fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. I will share what I have learned and show how to mitigate or remove these obstacles. A 1:1 program is a lot more than just the device. The actual device(s) you choose matters very little.</p>
-<p>The technology used in these programs changes constantly, so my focus will be on the systems you need in place to make the program work and less about specific technology. I want the content of the book to apply to any technology program you would run in education, not just a blip in time when (insert your favorite tech) is the current trend.</p>
+
+<p>This book is being written for anyone working with educational technology. If you have devices in the hands of student in your distrcit, I want to help. The book is being written from my experience as both a classroom teacher and a distrcit administrator. 
+
+<p>The focus of the book is, how to implement an impactful and sustainable 1:1 program in a K12 environments. Not just giving every kid a device. The book will introduct and advocate the CYOD (Choose Your Own Device) model, but the ideas can be applied to any model you choose.</p>
+
+<p>Many well intentioned and well funded technology initiatives fall flat. Programs fail for any combination of reasons; planning, implementation, culture, understanding, communication, etc. I will share what I have learned and show how to mitigate or remove these obstacles. A 1:1 program is a lot more than just the device. The actual device(s) you choose matter very little.</p>
+
+<p>The technology used in these programs changes constantly, My focus will be on the systems you need in place to make the program work and less about specific technology. The content of the book will apply to any technology initiative you want run, not just a blip in time when (insert your favorite tech) is the current trend.</p>
+
+<h2 id="topics" style="text-align: center;">Topics Covered</h2>
+
+<p><b>CYOD</b> - Building a Choose Youre Own Device 1:1 program for your school district.</p>
+
+<p><b>What's Next for 1:1</b> - How an impactful 1:1 program is about more than a device in students hands</p> 
+
+<p><b>Digial Citizenship</b> - Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
+
+<p><b>1:1 is for Everyone</b> - A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
+
+<p><b>Equity</b> - Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
+
+<p><b>Asynchronous Communication</b> - How to introduce and use an asychronous workflow and how it helps students succeed.</p>
+
+<p><b>Future Proof</b> -  Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
+
+<h2 id="faq" style="text-align: center;">FAQ</h2>
 
 
 <h3 id="why-a-book">Why A Book?</h3>
