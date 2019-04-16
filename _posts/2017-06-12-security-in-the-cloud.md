@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Privacy Security
 post_date: 2017-06-12 10:36:31
 ---
 <p id="0ce1" class="graf graf--p graf-after--h3">I have been critical of the cloud for some time. I’m still don’t like the idea of putting my data on someone else’s computer. You don’t have the usual control over the data. However, I heard an argument recently, that changed my view a bit in favor of the cloud.</p>

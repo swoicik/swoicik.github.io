@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Ideas Small-Business
 post_date: 2017-06-07 10:33:26
 ---
 <p id="c7e1" class="graf graf--p graf-after--h3">Instead of everyone at your company having their own email, why not just have a shared group email. I.e. instead of having bwayne@example.com and ckent@example.com, you would just have hello@example.com.</p>

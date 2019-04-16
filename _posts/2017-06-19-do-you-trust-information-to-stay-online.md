@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Privacy 
 post_date: 2017-06-19
 ---
 <p id="a86a" class="graf graf--p graf-after--h3">A folder on my desktop is named Resources. This folder is filled mostly with PDF print outs of websites. Whenever I find an interesting article, useful tutorial, or free resource, I make a PDF and save it. I don’t trust that the information will be on the website when I want to read it again, or that I’ll be able to find it.</p>

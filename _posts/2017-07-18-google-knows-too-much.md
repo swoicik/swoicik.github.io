@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Google Privacy
 post_date: 2017-07-18 18:00:29
 ---
 Google builds some great products, and they seem to have a free (or cheap) option for just about anything you could want to do with a computer.

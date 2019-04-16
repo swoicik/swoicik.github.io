@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Amazon
 post_date: 2017-06-08 10:34:42
 ---
 <p id="0009" class="graf graf--p graf-after--h3">Amazon is where most of the world seems to shop. It’s where we go to check prices, do research on products, and most importantly buy products. They are known for having everything. The largest inventory out there and lowest prices.</p>

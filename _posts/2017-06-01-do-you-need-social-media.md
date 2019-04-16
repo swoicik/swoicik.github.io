@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Social-Media 
 post_date: 2017-06-01 10:21:27
 ---
 <p id="1b7b" class="graf graf--p graf-after--h3">There is this idea in marketing of “be everywhere.” The idea that your company needs to be everywhere so that you are in front of as many potential customers as possible.</p>

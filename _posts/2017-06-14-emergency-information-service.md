@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Ideas
 post_date: 2017-06-14 10:37:52
 ---
 <p id="08af" class="graf graf--p graf-after--h3">I want an app or website that is able to give me the local emergency information for whatever area I am in. A service like this would be helpful for many different situations.</p>

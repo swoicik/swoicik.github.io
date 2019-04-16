@@ -3,7 +3,7 @@ title: Adding Context to Reminders
 author: stephen
 layout: post
 published: true
-tags: Ideas
+tags: Idea
 post_date: 2018-09-25
 ---
 I wear headphones constantly, usually listening to an audiobook, podcast, or random playlist. While listening, I will usually remember something I needed to do, or get an idea to research further. Not wanting to or unable (driving) to interrupt what I am listing to, I need to make a quick note so I don't completely forget the idea.

@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Google Opinion GitHub
 post_date: 2017-06-05 10:28:25
 ---
 <p id="4b35" class="graf graf--p graf-after--h3">Google used to be my default search engine. If I had a question, Google was the best place to start. That is becoming less and less true.</p>

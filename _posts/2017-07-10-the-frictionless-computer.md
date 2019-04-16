@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Apple Technology Opinion
 post_date: 2017-07-10
 ---
 I have long been a user of open source software. Installing Linux (most recently <a href="http://swoicik.com/2015/setting-up-elementary-os-freya/">Elementary OS</a>) on all my computers, and trying to use open source alternatives whenever possible. Despite my personal preference to use open source software, I regularly find myself going back to the iPad as my daily driver.

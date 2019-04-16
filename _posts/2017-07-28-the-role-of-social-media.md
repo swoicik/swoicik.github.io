@@ -1,10 +1,9 @@
 ---
-ID: 3683
 post_title: The Role of Social Media
 author: stephen
-post_excerpt: ""
 layout: post
 published: true
+tags: Social-Media 
 post_date: 2017-07-28 17:38:11
 ---
 The role of social media has changed. It has transitioned from promotion and sales, to engagement and customer support.

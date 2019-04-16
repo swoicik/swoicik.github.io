@@ -5,6 +5,7 @@ author: stephen
 post_excerpt: ""
 layout: post
 published: true
+tags: Opinion
 post_date: 2017-05-31 19:27:55
 ---
 <p id="36aa" class="graf graf--p graf-after--h3">Anyone who works in tech, or any industry by now, has heard of or used <a class="markup--anchor markup--p-anchor" href="https://slack.com/" target="_blank" rel="nofollow noopener" data-href="https://slack.com/">Slack</a>. It has become wildly popular as the latest productivity tool.</p>
