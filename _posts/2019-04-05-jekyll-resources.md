@@ -3,6 +3,7 @@ title: Jekyll Resources
 author: stephen
 layout: post
 published: true
+tags: Jekyll
 post_date: 2019-04-05
 ---
 I recently migrated this website from WordPress to Jekyll. You can read about that decision and process on [this post](/2019/wordpress-to-jekyll). Before making that migration, research was done to ensure Jekyll was the right platform. 

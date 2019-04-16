@@ -3,6 +3,7 @@ title: CYOD Pre-Order
 author: stephen
 layout: post
 published: true
+tags: CYOD
 post_date: 2019-03-25 16:04:25
 ---
 > This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book [here](https://swoicik.com/cyod).

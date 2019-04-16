@@ -3,6 +3,7 @@ title: Google Graveyard
 author: stephen
 layout: post
 published: true
+tags: Google
 post_date: 2019-04-03
 ---
 I recently re-discovered this website, [Killed By Google](https://killedbygoogle.com). It's an [open source project](https://github.com/codyogden/killedbygoogle/issues) to record all the the serices, apps, and deices that Google has cancelled over the years. Including all the companies they have acquired and shut down. 

@@ -3,6 +3,7 @@ title: Simple Jekyll Theme
 author: stephen
 layout: post
 published: true
+tags: Jekyll
 post_date: 2019-04-15
 ---
 In my [previous post](https://swoicik.com/2019/wordpress-to-jekyll) about transitioning from WordPress or Jekyll, I mentioned I’d share the theme I used. After cleaning up the code and adding some generic theme options, I’m happy to share [Simple](https://github.com/swoicik/simple-jekll-theme). 

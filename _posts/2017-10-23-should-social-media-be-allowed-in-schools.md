@@ -4,7 +4,7 @@ author: stephen
 layout: post
 published: true
 post_date: 2017-10-23
-tags: Social-Meda Education EdTech
+tags: Social-Media Education EdTech
 ---
 <blockquote>TL;DR Yes!</blockquote>
 Not having social media in schools is not preparing our students for life beyond the school walls, and believing that educations lives in a vacuum.
