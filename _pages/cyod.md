@@ -17,7 +17,7 @@ post_date: 2018-05-31 16:59:49
 
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
 
-<h2 id="pre-order" style="text-align: center;">Why Pre-Order</h2>
+<h2 id="pre-order" style="text-align: center;">WHY PRE-ORDER</h2>
 
 <h3>Exclusive Content</h3>
 <p>Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
@@ -34,7 +34,7 @@ post_date: 2018-05-31 16:59:49
 <h3>EdTech Community</h3>
 <p>With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
 
-<h2 id="the-book" style="text-align: center;">About the Book</h2>
+<h2 id="the-book" style="text-align: center;">ABOUT THE BOOK</h2>
 
 <p>This book is being written for anyone working with educational technology. If you have devices in the hands of student in your distrcit, I want to help. The book is being written from my experience as both a classroom teacher and a distrcit administrator. 
 
@@ -44,7 +44,7 @@ post_date: 2018-05-31 16:59:49
 
 <p>The technology used in these programs changes constantly, My focus will be on the systems you need in place to make the program work and less about specific technology. The content of the book will apply to any technology initiative you want run, not just a blip in time when (insert your favorite tech) is the current trend.</p>
 
-<h2 id="topics" style="text-align: center;">Topics Covered</h2>
+<h2 id="topics" style="text-align: center;">TOPICS COVERED</h2>
 
 <h3>CYOD</h3>
 <p>Building a Choose Youre Own Device 1:1 program for your school district.</p>
@@ -67,7 +67,7 @@ post_date: 2018-05-31 16:59:49
 <h3>Future Proof</h3>
 <p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
 
-<h2 id="price" style="text-align: center;">Pay What Your Want</h2>
+<h2 id="price" style="text-align: center;">PRICING</h2>
 
 <p>The pricing for the book is very simple, whatever works for your budget. Pay what you want or think is fair, including paying nothing.</p>
 
@@ -75,7 +75,6 @@ post_date: 2018-05-31 16:59:49
 
 
 <h2 id="faq" style="text-align: center;">FAQ</h2>
-
 
 <h3 id="why-a-book">Why A Book?</h3>
 <p>Apart from being a goal to actually write a book, this format seemed the best way to distribute these ideas and best practices in the most beneficial and impactful way. It’s a scaleable way to share an idea.</p>
@@ -86,7 +85,7 @@ post_date: 2018-05-31 16:59:49
 <p>I wanted to share the entire process I’m going through (the source code of the book), hopefully it will help someone else.</p>
 <p>There are lots of way to contribute and support this project. Any and all ways are greatly appreciated. Projects like this aren’t possible without a community of supporters around it.</p>
 
-<h2 style="text-align: center;">Ways to Contribute</h2>
+<h2 style="text-align: center;">WAYS TO CONTRIBUTE</h2>
 <h3 id="spread-the-word">Spread the Word</h3>
 <p>Sharing this project with others is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know (<a href="https://twitter.com/swoicik">@swoicik</a>).</p>
 <h3 id="help-editing">Help Editing</h3>
