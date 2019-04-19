@@ -46,14 +46,11 @@ post_date: 2018-05-31 16:59:49
 
 <h2 id="topics" style="text-align: center;">TOPICS COVERED</h2>
 
-<h3>CYOD</h3>
-<p>Building a Choose Youre Own Device 1:1 program for your school district.</p>
+<p><b>CYOD</b> - Building a Choose Youre Own Device 1:1 program for your school district.</p>
 
-<h3>What's Next for 1:1</h3>
-<p>How an impactful 1:1 program is about more than a device in students hands</p> 
+<p><b>What's Next for 1:1</b> - How an impactful 1:1 program is about more than a device in students hands</p> 
 
-<h3>Digial Citizenship</h3>
-<p>Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
+<p><b>Digital Citizenship</b> - Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
 
 <h3>1:1 is for Everyone</h3>
 <p>A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
