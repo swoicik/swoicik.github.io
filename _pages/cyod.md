@@ -8,9 +8,8 @@ published: true
 post_date: 2018-05-31 16:59:49
 ---
 
-The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!
-
 <p style="text-align: center;">
+<h3>The book is now available for [Pre-Order](https://gumroad.com/l/CvEGu)!</h3>
 <img width="250" src="/assets/img/choice-3.png" />
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
