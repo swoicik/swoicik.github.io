@@ -15,7 +15,7 @@ post_date: 2018-05-31 16:59:49
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
 
-<p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> I am writing this book entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
+<p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> This book is being written entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
 
 <h2 id="pre-order" style="text-align: center;">WHY PRE-ORDER</h2>
 
@@ -52,17 +52,13 @@ post_date: 2018-05-31 16:59:49
 
 <p><b>Digital Citizenship</b> - Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p>
 
-<h3>1:1 is for Everyone</h3>
-<p>A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
+<p><b>1:1 is for Everyone</b> - A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p>
 
-<h3>Equity</h3>
-<p>Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
+<p><b>Equity</b> - Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p>
 
-<h3>Asynchronous Communication</h3>
-<p>How to introduce and use an asychronous workflow and how it helps students succeed.</p>
+<p><b>Asynchronous Communication</b> - How to introduce and use an asychronous workflow and how it helps students succeed.</p>
 
-<h3>Future Proof</h3>
-<p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
+<p><b>Future Proof</b> - Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
 
 <h2 id="price" style="text-align: center;">PRICING</h2>
 
