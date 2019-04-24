@@ -10,12 +10,11 @@ post_date: 2019-04-24
 
 ![CHOICE](/assets/img/choice-3.png)
 
----
-
 ## Chapter 1 
 
 There are three stories from my experiences with educational technology that have shaped my thinking and philosophy. Each story is from a different perspective; Personal, Professional, Outsider. Each story has a common theme that reinforced my own conclusions. It pushed me to implement a Choose Your Own Device (CYOD) 1:1 program and write this book. 
-### Story 1: My Son
+
+### Story 1: My Son
 
 The first experience that prompted me to begin seriously researching the idea of a CYOD or multi-device program for education was my oldest son. Seeing the way he views and interacts with technology and how drastically different this is from my old way of thinking. 
 
@@ -30,7 +29,8 @@ This is far different from how things were when I was first exposed to technolog
 These problems are almost nonexistent now. And becoming less and less a concern, if at all, to students in school today. Every device will access the internet, and any content (or a good alternative) is viewable on the device. 
 
 The device no longer matters. It is only a way to access the internet/content. A means to an end, not the end itself. 
-### Story 2: Standardized Testing
+
+### Story 2: Standardized Testing
 
 Standardized testing is ever present in education. Regardless if you think it’s good or bad for students, it just is. 
 
@@ -51,7 +51,8 @@ Students with the new Chromebooks chose to use the devices in a way that was mos
 The devices capable is the 4 in 1 layout option were used in a variety of ways. The student choose what was most comfortable for them to take the test. 
 
 They are taking the same test, and answering the same questions, but were able to use the technology in a way that was more comfortable to them. It was an eye opening moment for removing the technology barrier many of the students face with standardized testing. 
-### Story 3: The Ed Tech Wasteland
+
+### Story 3: The Ed Tech Wasteland
 
 This one is less of a story and more of an observation after years of working in educational technology. 
 
@@ -65,4 +66,8 @@ Too much good many has gone into bad technology implementations. This book is a 
 
 ---
 
-I hope you enjoyed this sample from the book. If you'd like to learn more, head over to the [book page](/cyod). If you'd like to pre-order the book, head over to [Gumroad](https://gum.co/CvEGu).
+I hope you enjoyed this sample from the book. If you'd like to learn more, head over to the [book page](/cyod). If you'd like to pre-order the book, use the form below or head over to [Gumroad](https://gum.co/CvEGu).
+
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="CvEGu"><a href="https://gumroad.com/l/CvEGu">Loading...</a></div>
+
