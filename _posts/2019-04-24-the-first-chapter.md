@@ -64,7 +64,9 @@ The goal of this book is to avoid many of these mistakes. To build a truly effec
 
 Too much good many has gone into bad technology implementations. This book is a guide to fix that.
 
+
 ---
+
 
 I hope you enjoyed this sample from the book. If you'd like to learn more, head over to the [book page](/cyod). If you'd like to pre-order the book, use the form below or head over to [Gumroad](https://gum.co/CvEGu).
 
