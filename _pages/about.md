@@ -32,6 +32,6 @@ Apple iPhone 8 – I upgraded from an iPhone SE after the screen broke. I have p
 ## Website
 [Jekyll](https://jekyllrb.com/) - I recently migrated this site from WordPress to Jekyll. You can read about the process and the reasons on this [blog post](/2019/wordpress-to-jekyll).
 
-[Simple Jekyll Theme](https://github.com/swoicik/simple-jekll-theme) - 
+[Simple Jekyll Theme](https://github.com/swoicik/simple-jekll-theme) - This is a theme I developed. It's based off the Tale theme. You can read more about it [here](/2019/simple-jekyll-theme)
 
 [GitHub Pages](https://pages.github.com/) - This site is hosted on GitHub Pages. A free hosting option provided by GitHub. 
