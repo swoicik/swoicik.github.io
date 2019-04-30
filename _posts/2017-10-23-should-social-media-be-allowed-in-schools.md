@@ -4,6 +4,7 @@ author: stephen
 layout: post
 published: true
 post_date: 2017-10-23
+permalink: /2017/should-social-media-be allowed-in-schools/
 tags: Social-Media Education EdTech
 ---
 <blockquote>TL;DR Yes!</blockquote>
