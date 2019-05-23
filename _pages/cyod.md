@@ -9,23 +9,13 @@ post_date: 2018-05-31 16:59:49
 ---
 <h3 style="text-align: center;">The book is now available for <a href="https://gumroad.com/l/CvEGu">Pre-Order</a></h3>
 
-<table style="width:100%">
-  <tr>
-    <td><img width="250" src="/assets/img/choice-3.png" /></td>
-    <td>
-      <h3>CHOICE</h3>
-      <p>Personalized learning through personalized technology. A new educational technology book by Stephen Woicik.</p>
-      <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>     </td> 
-  </tr>
-</table>
-
-<!--
 <p style="text-align: center;">
 <img width="250" src="/assets/img/choice-3.png" />
+Personalized learning through personalized technology. A new educational technology book by Stephen Woicik.
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
--->
+
 
 <p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> This book is being written entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
 
