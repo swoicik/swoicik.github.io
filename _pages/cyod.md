@@ -86,18 +86,26 @@ post_date: 2018-05-31 16:59:49
     </ul>
   </section>
 
+<div class="post-line"></div>
+
 <h2 id="faq" style="text-align: center;">FAQ</h2>
 
 <h3 id="why-a-book">Why A Book?</h3>
 <p>Apart from being a goal to actually write a book, this format seemed the best way to distribute these ideas and best practices in the most beneficial and impactful way. It’s a scaleable way to share an idea.</p>
-<h3 id="why-public">Why Public?</h3>
-<p>Before deciding to attempt writing a book, I did a lot of research on how to write a book, and reached out to people that had done it before. I wanted an idea of what I was getting into. Most advice boils down to “Just write.” Good advice, but I needed more.</p>
-<p>Writing a book is a weird thing. A person works almost in secret (or with a small group of people) for a very long time then releases everything into the world. The final product is known, but very little is shared about the process.</p>
-<p>When I’m learning how to code something new, I don’t go look at the final products that people made, I look at the source code and try to figure out how they built it.</p>
-<p>I wanted to share the entire process I’m going through (the source code of the book), hopefully it will help someone else.</p>
-<p>There are lots of way to contribute and support this project. Any and all ways are greatly appreciated. Projects like this aren’t possible without a community of supporters around it.</p>
 
-<h2 style="text-align: center;">WAYS TO CONTRIBUTE</h2>
+<h3>Who is this book for?</h3>
+<p>Anyone working or involved with K12 education. The topics explored and discussed are with the assumption of a K12 school district and student population.</p>
+
+<h3>When will the book be published?</h3>
+<p>The book is scheduled to launch on August 30, 2019. This date is subject to changes if unforeseen issues arise with self-publishing.</p>
+
+<h3>Is it really free?</h3>
+<p>The information in this book is there to help improve the education of our students. It shouldn't be behind a paywall. The book is really free and you are encouraged to share it.</p>
+
+<h3>I want to learn more...</h3>
+<p>Feel free to contact me direct at stephen [a] woicik.me, or on <a href="https://twitter.com/swoicik">Twitter</a></p>
+
+<h2 style="text-align: center;">OTHER WAYS TO CONTRIBUTE</h2>
 <h3 id="spread-the-word">Spread the Word</h3>
 <p>Sharing this project with others is a great way to contribute. Share by word of mouth, social media, or any way you choose. If you share this project on Twitter, feel free to let me know (<a href="https://twitter.com/swoicik">@swoicik</a>).</p>
 <h3 id="help-editing">Help Editing</h3>
