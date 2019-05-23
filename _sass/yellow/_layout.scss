@@ -117,20 +117,24 @@ main {
   }
 }
 
-.flex-grid > ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 1rem;
-  list-style-type: none;
-}
+.flex-grid {
+  
+  ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    list-style-type: none;
+  }
 
-.flex-grid > ul > li {
-  border: 1px solid #E2E2E2;
-  border-radius: .5rem;
-}
+  li {
+    border: 1px solid #E2E2E2;
+    border-radius: .5rem;
+    list-style-type: none;
+  }
 
-.flex-grid > h3 {
-  text-align:center;
+  h3 {
+    text-align:center;
+  }
 }
 
 footer {
