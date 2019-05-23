@@ -117,6 +117,12 @@ main {
   }
 }
 
+.flex-grid > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+}
+
 footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
