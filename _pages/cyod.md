@@ -11,30 +11,11 @@ post_date: 2018-05-31 16:59:49
 
 <p style="text-align: center;">
 <img width="250" src="/assets/img/choice-3.png" />
-Personalized learning through personalized technology. A new educational technology book by Stephen Woicik.
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
 </p>
 
-
-<p><strong>I am writing a book on Educational Technology based around the CYOD (Choose Your Own Device) 1:1 Model.</strong> This book is being written entirely in the public (a good idea or an insane one?). You can view the progress on <a href="https://github.com/swoicik/book-cyod">GitHub</a>.
-
-<h2 id="pre-order" style="text-align: center;">WHY PRE-ORDER</h2>
-
-<h3>Exclusive Content</h3>
-<p>Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
-
-<h3>Day 1 Access</h3>
-<p>Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.</p>
-
-<h3>Direct Feedback</h3>
-<p>With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.</p>
-
-<h3>Independent Author</h3>
-<p>Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.</p>
-
-<h3>EdTech Community</h3>
-<p>With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
+<div class="post-line"></div>
 
 <h2 id="the-book" style="text-align: center;">ABOUT THE BOOK</h2>
 
@@ -62,12 +43,29 @@ Personalized learning through personalized technology. A new educational technol
 
 <p><b>Future Proof</b> - Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p>
 
+<h2 id="pre-order" style="text-align: center;">WHY PRE-ORDER</h2>
+
+<h3>Exclusive Content</h3>
+<p>Access to a pre-order only newsletter that will keep you up to date with the book’s progress and ask for your input. Get an inside look at writing the book.</p>
+
+<h3>Day 1 Access</h3>
+<p>Pre-ordering is the only way to receive the book on the first day it's available (maybe even a little sooner). There will be few print editions available at launch, pre-ordering will guarantee you get one.</p>
+
+<h3>Direct Feedback</h3>
+<p>With the newsletter I will be providing early chapter samples and asking for feedback from you. Your feedback and input will influence the final version of the book.</p>
+
+<h3>Independent Author</h3>
+<p>Directly support an independent author. This book is being produced entirely on my own. Any pre-order purchases go directly to helping produce this book and making it free for others.</p>
+
+<h3>EdTech Community</h3>
+<p>With enough pre-orders, I will organize and be an active participant in a Slack Community (or similar technology) built around the book’s topics. This community will start before the book’s launch, and continue after.</p>
+
+
 <h2 id="price" style="text-align: center;">PRICING</h2>
 
 <p>The pricing for the book is very simple, whatever works for your budget. Pay what you want or think is fair, including paying nothing.</p>
 
 <p>The information in this book is there to help improve the education of our students. It shouldn't be behind a paywall. The book is really free and you are encouraged to share it.</p>
-
 
 <h2 id="faq" style="text-align: center;">FAQ</h2>
 
