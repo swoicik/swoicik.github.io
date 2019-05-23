@@ -7,7 +7,7 @@ permalink: /cyod/
 published: true
 post_date: 2018-05-31 16:59:49
 ---
-<h3 style="text-align: center;">The book is now available for <a href="https://gumroad.com/l/CvEGu">Pre-Order</a></h3>
+<h3 style="text-align: center;">The book is now available for <a href="https://gumroad.com/l/CvEGu">Pre-Order</a>. Read the <a href="/2019/the-first-chapter">First Chapter Now</a>.</h3>
 
 <p style="text-align: center;">
 <img width="250" src="/assets/img/choice-3.png" />
