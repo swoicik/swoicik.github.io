@@ -73,7 +73,7 @@ post_date: 2018-05-31 16:59:49
         <p>PDF and EPUP versions</p>
         <p>DRM Free</p>
         <p>Free to share with others</p>
-        <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a>
+        <p style="text-align: center;"><script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a></p>
       </li>
       <li>
         <h3>Physical Copy</h3>
@@ -81,7 +81,7 @@ post_date: 2018-05-31 16:59:49
         <p>Limited first run for pre-orders</p>
         <p>First 100 will be signed</p>
         <p>Includes Digital Copy</p>
-        <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a>
+        <p style="text-align: center;"><script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a></p>
       </li>
     </ul>
   </section>
