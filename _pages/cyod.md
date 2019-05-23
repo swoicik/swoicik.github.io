@@ -65,6 +65,27 @@ post_date: 2018-05-31 16:59:49
 
 <p>The information in this book is there to help improve the education of our students. It shouldn't be behind a paywall. The book is really free and you are encouraged to share it.</p>
 
+<section class="flex-grid">
+    <ul>
+      <li>
+        <h3>Digital Copy</h3>
+        <h3>$0+</h3>
+        <p>PDF and EPUP versions</p>
+        <p>DRM Free</p>
+        <p>Free to share with others</p>
+        <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
+      </li>
+      <li>
+        <h3>Physical Copy</h3>
+        <h3>$12+</h3>
+        <p>Limited first run for pre-orders</p>
+        <p>First 100 will be signed</p>
+        <p>Includes Digital Copy</p>
+        <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Pre-Order</a>
+      </li>
+    </ul>
+  </section>
+
 <h2 id="faq" style="text-align: center;">FAQ</h2>
 
 <h3 id="why-a-book">Why A Book?</h3>
