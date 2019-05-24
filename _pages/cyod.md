@@ -111,8 +111,4 @@ post_date: 2018-05-31 16:59:49
 <h3 id="help-editing">Help Editing</h3>
 <p>You are viewing the raw form of this writing. Part of this project is you get to see how the book is being written, not just the finished project. When you reading through you notice a spelling issue, grammar issue, or something just doesn't sound right, let me know. You can create an issue on <a href="https://github.com/swoicik/cyod/issues">GitHub</a> or message me on <a href="https://twitter.com/swoicik">Twitter</a>.</p>
 <h3>Pre-Order</h3>
-<p>You can now pre-order the book the book. The book is being released under a pay what you want model. Pre-order by <a href="https://gumroad.com/l/CvEGu" target="_blank" rel="noopener noreferrer">clicking here</a>, or using the form below. </p>
-
-
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="CvEGu"><a href="https://gumroad.com/l/CvEGu">Loading...</a></div>
+<p>You can now pre-order the book the book. The book is being released under a pay what you want model. Pre-order by <a href="https://gumroad.com/l/CvEGu" target="_blank" rel="noopener noreferrer">clicking here</a>.
