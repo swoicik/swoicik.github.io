@@ -70,17 +70,17 @@ post_date: 2018-05-31 16:59:49
       <li>
         <h3>Digital Copy</h3>
         <h3>$0+</h3>
-        <p>PDF and EPUP versions</p>
-        <p>DRM Free</p>
-        <p>Free to share with others</p>
+        <p><i class="material-icons">done</i> PDF and EPUP versions</p>
+        <p><i class="material-icons">done</i> DRM Free</p>
+        <p>F<i class="material-icons">done</i> ree to share with others</p>
         <p style="text-align: center;"><script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a></p>
       </li>
       <li>
         <h3>Physical Copy</h3>
         <h3>$12+</h3>
-        <p>Limited first run for pre-orders</p>
-        <p>First 100 will be signed</p>
-        <p>Includes Digital Copy</p>
+        <p><i class="material-icons">done</i> Includes Digital Copy</p>
+        <p><i class="material-icons">done</i> Limited first run for pre-orders</p>
+        <p><i class="material-icons">done</i> First 100 will be signed</p>
         <p style="text-align: center;"><script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://gum.co/CvEGu">Order Now</a></p>
       </li>
     </ul>
