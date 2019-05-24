@@ -37,6 +37,7 @@ post_date: 2018-05-31 16:59:49
       <li><i class="material-icons md-64">border_all</i><br /><b>Equity</b><p>Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p></li>
       <li><i class="material-icons md-64">sync</i><br /><b>Asynchronous Communication</b><p>How to introduce and use an asychronous workflow and how it helps students succeed.</p></li>
       <li><i class="material-icons md-64">insert_chart_outline</i><br /><b>Future Proof</b><p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p></li>
+      <li><i class="material-icons md-64">add_to_queue</i><br /><b>Technology Habit</b><p>Learning how to learn with technology. How do we make it a habit?</p></li>
     </ul>
   </section>
 
