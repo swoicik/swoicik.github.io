@@ -125,6 +125,7 @@ main {
     grid-gap: 1rem;
     padding: 0;
     list-style-type: none;
+    text-align:center;
   }
 
   li {
@@ -134,20 +135,11 @@ main {
     padding: 10px;
     list-style-type: none;
   }
-
-  h3 {
-    text-align:center;
-  }
-  
-  i {
-    text-align: center;
-  }
   
 }
 
 .material-icons.md-64 { 
     font-size: 64px; 
-    align-items: center;
 }
 
 .btn {
