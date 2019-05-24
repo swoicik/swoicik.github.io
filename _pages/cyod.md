@@ -30,13 +30,13 @@ post_date: 2018-05-31 16:59:49
 <h2 id="topics" style="text-align: center;">TOPICS COVERED</h2>
   <section class="flex-grid">
     <ul>
-      <li><i class="material-icons md-64">devices</i><b>CYOD</b><p>Building a Choose Youre Own Device 1:1 program for your school district.</p></li>
-      <li><p><b>What's Next for 1:1</b> - How an impactful 1:1 program is about more than a device in students hands</p></li>
-      <li><i class="material-icons md-64">face</i><b>Digital Citizenship</b><p>Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p></li>
-      <li><p><b>1:1 is for Everyone</b> - A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p></li>
-      <li><p><b>Equity</b> - Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p></li>
-      <li><p><b>Asynchronous Communication</b> - How to introduce and use an asychronous workflow and how it helps students succeed.</p></li>
-      <li><p><b>Future Proof</b> - Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p></li>
+      <li><i class="material-icons md-64">devices</i><br /><b>CYOD</b><p>Building a Choose Youre Own Device 1:1 program for your school district.</p></li>
+      <li><i class="material-icons md-64">device_unknown</i><br /><b>What's Next for 1:1</b><p>How an impactful 1:1 program is about more than a device in students hands</p></li>
+      <li><i class="material-icons md-64">face</i><br /><b>Digital Citizenship</b><p>Technology is an unavoidable part of society and learning today. Understanding it is part of being a good citizen.</p></li>
+      <li><i class="material-icons md-64">people</i><br /><b>1:1 is for Everyone</b><p>A 1:1 program is about studnts, teachers, administrators, and the community participating and working together.</p></li>
+      <li><i class="material-icons md-64">border_all</i><br /><b>Equity</b><p>Giving everyone the same device is equality. Giving everyone the device they need to be successful is equity.</p></li>
+      <li><i class="material-icons md-64">sync</i><br /><b>Asynchronous Communication</b><p>How to introduce and use an asychronous workflow and how it helps students succeed.</p></li>
+      <li><i class="material-icons md-64">insert_chart_outline</i><br /><b>Future Proof</b><p>Technology is a huge investment for any distrcit. We'll discuss how to protect this investment.</p></li>
     </ul>
   </section>
 
