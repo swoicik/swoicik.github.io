@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Archive (Tag)
+title: Archive
 description: List of articles and posts by tags.
-permalink: /tags/
+permalink: /topics/
 ---
 
 <!-- Get the tag name for every tag on the site and set them
@@ -15,7 +15,6 @@ to the `site_tags` variable. -->
 <!-- Build the Page -->
 
 <!-- List of all tags -->
-<h3>By Topic</h3>
 <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
@@ -46,4 +45,3 @@ to the `site_tags` variable. -->
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
 </div>
-
