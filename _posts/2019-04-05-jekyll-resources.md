@@ -3,12 +3,14 @@ title: Jekyll Resources
 author: stephen
 layout: post
 published: true
-tags: Jekyll
+tags:
+- Jekyll
+- GitHub
 post_date: 2019-04-05
 ---
-I recently migrated this website from WordPress to Jekyll. You can read about that decision and process on [this post](/2019/wordpress-to-jekyll). Before making that migration, research was done to ensure Jekyll was the right platform. 
+I recently migrated this website from WordPress to Jekyll. You can read about that decision and process on [this post](/2019/wordpress-to-jekyll). Before making that migration, research was done to ensure Jekyll was the right platform.
 
-While researching, I created a [GitHub repository](https://github.com/swoicik/Jekyll-Resources) to track themes, plugins, and sites that used Jekyll. I am going to share some of these resources here. Check out the repository for the complete list and share your own. 
+While researching, I created a [GitHub repository](https://github.com/swoicik/Jekyll-Resources) to track themes, plugins, and sites that used Jekyll. I am going to share some of these resources here. Check out the repository for the complete list and share your own.
 
 **Themes**
 - [*folio](https://github.com/bogoli/-folio) by [Lia Bogoev](https://github.com/bogoli)
@@ -74,9 +76,6 @@ While researching, I created a [GitHub repository](https://github.com/swoicik/Je
 - Jonathan Buys [https://jonathanbuys.com/](https://jonathanbuys.com/)
 - Eon's Swift Blog [http://eon.codes/](http://eon.codes/)
 
-Hopefully other people migrating or exploring Jekyll with find this useful. There will be many more resources I use as I continue to build and develop this site. I will update the list and I go. 
+Hopefully other people migrating or exploring Jekyll with find this useful. There will be many more resources I use as I continue to build and develop this site. I will update the list and I go.
 
-If there is a resource you think should be added to the list please let me know. 
-
- 
-
+If there is a resource you think should be added to the list please let me know.

@@ -1,16 +1,17 @@
 ---
-title: Book Cover Choices 
+title: Book Cover Choices
 author: stephen
 layout: post
 published: true
-tags: CYOD
+tags:
+- CYOD
 post_date: 2019-04-13
 ---
 > This post is part of an ongoing series of post related to the process of writing a book about educational technology. Learn more about the book [here](https://swoicik.com/cyod).
 
-The book is starting to come together and getting some actual production value added. If you haven't [pre-ordered](https://gumroad.com/l/CvEGu) your copy already, please do so (it's free). 
+The book is starting to come together and getting some actual production value added. If you haven't [pre-ordered](https://gumroad.com/l/CvEGu) your copy already, please do so (it's free).
 
-I have begun designing a few different book cover options. I wanted to share some of the best options and get your feedback. 
+I have begun designing a few different book cover options. I wanted to share some of the best options and get your feedback.
 
 **Option 1**
 
@@ -24,7 +25,7 @@ I have begun designing a few different book cover options. I wanted to share som
 
 ![Book Cover Option 3](/assets/img/choice-3.png)
 
-All designs were done in the amazing [Canva App](https://canva.com). Which I highly recommend. 
+All designs were done in the amazing [Canva App](https://canva.com). Which I highly recommend.
 
 If you have a favorite, please let me know on [twitter](https://twitter.com/swoicik)
 
