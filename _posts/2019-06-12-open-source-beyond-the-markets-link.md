@@ -1,5 +1,5 @@
 ---
-title: Open Source Beyond The Market 🠢
+title: Open Source Beyond The Market →
 author: stephen
 layout: post
 published: true
