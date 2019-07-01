@@ -23,6 +23,8 @@ I have been inspired by many of these examples and have been writing and will pu
 
 **Awesome Lists** - GitHub has a wealth of resources and information outside of coding. [Awesome Lists](https://github.com/sindresorhus/awesome) are a collection of some of the best lists in a wide variety of topics. Some of my favorites include; [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme), [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme), [Creative Commons Media](https://github.com/shime/creative-commons-media#readme), and [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme).
 
+**Company Documents** - Basecamp used GitHub to share their entire [Employee Handbook](https://github.com/basecamp/handbook). This makes it visible even to perspective employees. It also does a nice job of showing changes over time.  Automattic also does a great job of this with their [legal documents](https://github.com/Automattic/legalmattic). I have used a few of these documents as templates in the past. 
+
 Based on these examples, Issues is a very underrated part of GitHub. It can be used for a white variety of things, and provides a great social layer to the repository.
 
 Have you come across other unique uses of GitHub? If so, please share. Maybe we will created a new Awesome List.
