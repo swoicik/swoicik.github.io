@@ -25,6 +25,8 @@ I have been inspired by many of these examples and have been writing and will pu
 
 **Company Documents** - Basecamp used GitHub to share their entire [Employee Handbook](https://github.com/basecamp/handbook). This makes it visible even to perspective employees. It also does a nice job of showing changes over time.  Automattic also does a great job of this with their [legal documents](https://github.com/Automattic/legalmattic). I have used a few of these documents as templates in the past. 
 
+**Journal** - Julien Blanchard has a great [write up](http://julienblanchard.com/2017/journaling-my-life-with-github/) showing how you can use GitHub as a daily journal. You are able to create an issue template to set your daily routines and use labels to mark your productivity for the day. It's a really creative system and worth taking a look. 
+
 Based on these examples, Issues is a very underrated part of GitHub. It can be used for a white variety of things, and provides a great social layer to the repository.
 
 Have you come across other unique uses of GitHub? If so, please share. Maybe we will created a new Awesome List.
