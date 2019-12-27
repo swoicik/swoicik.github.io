@@ -15,4 +15,6 @@ So why is it bad? It makes the web a lot less accessible.
 
 2. It is impossible for screen readers to translate the text. This is a much bigger issue than searching. The internet, and specifically social media, can be used by everyone and should be accessible to everyone. 
 
+3. It looks different. Fonts like this render differently based on OS, browser, app, etc. Because it works on your iPhone does't mean it will show up on a desktop. They aren't universal (which gets back to them not being accessible). 
+
 </rant>
