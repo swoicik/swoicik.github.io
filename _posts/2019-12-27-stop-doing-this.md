@@ -1,5 +1,5 @@
 ---
-title: Stop 
+title: Stop 🄳🄾🄸🄽🄶 🅃🄷🄸🅂
 author: stephen
 layout: post
 published: true
@@ -18,5 +18,3 @@ So why is it bad? It makes the web a lot less accessible.
 3. It looks different. Fonts like this render differently based on OS, browser, app, etc. Because it works on your iPhone does't mean it will show up on a desktop. They aren't universal (which gets back to them not being accessible). 
 
 </rant>
-
-'🄳🄾🄸🄽🄶 🅃🄷🄸🅂'
