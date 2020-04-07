@@ -1,4 +1,4 @@
-
+---
 title: Samsung DeX
 author: stephen
 layout: post
@@ -8,7 +8,7 @@ tags:
 - Opinion
 - Review
 post_date: 2020-04-06
-—-
+---
 For the past several months, I have been using Samsung DeX as my primary work computer. Here is a detailed review of how things are working and not working. 
 
 ## What Is Samsung DeX?
