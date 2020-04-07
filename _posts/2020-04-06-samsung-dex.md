@@ -1,4 +1,4 @@
-—-
+
 title: Samsung DeX
 author: stephen
 layout: post
