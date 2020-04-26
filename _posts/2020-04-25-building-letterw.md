@@ -1,4 +1,4 @@
--
+---
 title: Building Letter W
 author: stephen
 layout: post
@@ -7,7 +7,7 @@ tags:
 - Project
 - Photography
 post_date: 2020-04-27
-—
+---
 I am starting a new side/passion project. Building a brand and store around my photography. This post is going to walk you through how it started and bootstrapped to the first sales. 
 
 ## Background 
