@@ -51,8 +51,8 @@ I would like to build a more robust web presence for Letter W. Have the website 
 
 1. Upgrade Gumroad and continue using that platform with upgrade features. 
 2. Move to a WordPress and WooCommerce set up. This would be the most customizable and feature rich option. It would also take the most amount of work. 
-3. Move to Shopify, a proven ecommerce solution. This would be the most expensive option. 
-4. Move to BigCartel. Another e-commerce solution popular with independent artists and very affordable. 
+3. Move to [Shopify](https://www.shopify.com/?ref=rivikmedia), a proven ecommerce solution. This would be the most expensive option. 
+4. Move to [BigCartel](https://www.bigcartel.com). Another e-commerce solution popular with independent artists and very affordable. 
 
 I am leaning towards BigCartel. It is a platform I have always been interested in, but have yet to have a reason to use it. This side project seems like a good opportunity to learn. 
 
