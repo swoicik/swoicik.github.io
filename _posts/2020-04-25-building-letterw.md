@@ -50,7 +50,7 @@ The entire project took a few hours spread over a couple days.
 I would like to build a more robust web presence for Letter W. Have the website actually hosted on the domain name and be able to add more products. I have a few option I am considering. 
 
 1. Upgrade Gumroad and continue using that platform with upgrade features. 
-2. Move to a WordPress and WooCommerce set up. This would be the most customizable and feature rich option. It would also take the most amount of work. 
+2. Move to a WordPress and [WooCommerce](https://woocommerce.com) set up. This would be the most customizable and feature rich option. It would also take the most amount of work. 
 3. Move to [Shopify](https://www.shopify.com/?ref=rivikmedia), a proven ecommerce solution. This would be the most expensive option. 
 4. Move to [BigCartel](https://www.bigcartel.com). Another e-commerce solution popular with independent artists and very affordable. 
 
