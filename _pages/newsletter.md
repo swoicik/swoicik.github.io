@@ -3,7 +3,7 @@ title: Sunday Conversations
 layout: page
 permalink: /newsletter/
 ---
-Every other Sunday, I send out a newsletter about interesting topics to discuss and think about. Topics include education, technology, and business (with an occational quote or book recommendation). 
+Every other Sunday, I send out a newsletter about interesting topics to discuss and think about. Topics revolve around education, technology, and business. You'll also be the first to know any new project I am working on and get an occational quote or book recommendation. 
 
 Enter your email below to join the conversation.
 
