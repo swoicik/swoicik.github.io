@@ -3,7 +3,7 @@ title: #BlackLivesMatter
 author: stephen
 layout: post
 published: true
-post_date: 2020-05-01
+post_date: 2020-06-01
 ---
 It’s hard to be on social media the past days and see everything happen in real time across this country. It feels like it all happened in an instant, but I know that’s not true. It has been building for years and generations. 
 
