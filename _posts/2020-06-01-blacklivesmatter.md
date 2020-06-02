@@ -1,5 +1,5 @@
 ---
-title: #BlackLivesMatter
+title: BlackLivesMatter
 author: stephen
 layout: post
 published: true
