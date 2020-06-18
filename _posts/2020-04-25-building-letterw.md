@@ -66,3 +66,6 @@ This entire project so far has cost me $25.99 for the domain renewal and a few h
 If you have any questions about the project, send me a message on [Twitter](https://Twitter.com/swoicik) or [Instagram](https://instagram.com/letterw.co). Any feedback is greatly appreciated. 
 
 Some of the links in this post are affiliates to the services I used. A small incentive is provided if you sign up using the links.
+
+## Updates
+**June 2020** - I decided to build an online shop for Letter W on BigCartel. The process was very easy. You can see the finished product at [www.letterw.co](https://www.letterw.co). I still have the Gumroad account active. It doesn't hurt to have multiple outlets. BigCartel is my primary focus and where I direct people. 
