@@ -8,6 +8,10 @@ tags:
 - Money
 post_date: 2020-09-21
 ---
+Money is not a topic of conversation. At least that was my understanding for most of my life. Money was a topic to stay away from. How you spend or save your money is your own business. You might mention that you own some stocks, but never put actual figures behind anything, and you never mention your salary. 
+
+It's a stange thing. Money is something that everyone has in common. It's something you could discuss with just about anyone and they would understand. Yet it's not something we talk about. That needs to change.
+
 
 | Stock               | Portfolio % |
 | ---                 | ---         |
