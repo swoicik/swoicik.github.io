@@ -2,7 +2,7 @@
 title: Talking About Money
 author: stephen
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
@@ -39,4 +39,4 @@ So I am going to start sharing some transparency with my investments. I am not c
 | Under Armour        | 0.27%       |
 | Cash                | 2.77%       |
 
-
+My portfolio is technology heavy, since that is what I am the most confident in. I also have a preference for dividend paying stocks. If you have anything you'd like to discuss or questions, please reach out to me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
