@@ -8,10 +8,13 @@ tags:
 - Money
 post_date: 2020-09-21
 ---
-Money is not a topic of conversation. At least that was my understanding for most of my life. Money was a topic to stay away from. How you spend or save your money is your own business. You might mention that you own some stocks, but never put actual figures behind anything, and you never mention your salary. 
+Money is not a topic of conversation. That was my understanding for most of my life. Money was a topic to stay away from. How you spend or save your money is your own business (and your salary was the biggest secret). If you invest money, there might be talk about stocks you own, or general investments you made. There was never any real figures behind the talk. "I picked up a few shares of Company Z a few years ago..." 
 
 It's a stange thing. Money is something that everyone has in common. It's something you could discuss with just about anyone and they would understand. Yet it's not something we talk about. That needs to change.
 
+The more money is discussed, the more people will understand it. Every day people search for how successul/famous people dress, what technology they use, what car they drive, how they are so productive... but we don't look at their money. What are their actual income streams? How many do they have? How much do they invest? The finacial habits of the most successful people are not dicussed. That is what a person needs to learn and understand. 
+
+So I am going to start sharing some transparancy with how I invest my money. Below is a list of my current portoflio and the percentage each investment takes up in the portfolio. I will be sharing regular updates and more information in the future, but this is a start. 
 
 | Stock               | Portfolio % |
 | ---                 | ---         |
@@ -35,4 +38,5 @@ It's a stange thing. Money is something that everyone has in common. It's someth
 | Twitter             | 1.00%       |
 | Under Armour        | 0.27%       |
 | Cash                | 2.77%       |
+
 
