@@ -14,7 +14,7 @@ It's a stange thing. Money is something that everyone has in common. It's someth
 
 The more money is discussed, the more people will understand it. Every day people search for how successul/famous people dress, what technology they use, what car they drive, how they are so productive... but we don't look at their money. What are their actual income streams? How many do they have? How much do they invest? The finacial habits of the most successful people are not dicussed. That is what a person needs to learn and understand. 
 
-So I am going to start sharing some transparancy with how I invest my money. Below is a list of my current portoflio and the percentage each investment takes up in the portfolio. I will be sharing regular updates and more information in the future, but this is a start. 
+So I am going to start sharing some transparancy with my investments. I am not claiming to be successful or famous, but I want talking about money to become more common. Below is a list of my current portoflio and the percentage each investment takes up in the portfolio. I will be sharing regular updates and more information in the future, but this is a start. 
 
 | Stock               | Portfolio % |
 | ---                 | ---         |
