@@ -8,11 +8,11 @@ tags:
 - Money
 post_date: 2020-11-02
 ---
-Not too long ago, I published [Talking About Money](https://swoicik.com/2020/talk-about-money) on this site. That posts makes the argument that money should be a topic of conversation. It's the only way everyone is going to understand it better. 
+Not too long ago, I published [Talking About Money](https://swoicik.com/2020/talk-about-money) on this site. That posts makes the argument that money should be a topic of conversation. It's the only way everyone will understand it better. 
 
-In that post I shared my current investing portfolio and promise to post regular updates. Here is that first update...
+In that post I shared my current investing portfolio and promised to post regular updates. Here is that first update...
 
-Over the past month, I have been the most active in my portfolio in a very long time. I typically go months inbetween active trades. This month I added 6 stocks to my portfolio. They are the bolded ones in the chart. 5 of them are reletively small positions in what I consider high growth potential stocks. 1 (Coca-Cola) is a dividend stock I have wanted to add for quite some time. 
+Over the past month, I have been very active in my portfolio. I typically go months between active trades. This past month I added 6 stocks to my portfolio. They are the bolded ones in the chart. 5 of them are reletively small positions in what I consider high growth potential stocks. 1 (Coca-Cola) is a dividend stock I have wanted to add for quite some time. 
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
