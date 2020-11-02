@@ -18,31 +18,30 @@ So I am going to start sharing some transparency with my investments. I am not c
 
 | Stock               | Portfolio % |
 | ---                 | ---         |
-| Apple               | 9.30%       |
-| **Asana**           |             |
-| Box                 | 0.56%       |
-| Berkshire Hathaway  | 2.78%       |
-| 3D Systems          | 0.27%       |
-| Disney              | 4.35%       |
-| **Ford**            |             |
-| F5 Networks         | 3.17%       |
-| **Fastly**          |             |
-| **Fiverr**          |             |
-| Home Depot          | 3.73%       |
-| IBM                 | 1.68%       |
-| JP Morgan Chase     | 1.91%       |
-| **Coca-Cola**       |             |
-| Microsoft           | 4.56%       |
-| Cloudfare           |             |
-| Nike                | 2.35%       |
-| Starbucks           | 12.66%      |
-| Shopify             | 11.04%      |
-| Scotts Miracle Grow | 2.09%       |
-| Square              | 3.70%       |
-| Target              | 4.22%       |
-| Tesla               | 27.59%      |
-| Twitter             | 1.00%       |
-| Under Armour        | 0.27%       |
-| Cash                | 2.77%       |
+| Apple               | 9.10%       |
+| **Asana**           | 0.14%       |
+| Box                 | 0.49%       |
+| Berkshire Hathaway  | 2.64%       |
+| 3D Systems          | 0.29%       |
+| Disney              | 4.07%       |
+| **Ford**            | 0.05%       |
+| F5 Networks         | 3.45%       |
+| **Fastly**          | 0.41%       |
+| **Fiverr**          | 0.96%`      |
+| Home Depot          | 3.66%       |
+| IBM                 | 1.54%       |
+| JP Morgan Chase     | 1.96%       |
+| **Coca-Cola**       | 1.26%       |
+| Microsoft           | 4.60%       |
+| **Cloudfare**       | 0.33%       |
+| Nike                | 2.47%       |
+| Starbucks           | 12.70%      |
+| Shopify             | 12.00%      |
+| Scotts Miracle Grow | 2.13%       |
+| Square              | 4.09%       |
+| Target              | 4.43%       |
+| Tesla               | 25.80%      |
+| Twitter             | 1.03%       |
+| Under Armour        | 0.33%       |
 
 My portfolio is technology heavy, since that is what I am the most confident in. I also have a preference for dividend paying stocks. If you have anything you'd like to discuss or questions, please reach out to me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
