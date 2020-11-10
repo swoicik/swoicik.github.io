@@ -5,7 +5,7 @@ layout: post
 published: false
 tags:
 - Links
-- Money
+- Investing
 post_date: 2020-11-10
 ---
 Every so often (when I have too many browser tab open), I will share links that I've found interesting enough to save. Some I've read, some I want to read, some I've saved away for a future idea. Hopefully you will get some benefit from the shared knowledge. 
