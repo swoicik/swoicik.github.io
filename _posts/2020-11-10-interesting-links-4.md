@@ -2,26 +2,24 @@
 title: Interesting Links Vol. 4 (Investing)
 author: stephen
 layout: post
-published: false
+published: true
 tags:
 - Links
 - Investing
 post_date: 2020-11-10
 ---
-Every so often (when I have too many browser tab open), I will share links that I've found interesting enough to save. Some I've read, some I want to read, some I've saved away for a future idea. Hopefully you will get some benefit from the shared knowledge. 
+Every so often (when I have too many browser tab open), I will share links that I’ve found interesting enough to save. Some I’ve read, some I want to read, some I’ve saved away for a future idea. Hopefully you will get some benefit from the shared knowledge.
 
-Welcome to Vol. 3 of Interesting Links (Jekyll Edition). These are all links I've found incredibly helpful when learning how to work with Jekyll. If you are unfamiliar with [Jekyll](https://jekyllrb.com/), it is a static site generator that powers (GitHub Pages)[https://pages.github.com/] (and [this website](https://swoicik.com/2019/wordpress-to-jekyll)). 
+Welcome to Vol. 4 of Interesting Links (Investing Edition). If you haven't already read the post [Talking About Money](https://swoicik.com/2020/talk-about-money), you should check it out. It will help put context around why investing and stocks are the theme this week.
 
-**[GitHub Pages and Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)** - Let's start off with the official documentation from GitHub. This tutorial will go over Github Pages and getting a Jekyll blog running on it. It's comprehensive and a great introduction to the platform and what is possible. 
+**[Cash App](https://cash.app/stocks)** - The Cash App has some really helpful web pages when it comes to money and investing. They create one page, easy to follow, introductions to different investment avenues. This one is all about stocks and investing in your first stock. If you are brand new to investing, or unsure of your knowledge, this is where to start.
 
-**[Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)** - Written by Jonathan McGlone, this is another great tutorial for getting a Jekyll site set up on GitHub Pages. This tutoria is easier to understand than the offical GitHub documentation and is very easy to follow with lots of screenshots. If you are brand new to getting a Jekyll site set up, this tutorial is where you should start. 
+**[Trader Sync](https://tradersync.com/)** - Keeping a journal or notebook about your investing in one of the most helpful things you can do as a beginner or advanced investor. Keep track of why you invested in something or why you sold. Refer back to those notes often. I recently started using Trader Sync for this. It has greatly streamlined the process and put more context around the notes. I highly recommend checking it out.
 
-**[Jekyll Resources](https://github.com/swoicik/Jekyll-Resources)** - This is a docuemnt created while working on this websites migration to Jekyll. It is a collection of themes, plugins, and tutorials related to Jekyll. I decided to put all this information in one repository and make it public. Hopefully it will save you some time when working with Jekyll. 
+If you're interested in learning more about investment journals and other software available, check out [Stock Trader](https://www.stocktrader.com/best-trading-journals/).
 
-**[Going from WordPress to Jekyll](https://benjamintravis.com/blog/jekyll-github-pages-from-wordpress)** - A great resource from Ben Travis that will walk you through migrating your current WordPress website to Jekyll. I referred to this article quite a bit during my own migration from WordPress. 
+**[Market Foolery](https://www.fool.com/podcasts/marketfoolery/)** - I wrote about Market Foolery a while back in. [Podcasts I'm Listening To](https://swoicik.com/2018/podcasts-im-listening-to). It is still one of the daily things I will listen to in the car or at lunch. It's full of great investing advice, current trends, stocks to look at, and questions from other listeners. All of this in a very easy to understand and approachable format. If you are getting started with stocks, definitely give this a listen.
 
-WordPress is a great tool but has become a very large platform. I think it is overkill for a simple personal website for blog. Jekyll is a great lightweight and free alternative. 
+**[Our Guide to Investing for Beginners](https://www.fool.com/retirement/2017/08/19/our-guide-to-investing-for-beginners.aspx)** - Also from The Motley Fool, this quick read gives some great advice to get started investing. It goes over some general guidelines for starting out and what the options are.
 
-**[Simple Jekyll Theme](https://github.com/swoicik/simple-jekll-theme)** - This is the code for the theme of this website. After building this webite on Jekyll, I create a generic version of the theme and made it public for anyone to use. Feel free to use this theme as a starter when you build your own Jekyll website. 
-
-That's all I have for now. If you find any of these links useful or interesting, feel free to let me know on twitter, [@swoicik](https://twitter.com/swoicik).  
+That’s all I have for now. If you find any of these links useful or interesting, feel free to let me know on twitter, [@swoicik](https://twitter.com/swoicik).
