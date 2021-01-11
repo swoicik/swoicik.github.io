@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: swoicik.com
-Token: 34119fd35775993d2c2adaaf716318ffd14793f1c37073d8a13153ce4f170681
