@@ -2,7 +2,7 @@
 title: Portfolio Updates (January 2021)
 author: stephen
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
@@ -12,7 +12,7 @@ Not too long ago, I published [Talking About Money](https://swoicik.com/2020/tal
 
 In that post I shared my current investing portfolio and promised to post regular updates. Here is the January 2021 update...
 
-
+Only one small change for January. I sold a very small position in Ford (F). I had a better use for the cash after Ford had a good run up the past few months. 
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
