@@ -14,8 +14,10 @@ Each investor has their own preference, and typically use a combination of tools
 
 This is the Google Sheet I use to keep track of stock investments across different accounts and for different purposes. The sheet will automatically pull in stock quotes from Google Finance. Click the link to get a copy of the Sheet and some intructions on how to use it. 
 
+<div style="text-align:center;">
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/bNIla" target="_blank">Download Template</a>
+</div>
 
 It has been adpated from other spreadsheets that have been shared by friends, and in forums. 
 
