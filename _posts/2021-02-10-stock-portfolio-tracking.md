@@ -34,4 +34,4 @@ The Google Sheet will let you track
 - Total Deposit in Multiple Accounts
 - Total Appreciation in Multiple Accounts
 
-Have a question or want to discuss more? Send me a message, [@swoicik](https://twitter.com/swoicik), or join the discussion on GitHub. 
+Have a question or want to discuss more? Send me a message, [@swoicik](https://twitter.com/swoicik), or join the discussion on [GitHub](https://github.com/swoicik/swoicik.github.io/discussions/3). 
