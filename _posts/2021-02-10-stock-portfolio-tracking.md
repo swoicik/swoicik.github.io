@@ -18,6 +18,7 @@ This is the Google Sheet I use to keep track of stock investments across differe
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/bNIla" target="_blank">Download Template</a>
 </p>
+<br />
 
 It has been adpated from other spreadsheets that have been shared by friends, and in forums. 
 
