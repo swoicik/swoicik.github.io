@@ -3,8 +3,6 @@ title: Discussions Are Back
 author: stephen
 layout: post
 published: true
-tags:
-- Investing
 post_date: 2021-02-16
 ---
 Comments have been off on this website for quite some time. Years ago when comments were enabled, the management became very time consuming. There was the occational meaningful interaction. There was also a lot of clean up and ensuring SPAM stayed off the site. The decision was made to remove comments entirely. 
