@@ -19,4 +19,4 @@ GitHub has recently added this feature to the repository that powers this websit
 
 This will be an experiment over the next year of the website. Hopefully it will encourage meaningful discussion and not turn into the curation nightmare the comment section was. 
 
-You can visit the discussion for this post here. 
+You can visit the discussion for this post [here](https://github.com/swoicik/swoicik.github.io/discussions/4). 
