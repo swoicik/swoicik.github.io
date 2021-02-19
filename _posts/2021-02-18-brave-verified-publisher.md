@@ -15,4 +15,4 @@ I made the decision to add this site to the Brave Verified Publishers list. If y
 
 Brave makes everything very easy to set up. I will be running this as long as I'm using the Brave Browser. Which started as an experiment, but is slowly becoming my go to browser option. 
 
-You can view the discussion for this post here.
+You can view the discussion for this post [here](https://github.com/swoicik/swoicik.github.io/discussions/5).
