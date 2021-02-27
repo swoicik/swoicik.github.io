@@ -19,4 +19,4 @@ Volume 5 is just a random collection of links from random tweets and posts I've 
 
 **[Motion](https://www.inmotion.app/)** - This is a Chrome Browser Extension that aims to save time and make you more productive. The sales pitch and feature list is impressive. It combines a lot of features from other distraction free extensions I've used in the past. I've begun trying this on my own devices and have found it useful so far. If you use the Google Suite of apps for your work, you may find this tool useful. 
 
-That’s all I have for now. If you find any of these links useful or interesting, feel free to let me know on twitter, [@swoicik](https://twitter.com/swoicik).
+That’s all I have for now. If you find any of these links useful or interesting, feel free to let me know on twitter, [@swoicik](https://twitter.com/swoicik), or join the discussion [here](https://github.com/swoicik/swoicik.github.io/discussions/7).
