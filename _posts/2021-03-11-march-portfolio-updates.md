@@ -51,4 +51,4 @@ Below is a list of my current portfolio and the percentage each investment takes
 | Upstart             | 0.28%       |
 | Upwork              | 0.48%       |
 
-If you have anything you'd like to comment on or ask, please join the discussion page or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/8) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
