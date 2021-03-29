@@ -21,7 +21,7 @@ The last addiition was just added yesterday, Roblox. Roblox had their IPO on Mar
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
 | Stock               | Portfolio % |
-| ---                 | ---         |
+| ---                 | :---:       |
 | Apple               | 7.86%       |
 | Asana               | 0.17%       |
 | Box                 | 0.54%       |
