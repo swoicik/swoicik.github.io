@@ -119,12 +119,12 @@ table {
     padding-bottom: 12px;
     font-weight: 500;
     text-align: left;
-    background-color: $default-shade;
+    background-color: $default-color;
     color: white;
   }
 
   tr:nth-child(even) {
-    background-color: $default-shade;
+    background-color: $grey-2;
   }
 }
 
