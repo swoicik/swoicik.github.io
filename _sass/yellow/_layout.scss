@@ -162,6 +162,30 @@ main {
     transition: all .2s ease-in-out;
 }
 
+ table {
+    display: block;
+    overflow-x: auto;
+    margin: 1rem 0;
+
+    td {
+      border: 1px solid #ddd;
+      padding: 8px 16px;
+    }
+
+    th {
+      @extend td;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      font-weight: 500;
+      text-align: left;
+      background-color: $default-shade;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: $default-tint;
+    }
+   
 footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
