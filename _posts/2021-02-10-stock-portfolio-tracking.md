@@ -36,4 +36,8 @@ The Google Sheet will let you track
 - Total Deposit in Multiple Accounts
 - Total Appreciation in Multiple Accounts
 
+## Update April 9, 2021
+- Cryptocurrencies - you can now track Bitcoin and Ethereum purchases. Prices are automatically pulled from Google Finance.
+- Watchlist Sheet - Enter a Stock Symbol and the sheet will automatically populate with Current Price, 52 Week High/Low, 30 Day Chart, 120 Day Chart, and 1 Year Chart. 
+
 Have a question or want to discuss more? Send me a message, [@swoicik](https://twitter.com/swoicik), or join the discussion on [GitHub](https://github.com/swoicik/swoicik.github.io/discussions/3). 
