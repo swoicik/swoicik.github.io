@@ -16,33 +16,33 @@ Below is a list of my current portfolio and the percentage each investment takes
 
 | Stock               | Portfolio % |
 | ---                 | :---:       |
-| Apple               | 7.86%       |
-| Asana               | 0.17%       |
-| Box                 | 0.54%       |
-| Berkshire Hathaway  | 2.01%       |
-| 3D Systems          | 1.16%       |
-| Disney              | 5.05%       |
-| Fastly              | 0.37%       |
-| Fiverr              | 1.22%       |
-| Home Depot          | 2.76%       |
-| IBM                 | 1.36%       |
-| JP Morgan Chase     | 2.35%       |
-| Coca-Cola           | 1.01%       |
-| Lemonade            | 0.97%       |
-| McDonalds           | 2.12%       |
-| MJ                  | 0.45%       |
-| Microsoft           | 4.13%       |
-| Cloudfare           | 0.37%       |
-| Nike                | 2.16%       |
-| Roblox              | 0.35%       |
-| Starbucks           | 12.24%      |
-| Shopify             | 11.19%      |
-| Scotts Miracle Grow | 2.27%       |
-| Square              | 4.67%       |
-| Target              | 3.95%       |
-| Tesla               | 27.15%      |
-| Twitter             | 1.33%       |
-| Upstart             | 0.28%       |
-| Upwork              | 0.48%       |
+| Apple               | 8.28%       |
+| Asana               | 0.15%       |
+| Box                 | 0.52%       |
+| Berkshire Hathaway  | 1.95%       |
+| 3D Systems          | 0.75%       |
+| Disney              | 4.47%       |
+| Fastly              | 0.32%       |
+| Fiverr              | 0.99%       |
+| Home Depot          | 3.27%       |
+| IBM                 | 1.44%       |
+| JP Morgan Chase     | 2.18%       |
+| Coca-Cola           | 1.06%       |
+| Lemonade            | 0.78%       |
+| McDonalds           | 2.26%       |
+| MJ                  | 0.39%       |
+| Microsoft           | 4.36%       |
+| Cloudfare           | 0.35%       |
+| Nike                | 1.91%       |
+| Roblox              | 0.33%       |
+| Starbucks           | 12.84%      |
+| Shopify             | 10.84%      |
+| Scotts Miracle Grow | 2.32%       |
+| Square              | 4.63%       |
+| Target              | 4.44%       |
+| Tesla               | 27.03%      |
+| Twitter             | 1.27%       |
+| Upstart             | 0.46%       |
+| Upwork              | 0.42%       |
 
 If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/8) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
