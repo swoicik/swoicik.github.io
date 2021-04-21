@@ -16,7 +16,6 @@ Very little has changed this month. The only percentage changes are due to divid
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
-## Pimary Portfolio
 | Stock               | Portfolio % |
 | ---                 | :---:       |
 | Apple               | 8.28%       |
