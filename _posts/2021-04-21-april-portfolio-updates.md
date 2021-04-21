@@ -2,7 +2,7 @@
 title: Portfolio Updates (April 2021)
 author: stephen
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
@@ -12,8 +12,11 @@ Not too long ago, I published [Talking About Money](https://swoicik.com/2020/tal
 
 In that post I shared my current investing portfolio and promised to post regular updates. Here is the April 2021 update... 
 
+Very little has changed this month. The only percentage changes are due to dividend reinvestments. I have moslty been keeping my cash on the sideline for the moment. There are a number of stocks on my watch list but nothing I am in a rush to buy right now. 
+
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
+## Pimary Portfolio
 | Stock               | Portfolio % |
 | ---                 | :---:       |
 | Apple               | 8.28%       |
