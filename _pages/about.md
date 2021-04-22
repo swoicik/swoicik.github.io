@@ -7,7 +7,7 @@ Stephen Woicik, online extrovert, real-life introvert. I have worked in many dif
 
 Best place to contact me is [Twitter](https://twitter.com/swoicik)
 
-## A Few Projects
+## Some Projects
 [Marker 1 Font](https://gumroad.com/l/Marker1) - This is a basic “Crayon” style font. It’s great for use in classrooms, and I’ve seen it used in a few comics. Free to download and use. 
 
 [Stock Portfolio Spreadsheet](https://gum.co/bNIla) - This is a template used for tracking an investments portfolio. Each sheet can be used to track a different philosophy or strategy to see how they compare. 
