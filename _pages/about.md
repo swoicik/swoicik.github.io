@@ -13,7 +13,7 @@ Best place to contact me is [Twitter](https://twitter.com/swoicik)
 [Stock Portfolio Spreadsheet](https://gum.co/bNIla) - This is a template used for tracking an investments portfolio. Each sheet can be used to track a different philosophy or strategy to see how they compare. 
 
 ## Tools I Use
-[Samsung DeX])https://swoicik.com/2020/samsung-dex) - Definitely in the minority, but I use Samsung DeX as my daily driver. I connect my Samsung device to a 24" monitor, wireless keyboard, wireless mouse, and I'm good to go. I am a mobile first computer user at this point. So this set up works really well for me. I can do everything I need to on my mobile device, but connect to a big screen when needed for working with a spreadsheet or coding project. 
+[Samsung DeX](https://swoicik.com/2020/samsung-dex) - Definitely in the minority, but I use Samsung DeX as my daily driver. I connect my Samsung device to a 24" monitor, wireless keyboard, wireless mouse, and I'm good to go. I am a mobile first computer user at this point. So this set up works really well for me. I can do everything I need to on my mobile device, but connect to a big screen when needed for working with a spreadsheet or coding project. 
 
 [Feedly](http://feedly.com/) – I use this website daily. I’m subscribed to a little over 100 RSS feeds from various sources. All neatly organized in Feedly to read and sort. It’s how I get my news and stay on top of industry information.
 
