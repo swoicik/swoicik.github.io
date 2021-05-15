@@ -96,9 +96,6 @@ post_date: 2018-05-31 16:59:49
 <h3>Who is this book for?</h3>
 <p>Anyone working or involved with K12 education. The topics explored and discussed are with the assumption of a K12 school district and student population.</p>
 
-<h3>When will the book be published?</h3>
-<p>The book is scheduled to launch on October 30, 2019. This date is subject to changes if unforeseen issues arise with self-publishing.</p>
-
 <h3>Is it really free?</h3>
 <p>The information in this book is there to help improve the education of our students. It shouldn't be behind a paywall. The book is really free and you are encouraged to share it.</p>
 
