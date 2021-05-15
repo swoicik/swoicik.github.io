@@ -4,9 +4,7 @@ author: stephen
 layout: post
 published: true
 tags:
-- Jekyll
-- GitHub
-- WordPress
+- Development
 post_date: 2019-03-28
 ---
 It’s 2019 and I’m moving swoicik.com to Jekyll and GitHub Pages.
