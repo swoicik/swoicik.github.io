@@ -4,8 +4,7 @@ author: stephen
 layout: post
 published: true
 tags:
-- Samsung
-- Opinion
+- Technology
 - Review
 post_date: 2020-04-06
 ---
