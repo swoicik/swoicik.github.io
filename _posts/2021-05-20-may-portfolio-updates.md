@@ -2,7 +2,7 @@
 title: Portfolio Updates (May 2021)
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
@@ -79,6 +79,6 @@ Below is a list of my current portfolio and the percentage each investment takes
 | MATIC - Polygon             | 3.40%       |
 | XLM - Stellar               | 1.15%       |
 
-As a final note, here is a stock from my watch list. BYND (Beyond Meat) has been a stock I'm looking at a lot more. It's a tough stock for me 
+As a final note, here is a stock from my watch list. BYND (Beyond Meat) has been one I am looking at a lot more. It's a tough stock for me to actually buy in to. The industry has huge growth potential in the next several years. It's already grown exponentially over the past few years. Normally I would buy a basket of stocks in the industry and let the market figure out a winner. With this industry, many of the companies are not public yet. BYND is one of the first. I don't know if BYND really has a competitive advantage. Do you buy BYND just to get into the industry? Wait until more companies are public in this space? I like the industry, but don't particulary like this company. 
 
-If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/10) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/13) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
