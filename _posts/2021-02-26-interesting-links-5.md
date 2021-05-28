@@ -1,10 +1,13 @@
 ---
 title: Interesting Links Vol. 5
-author: stephen
+author: Stephen Woicik
 layout: post
 published: true
 tags:
 - Links
+- Encryption
+- Cryptocurrency
+- Productivity
 post_date: 2021-02-26
 ---
 Every so often (when I have too many browser tab open), I will share links that I’ve found interesting enough to save. Some I’ve read, some I want to read, some I’ve saved away for a future idea. Hopefully you will get some benefit from the shared knowledge.
