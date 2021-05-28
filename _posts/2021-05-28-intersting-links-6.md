@@ -7,6 +7,7 @@ tags:
 - Links
 - Privacy
 - Productivity
+- Cryptocurrency
 post_date: 2021-05-28
 ---
 Whenever my browser has to many tabs open, I will share some links that are interesting enough to save. Some I’ve read, some I want to read, some I’ve saved away for a future idea. Hopefully you will get some benefit from the shared knowledge.
@@ -17,7 +18,7 @@ Volume 6 is another ndom collection of links from tweets, newsletters and posts 
 
 **[CrossClave](https://spideroak.com/crossclave/)** - Keeping the privacy focuses topic going, CrossClave is the latest product from [SpiderOak](https://spideroak.com/). It is a privacy focus chat tool for business (think Slack with encryption).  The software also has the ability to share files and work cross platform while providing zero-knowledge encryption. Meaning SpiderOak (or anyone else you don't give access) won't be able to view your work.  
 
-**[mmm.page](https://build.mmm.page)** -  
+**[mmm.page](https://build.mmm.page)** - A refreshingly different type of website builder. Website builders have been around for a long time. Over the past 5 years, many of these builders seem to be converging to the same minimalistic design style. If you want something that looks different, choatic, and personal, look at the sites built with mmm.page. It reminds me of the old GeoCities or basic HTML homepages that were once popular. It's also really simple to use. 
 
 **[Bankless HQ](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)** - 
 
