@@ -20,7 +20,11 @@ Volume 6 is another ndom collection of links from tweets, newsletters and posts 
 
 **[mmm.page](https://build.mmm.page)** - A refreshingly different type of website builder. Website builders have been around for a long time. Over the past 5 years, many of these builders seem to be converging to the same minimalistic design style. If you want something that looks different, choatic, and personal, look at the sites built with mmm.page. It reminds me of the old GeoCities or basic HTML homepages that were once popular. It's also really simple to use. 
 
-**[Bankless HQ](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)** - 
+**[Bankless HQ](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)** - As the opening paragraph of their page suggest:
+
+> This guide is your roadmap to the unknown. It’s your guide to the wild west of open finance. Don’t worry about figuring this out all at once. Just commit to learning a bit each week.
+
+Bankless is a newsletter that talks about well... not using a bank. There is a lot of talk about Crytpocurrencies and services around crypto as an alternative to banks. In my most recent [portfolio update](https://swoicik.com/2021/may-portfolio-updates), I shared my cryptocurrency holdings. The ides of going partially bankless is very interesting and something I have been looking at much more seriously lately. 
 
 **[Too Much Focus](https://www.npr.org/2021/03/21/979183329/too-much-focusing-is-draining-heres-a-better-strategy)** - 
 
