@@ -30,4 +30,4 @@ Bankless is a newsletter that talks about well... not using a bank. There is a l
 
 **[Signal Jabs at Facebook](https://www.bloomberg.com/news/articles/2021-05-28/signal-app-is-surging-in-popularity-and-hitting-growing-pains)** - This article on Bloomberg got my attention today. Signal has become very popular in 2021 (after WhatsApp privacy issues). This article talks about the growing pains that came with that. It also gave a lot of good insight into Signal, the company. The privacy focused software development company is notorouly private about their actual company as well. Their CEO, Moxie Marlinspike, is also a very interesting person to learn what you can about. 
 
-That’s all for now. If you find any of these links useful or interesting, let me know on twitter, [@swoicik](https://twitter.com/swoicik), or join the discussion [here](https://github.com/swoicik/swoicik.github.io/discussions/7).
+That’s all for now. If you find any of these links useful or interesting, let me know on twitter, [@swoicik](https://twitter.com/swoicik), or join the discussion [here](https://github.com/swoicik/swoicik.github.io/discussions/14).
