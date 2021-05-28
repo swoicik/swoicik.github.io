@@ -10,9 +10,9 @@ tags:
 - Productivity
 post_date: 2021-05-28
 ---
-Every so often (when I have too many browser tab open), I will share links that I’ve found interesting enough to save. Some I’ve read, some I want to read, some I’ve saved away for a future idea. Hopefully you will get some benefit from the shared knowledge.
+Whenever my browser has to many tabs open, I will share some links that are interesting enough to save. Some I’ve read, some I want to read, some I’ve saved away for a future idea. Hopefully you will get some benefit from the shared knowledge.
 
-Volume 5 is just a random collection of links from random tweets and posts I've found that I didn't want to forget. 
+Volume 6 is another ndom collection of links from tweets, newsletters and posts I've found and didn't want to forget. 
 
 **[Bookfeed](https://bookfeed.io/)** - A very simple idea and website built by [Lukas Mathis](http://ignorethecode.net/blog/2021/02/16/bookfeed_io/). After you read a book you enjoy, you usually get a list of related books and content to read next. Bookfeed changes this to just show you more from that author. Enter the author you enjoyed reading and see all the latest releases from that author. You can even subscribe to the RSS feed of the author to be alerted when new books are published. I've created a couple already for some of my favorite authors. 
 
@@ -22,4 +22,4 @@ Volume 5 is just a random collection of links from random tweets and posts I've 
 
 **[Motion](https://www.inmotion.app/)** - This is a Chrome Browser Extension that aims to save time and make you more productive. The sales pitch and feature list is impressive. It combines a lot of features from other distraction free extensions I've used in the past. I've begun trying this on my own devices and have found it useful so far. If you use the Google Suite of apps for your work, you may find this tool useful. 
 
-That’s all I have for now. If you find any of these links useful or interesting, feel free to let me know on twitter, [@swoicik](https://twitter.com/swoicik), or join the discussion [here](https://github.com/swoicik/swoicik.github.io/discussions/7).
+That’s all for now. If you find any of these links useful or interesting, let me know on twitter, [@swoicik](https://twitter.com/swoicik), or join the discussion [here](https://github.com/swoicik/swoicik.github.io/discussions/7).
