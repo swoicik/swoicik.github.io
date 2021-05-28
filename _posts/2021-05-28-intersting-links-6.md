@@ -5,8 +5,7 @@ layout: post
 published: false
 tags:
 - Links
-- Encryption
-- Cryptocurrency
+- Privacy
 - Productivity
 post_date: 2021-05-28
 ---
@@ -16,7 +15,7 @@ Volume 6 is another ndom collection of links from tweets, newsletters and posts 
 
 **[Skiff](https://skiff.org/)** - Described as Signal, but for your documents. Skiff is a "privacy-first collaboration platform" similar to an encrypted version of Google Docs. It is an online text editor where the content is only visable to you and whoever you give access to. Skiff is not able to read any of your projects or data. I set up my account and started playing around with Skiff. It's already a very polished program. One feature I'd like to see added is a Google Sheet/Excel type document support (outside of just text). 
 
-**[CrossClave](https://spideroak.com/crossclave/)** -
+**[CrossClave](https://spideroak.com/crossclave/)** - Keeping the privacy focuses topic going, CrossClave is the latest product from [SpiderOak](https://spideroak.com/). It is a privacy focus chat tool for business (think Slack with encryption).  The software also has the ability to share files and work cross platform while providing zero-knowledge encryption. Meaning SpiderOak (or anyone else you don't give access) won't be able to view your work.  
 
 **[mmm.page](https://build.mmm.page)** -  
 
