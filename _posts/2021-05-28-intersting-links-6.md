@@ -2,7 +2,7 @@
 title: Interesting Links Vol. 6
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Links
 - Privacy
@@ -26,7 +26,7 @@ Volume 6 is another ndom collection of links from tweets, newsletters and posts 
 
 Bankless is a newsletter that talks about well... not using a bank. There is a lot of talk about Crytpocurrencies and services around crypto as an alternative to banks. In my most recent [portfolio update](https://swoicik.com/2021/may-portfolio-updates), I shared my cryptocurrency holdings. The ides of going partially bankless is very interesting and something I have been looking at much more seriously lately. 
 
-**[Too Much Focus](https://www.npr.org/2021/03/21/979183329/too-much-focusing-is-draining-heres-a-better-strategy)** - 
+**[Too Much Focus](https://www.npr.org/2021/03/21/979183329/too-much-focusing-is-draining-heres-a-better-strategy)** - An interesting read on productivity from NPR. You've probably heard that multitasking isn't the best for productivity. The cost of swtiching between tasks ultimately drains your brain more than just doing the tasks one at a time. But this article brings up that you can go to far in the other direction as well. Hyperfocus on single task for extended periods of time can also decrease your abilities. The article has 6 tips to improve your productivity. 
 
 **[Signal Jabs at Facebook](https://www.bloomberg.com/news/articles/2021-05-28/signal-app-is-surging-in-popularity-and-hitting-growing-pains)** - This article on Bloomberg got my attention today. Signal has become very popular in 2021 (after WhatsApp privacy issues). This article talks about the growing pains that came with that. It also gave a lot of good insight into Signal, the company. The privacy focused software development company is notorouly private about their actual company as well. Their CEO, Moxie Marlinspike, is also a very interesting person to learn what you can about. 
 
