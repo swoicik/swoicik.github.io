@@ -2,7 +2,7 @@
 title: Portfolio Updates (June 2021)
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
@@ -11,7 +11,12 @@ post_date: 2021-06-17
 Here is the June Portfolio Update. Not a lot to talk about this month, but there was a lot added last month if you want to take a look, [May Portfolio Updates](https://swoicik.com/2021/may-portfolio-updates). And for general background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
 
 Two updates on the stock side of things.
-- Sold BOX. This was a small postion I've had since 2015. It was part of an investment into the cloud storage and computing space. The basic thesis that Box would be the cloud storage choice for enterprise. Google and Microsoft have vastly improved their offerings toward business over the years, and I don't see a competitive advatange for BOX. I still like Box the company, but the stock has been pretty much flat and I don't see high growth in the future.
+- Sold BOX. This was a small postion I've had since 2015. It was part of an investment into the cloud storage and computing space. The basic thesis that Box would be the cloud storage choice for enterprise. Google and Microsoft have vastly improved their offerings toward business over the years, and I don't see a competitive advatange for BOX. I still like Box the company, but the stock has been flat and I don't see high growth in the future.
+- Bought RBLX. This is where money from BOX was re-invested. I see a lot of growth potential with Roblox. They are in a growing market, have solid finacials, and have captured a set demographic. They have built a gaming and development platform that users are growing up learning on. 
+
+Two Crypo Update
+- Sold LTC. This was a poor investment from the start for me. I went in without an investing thesis or really understanding the technology behind it. I got swept up in the run up. Thanksfully this was a small postion and I got out almost as quick as I entered. I lost money on this investment. 
+- Bought MATIC - I converted my LTC to MATIC. MATIC is a crypto I know much more about, and believe in what they are building. I could have waited longer, and hoped for the price to come down. I see MATIC as a good long term play (2-3 years) with a lot of room to grow. At the end of the day, I didn't belive buying at a slightly higher price was going to have a huge impact in the long run. 
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
@@ -72,6 +77,6 @@ Below is a list of my current portfolio and the percentage each investment takes
 | MATIC - Polygon             | 9.28%       |
 | XLM - Stellar               | 0.67%       |
 
-As a final note, here is a stock from my watch list. BYND (Beyond Meat) has been one I am looking at a lot more. It's a tough stock for me to actually buy in to. The industry has huge growth potential in the next several years. It's already grown exponentially over the past few years. Normally I would buy a basket of stocks in the industry and let the market figure out a winner. With this industry, many of the companies are not public yet. BYND is one of the first. I don't know if BYND really has a competitive advantage. Do you buy BYND just to get into the industry? Wait until more companies are public in this space? I like the industry, but don't particulary like this company. 
+As a final note, here is a stock from my watch list. COIN (Coinbase) has been one I am looking at a lot more. I do hold a very small position in them already. COIN has come way down from it's IPO price. The hype seems to have finally cooled off. The company, fundamentals, and outlook all remain the same, just the hype has gone away. I'm looking at the current stock price as a potential buying opportunity. 
 
 If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/13) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
