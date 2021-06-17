@@ -79,4 +79,4 @@ Below is a list of my current portfolio and the percentage each investment takes
 
 As a final note, here is a stock from my watch list. COIN (Coinbase) has been one I am looking at a lot more. I do hold a very small position in them already. COIN has come way down from it's IPO price. The hype seems to have finally cooled off. The company, fundamentals, and outlook all remain the same, just the hype has gone away. I'm looking at the current stock price as a potential buying opportunity. 
 
-If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/13) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/15) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
