@@ -8,15 +8,10 @@ tags:
 - Money
 post_date: 2021-06-17
 ---
-A big change. In the past I have shared my primary investing portfolio and how it is comprised. This week I am including any brokerage accounts I have and aggregating the data into one sheet. I am also including cryptocurrencies for the first time. This would have been a really time consuming task to do in the past. Since creating the [stock portfolio tracking spreadsheet](https://swoicik.com/2021/stock-portfolio-tracking), it is much easier and why I am able to share this more comprehensive investment view. 
+Here is the June Portfolio Update. Not a lot to talk about this month, but there was a lot added last month if you want to take a look, [May Portfolio Updates](https://swoicik.com/2021/may-portfolio-updates). And for general background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
 
-Having most of my investments all in one view like this also helped me gain some more insight and confirm some of my investing habits. I have a few core positons that I like to add to. Those are the biggest holdings. I also make a large number of small investments on stocks I am interested in following more. I have 44 total stocks in this sheet, but you'll notice the majority of them are way below 1% of total investment value. These are small bets of stocks I think have a bright future, but I'm not ready (or available) to throw a lot of money into it. 
-
-It's almost a venture capital way of investing. Many small bets, only need a couple to pay off in the long run. Tesla and Shopify are examples of that. They were very small investments to start becasue I like the companies. Those small bets have turned into two of my largest holdings because of the performance of the stock. I never really thought of my investing style in this way, but putting everything together in a spreadsheet made this very clear.
-
-The next part is cryptocurrencies. I have been investing in cryprocurrencies for quite some time, but began taking it much more seriously (both in my attention and money) over the past year. Again, like my stock investing, I have two primary holdings (BTC and ETH) and a number of small holdings in altcoins. 
-
-For some background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money). That posts makes the argument that money should be a topic of conversation. It's the only way everyone will understand it better. I also shared my current investing portfolio and promised to post regular updates. Here is the May 2021 update... 
+Two updates on the stock side of things.
+- Sold BOX. This was a small postion I've had since 2015. It was part of an investment into the cloud storage and computing space. The basic thesis that Box would be the cloud storage choice for enterprise. Google and Microsoft have vastly improved their offerings toward business over the years, and I don't see a competitive advatange for BOX. I still like Box the company, but the stock has been pretty much flat and I don't see high growth in the future.
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
