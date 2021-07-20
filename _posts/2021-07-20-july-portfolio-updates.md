@@ -2,21 +2,36 @@
 title: Portfolio Updates (July 2021)
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
 post_date: 2021-07-20
 ---
-Here is the July Portfolio Update. Not a lot to talk about this month, but there was a lot added last month if you want to take a look, [May Portfolio Updates](https://swoicik.com/2021/may-portfolio-updates). And for general background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
+Here is the July Portfolio Update. For background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
 
-Two updates on the stock side of things.
-- Sold BOX. This was a small postion I've had since 2015. It was part of an investment into the cloud storage and computing space. The basic thesis that Box would be the cloud storage choice for enterprise. Google and Microsoft have vastly improved their offerings toward business over the years, and I don't see a competitive advatange for BOX. I still like Box the company, but the stock has been flat and I don't see high growth in the future.
-- Bought RBLX. This is where money from BOX was re-invested. I see a lot of growth potential with Roblox. They are in a growing market, have solid finacials, and have captured a set demographic. They have built a gaming and development platform that users are growing up learning on. 
+The market had a good run up in late June and early July. As a result, several positions were sold in the brokerage account. Some of the money was re-invested, most was left in cash for the time being. 
 
-Two Crypo Update
-- Sold LTC. This was a poor investment from the start for me. I went in without an investing thesis or really understanding the technology behind it. I got swept up in the run up. Thanksfully this was a small postion and I got out almost as quick as I entered. I lost money on this investment. 
-- Bought MATIC - I converted my LTC to MATIC. MATIC is a crypto I know much more about, and believe in what they are building. I could have waited longer, and hoped for the price to come down. I see MATIC as a good long term play (2-3 years) with a lot of room to grow. At the end of the day, I didn't belive buying at a slightly higher price was going to have a huge impact in the long run. 
+Taking Profits - These are stocks sold becuase of a better than average gain, and I wanted to take some profits. 
+- DOCU
+- UPST
+- CVNA
+- ETSY
+- PINS
+- SHOP
+- LMND
+
+Keeping Cash - These are stocks sold becuase they have been flat since owning. I will buy back in if an opportunity comes up. 
+- ATVI
+- ETSY
+- TWLO
+- ZEN
+
+Cutting Losses - These are stocks that have been losing and I no longer wanted them in my portoflio. 
+- DKNG
+- PENN
+
+On the crypto side of things, it has been steady as it goes. No major investments, but I continue to dollar cost average in to Bitcoin and Ethereum. I have not made any altcoin purchases since my last update in [June](https://swoicik.com/2021/june-portfolio-updates). 
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
@@ -68,6 +83,4 @@ Below is a list of my current portfolio and the percentage each investment takes
 | MATIC - Polygon             | 11.33%      |
 | XLM - Stellar               | 0.82%       |
 
-As a final note, here is a stock from my watch list. COIN (Coinbase) has been one I am looking at a lot more. I do hold a very small position in them already. COIN has come way down from it's IPO price. The hype seems to have finally cooled off. The company, fundamentals, and outlook all remain the same, just the hype has gone away. I'm looking at the current stock price as a potential buying opportunity. 
-
-If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/15) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/18) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
