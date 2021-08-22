@@ -2,7 +2,7 @@
 title: Portfolio Updates (August 2021)
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
