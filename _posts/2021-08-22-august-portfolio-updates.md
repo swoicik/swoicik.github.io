@@ -65,6 +65,6 @@ Below is a list of my current portfolio and the percentage each investment takes
 | MATIC - Polygon             | 8.64%       |
 | XLM - Stellar               | 0.67%       |
 
-If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/18) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/19) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
 
-One last thing before you go... I am laucnhing a new community around investing called Credo Community. Credo Membership is currently free for the first 25 members. [Click here](https://community.investwithcredo.com/home) to learn more and join. 
+**One last thing before you go...** I am laucnhing a new community around investing called Credo Community. Credo Membership is currently free for the first 25 members. [Click here](https://community.investwithcredo.com/home) to learn more and join. 
