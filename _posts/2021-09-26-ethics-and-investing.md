@@ -21,3 +21,5 @@ When I first started investing, I didn't consider ethics. I bought stocks based 
 This was also one of the reasons I started investing in cryptocurrencies. The technology and the ideology around cryptocurrencies was something I agreed with and gravitated towards. A decentralized monetary system. I system that encourages buy and hold, rather than earn and spend. A system that tries to be governed by a collective good, than an individual entity.  
 
 I don't have an answer for how much ethics or beliefs should play into you investing. I know for me it now plays a bigger part. I'm curious if it plays a part for other investors. Is it a driving force in your investing? Is it a nice to have, but doesn't make or break an investment? Does it have no role in the investments you choose? This is something that has been on my mind more and more and I'd like to hear from others. 
+
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/20) or message me on [twitter](https://twitter.com/swoicik).
