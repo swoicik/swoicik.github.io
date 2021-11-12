@@ -2,17 +2,17 @@
 title: Portfolio Updates (November 2021)
 author: Stephen Woicik
 layout: post
-published: false
+published: true
 tags:
 - Investing
 - Money
-post_date: 2021-11-12
+post_date: 2021-11-11
 ---
-Here are the September Portfolio Updates. For background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
+Here are the November Portfolio Updates. For background on why I publish these portfolio updates, go read [Talking About Money](https://swoicik.com/2020/talk-about-money).
 
-Things have been steady as they go for the month of September. I stayed quite and didn't buy much. I added slightly to a few of my bedrock stocks and continue to dollar cost average into Crypto. 
+I missed October! But you didn't miss anything. I haven't made any moves with my investing portfolio. The market has been on the move, and I haven't seen a buying opportunity. There are a few moves I have thought about, but resisted. Sometimes the best action is to not do anything.
 
-My Watch List has been growing and I plan to buy some more soon. Looking for a good opportunity. Things still feel high right now. Some of the stocks on my short list are Monday (MNDY), Twilio (TWLO), HubSpot (HUBS), Corsair Gaming (CRSR), and Carvana (CVNA). 
+November, December, and maybe January will likely see some selling in my brokerage account. I will be taking some profits off the table and using the money for the holidays. Just for reference, I treat my brokerage account more like savings. I do not put stocks in there with a long term (multiple-years) time frame. Stocks are help under 1 year.
 
 Below is a list of my current portfolio and the percentage each investment takes up in the portfolio.
 
@@ -60,6 +60,6 @@ Below is a list of my current portfolio and the percentage each investment takes
 | MATIC - Polygon             | 6.89%       |
 | XLM - Stellar               | 0.52%       |
 
-If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/21) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
+If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/22) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
 
-**One last thing before you go...** I am laucnhing a new community around investing called Credo Community. Credo Membership is currently free for the first 25 members. [Click here](https://community.investwithcredo.com/home) to learn more and join. 
+**One last thing before you go...** I am laucnhing a new community around investing called Credo Community. Credo Membership is currently free for members. [Click here](https://community.investwithcredo.com/home) to learn more and join. 
