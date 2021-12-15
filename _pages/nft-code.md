@@ -1,5 +1,5 @@
 ---
-title: NFT Community
+title: NFT Code
 layout: page
 permalink: /nft-code/
 ---
