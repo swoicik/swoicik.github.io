@@ -3,7 +3,7 @@ title: NFT Code
 layout: page
 permalink: /nft-code/
 ---
-Thank you so much for purchasing one ofmy NFT Pieces. 
+Thank you so much for purchasing one of my NFT Pieces. 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xayvyppr" method="post">
   <fieldset id="fs-frm-inputs">
