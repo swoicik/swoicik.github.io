@@ -3,7 +3,7 @@ title: NFT Code
 layout: page
 permalink: /nft-code/
 ---
-Thank you so much for purchasing one of my NFT Pieces. 
+Thank you so much for purchasing one of my NFT pieces. My goal is to build a community of NFT collectors, providing additional and long lived value to the piece you purchases. If you are interested in being a part of this, please use the form below to be added to the communication list. Lots more to come in the future. 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xayvyppr" method="post">
   <fieldset id="fs-frm-inputs">
