@@ -1,11 +1,11 @@
 ---
 title: NFT Community
 layout: page
-permalink: /nft-community/
+permalink: /nft-code/
 ---
 Thank you so much for purchasing one ofmy NFT Pieces. 
 
-<div class="newsletter">
+
 
   <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xayvyppr" method="post">
   <fieldset id="fs-frm-inputs">
@@ -22,4 +22,4 @@ Thank you so much for purchasing one ofmy NFT Pieces.
   <input type="submit" value="Submit">
 </form>
 
-</div>
+
