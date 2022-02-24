@@ -95,7 +95,7 @@ For the right crypto, it's like having a growth stock that pays a dividend.
 
 This was a pretty popular topic of conversation when I first followed crypto. This might have more to do with where I was coming from. I was doing a lot of work in cybersecurity and this was driving people crazy in that industry. 
 
-The work crypto meant different things to different industries. Cryptocurrencies won out though. I can confindently say that if your are saying crypto, you are talking about cryptocurrencies now.  
+The word crypto meant different things to different industries. Cryptocurrencies won out though. I can confindently say that if your are saying crypto, you are talking about cryptocurrencies now.  
 
 This post has turned into a bit more than some quick thoughts. If this was helpful or you have any questions, please let me know. To comment on or ask, join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/26) or message me on [twitter](https://twitter.com/swoicik). 
 
