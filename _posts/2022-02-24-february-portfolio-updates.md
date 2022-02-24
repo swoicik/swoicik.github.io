@@ -20,45 +20,46 @@ Below is a list of my current portfolio and the percentage each investment takes
 
 | Stock                       | Portfolio % |
 | ---                         | :---:       |
-| AAPL - Apple                | 9.55%       |
+| AAPL - Apple                | 10.90%       |
 | AFRM - Affirm               | 0.02%       |
 | ASAN - Asana                | 0.24%       |
-| BRKB - Berkshire Hathaway   | 1.82%       |
-| COIN - Coinbase             | 1.75%       |
-| DDD - 3D Systems            | 0.62%       |
-| DIS - Disney                | 3.18%       |
-| FSLY - Fastly               | 0.12%       |
-| FVRR - Fiverr               | 0.36%       |
-| HD - Home Depot             | 3.46%       |
-| IBM - IBM                   | 1.36%       |
-| JPM - JP Morgan Chase       | 2.08%       |
-| KO - Coca-Cola              | 1.11%       |
-| LMND - Lemonade             | 0.42%       |
-| MCD - McDonalds             | 2.32%       |
-| MJ - MJ                     | 0.18%       |
-| MNDY - Monday.com           | 0.03%       |
-| MSFT - Microsoft            | 4.78%       |
-| NET - Cloudfare             | 0.39%       |
-| NKE - Nike                  | 2.06%       |
-| RBLX - Roblox               | 1.24%       |
-| SBUX - Starbucks            | 10.15%      |
-| SHOP - Shopify              | 8.29%       |
+| BRKB - Berkshire Hathaway   | 2.12%       |
+| COIN - Coinbase             | 1.79%       |
+| DDD - 3D Systems            | 0.68%       |
+| DIS - Disney                | 3.91%       |
+| FSLY - Fastly               | 0.09%       |
+| FVRR - Fiverr               | 0.34%       |
+| HD - Home Depot             | 3.41%       |
+| IBM - IBM                   | 1.41%       |
+| JPM - JP Morgan Chase       | 2.41%       |
+| KO - Coca-Cola              | 1.33%       |
+| LMND - Lemonade             | 0.36%       |
+| MCD - McDonalds             | 2.64%       |
+| MJ - MJ                     | 0.19%       |
+| MNDY - Monday.com           | 0.02%       |
+| MSFT - Microsoft            | 5.14%       |
+| NET - Cloudfare             | 0.47%       |
+| NKE - Nike                  | 2.23%       |
+| RBLX - Roblox               | 0.95%       |
+| SBUX - Starbucks            | 10.80%      |
+| SHOP - Shopify              | 6.49%       |
 | SMG - Scotts Miracle Grow   | 1.45%       |
-| SQ - Square                 | 2.16%       |
-| TGT - Target                | 4.36%       |
-| TSLA - Tesla                | 34.29%      |
-| TWTR - Twitter              | 0.63%       |
-| UPST - Upstart              | 1.39%       |
-| UPWK - Upwork               | 0.22%       |
+| SQ - Square                 | 1.84%       |
+| TGT - Target                | 4.46%       |
+| TSLA - Tesla                | 31.65%      |
+| TWTR - Twitter              | 0.68%       |
+| UPST - Upstart              | 1.75%       |
+| UPWK - Upwork               | 0.24%       |
 
 
 | Cryptocurrency              | Portfolio % |
 | ---                         | :---:       |
-| BTC - Bitcoin               | 46.69%      |
-| ETH - Ethereum              | 28.53%      |
-| LINK - Chainlink            | 5.64%       |
-| DOT - Polkadot              | 5.11%       |
-| MATIC - Polygon             | 11.03%       |
+| BTC - Bitcoin               | 50%         |
+| ETH - Ethereum              | 25%         |
+| LINK - Chainlink            | 5%          |
+| DOT - Polkadot              | 5%          |
+| ADA - Cardano               | 5%          |
+| MATIC - Polygon             | 10%         |
 
 If you have anything you'd like to comment on or ask, please join the [discussion page](https://github.com/swoicik/swoicik.github.io/discussions/24) or message me on [twitter](https://twitter.com/swoicik). I will be posting more updates in the future. 
 
