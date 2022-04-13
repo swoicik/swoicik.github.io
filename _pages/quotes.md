@@ -7,17 +7,11 @@ published: true
 post_date: 2018-05-31
 ---
 
-> Maybe our favorite quotations say more about us than about the stories and people we’re quoting.
+"Maybe our favorite quotations say more about us than about the stories and people we’re quoting." **John Green**
 
-**John Green**
+"Start where you are. Use what you have. Do what you can." **Arthur Ashe**
 
-> Start where you are. Use what you have. Do what you can.
-
-**Arthur Ashe**
-
-> Writing is like driving a car at night. You never see further than your headlights, but you can make the whole trip that way.
-
-**Cory Doctorow**
+"Writing is like driving a car at night. You never see further than your headlights, but you can make the whole trip that way." **Cory Doctorow**
 
 > Creativity is intelligence having fun.
 
